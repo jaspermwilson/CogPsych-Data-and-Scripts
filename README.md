@@ -26,3 +26,6 @@ Other files are related to git or R environments and can be ignored.
 - *Counts_and_proportion_for_presented_primes_DURATION*:
 - *Counts_and_proportion_for_presented_primes_cutoff_DURATION*:
 - *Delayed_Recall_Correct_Count_By_Prime_DURATION*:
+- *Prime_RT_Correct_DURATION*:
+- *Prime_RT_With_Z_DURATION*:
+- *Recog_Correct_Count_By_Prime_DURATION*:
