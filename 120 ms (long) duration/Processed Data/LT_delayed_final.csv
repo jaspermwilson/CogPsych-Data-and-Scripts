@@ -1,0 +1,12 @@
+"DelayedWord","DelayedRT","Studied","StudyPosition","Block","ReportedPrimeFromDay1","Day1OutputPosition","Day1PrimeCondition","Day1Prime","Day1PrimeFor","RelatedPrimePresentedonDay1"
+"STONE",6998.98,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"STORY",1472.88,"Studied",28,2,NA,"22","Identical","LENGTH",NA,"TALE"
+"CHEESE",3883.49,"Studied",35,2,NA,"11","Unrelated","STRESS",NA,NA
+"BEACH",3462.015,"Studied",36,2,NA,"2","Identical","MONEY",NA,NA
+"CHAIRS",2100.82,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"STAIRS",2002.025,"Studied",14,2,NA,"25","Identical","OUTTAKE",NA,NA
+"JAIL",6556.485,"Studied",34,2,NA,"5","Unrelated","GUILT",NA,NA
+"MOMENT",8000.79,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"LAUGH",3332.395,NA,NA,NA,"Unrelated",NA,NA,NA,NA,NA
+"MILK",4754.08,NA,NA,NA,"Unrelated",NA,NA,NA,NA,NA
+"ENTER",4157.805,"Studied",4,1,NA,NA,NA,NA,NA,"EXIT"

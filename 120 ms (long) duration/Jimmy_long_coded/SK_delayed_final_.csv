@@ -1,0 +1,75 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+SK,KILL,3921.865,Studied,27,2,Recalled,Identical,7,Unrelated,SMART,NA,NA,identical,kill,3,2
+SK,ALIVE,1499.45,Studied,36,3,Recalled,NA,6,Related,ZEST,SOAP,NA,unrelated,,,
+SK,LEAVES,1766.36,Studied,5,4,Recalled,NA,3,Unrelated,HATE,NA,NA,unrelated,,,
+SK,GRASS,1633.61,Studied,37,4,Recalled,Identical,34,Identical,GRASS,NA,NA,identical,grass,34,4
+SK,BUCKET,1549.68,Studied,27,3,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,bucket,16,3
+SK,YELLOW,1699.645,Studied,19,1,Recalled,NA,2,Related,BROOK,STREAM,NA,unrelated,,,
+SK,SMOOTH,1583.455,Studied,29,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+SK,BEACH,1415.99,Studied,18,1,Recalled,NA,3,Related,CASH,MONEY,NA,unrelated,,,
+SK,TWELVE,1500.54,Studied,35,1,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,twelve,9,1
+SK,FIVE,1400.075,Studied,28,2,Recalled,NA,3,Identical,KILL,NA,NA,unrelated,,,
+SK,FROG,2066.48,Studied,6,2,Recalled,NA,11,Unrelated,CASTLE,NA,NA,unrelated,,,
+SK,JUMP,2785.62,Studied,10,2,Recalled,Identical,12,Unrelated,FIRE,NA,NA,identical,jump,8,2
+SK,HOOP,1534.76,Studied,41,2,Recalled,NA,10,Related,CABOOSE,TRAIN,NA,unrelated,,,
+SK,QUART,4300.845,Studied,3,4,Recalled,NA,26,Related,PINT,QUART,PINT,related,pint,26,4
+SK,PEPPER,1483.355,Studied,9,4,Recalled,NA,28,Identical,SHOVE,NA,NA,unrelated,,,
+SK,SPOON,1633.985,Studied,8,4,Recalled,NA,27,Related,GRANITE,ROCK,NA,unrelated,,,
+SK,SMILE,3167.35,Studied,31,2,Recalled,Identical,36,Identical,VERB,NA,NA,unrelated,,,
+SK,HAPPY,2022.295,Not Studied,NA,NA,Recalled,Unrelated,35,Unrelated,HAPPY,NA,NA,identical,happy,35,3
+SK,RIVER,6951.1,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK,BIRD,4083.26,Studied,3,1,Recalled,NA,8,Related,PEEL,ORANGE,NA,unrelated,,,
+SK,SHORT,2982.175,Studied,21,4,Recalled,NA,12,Unrelated,CHILD,NA,NA,unrelated,,,
+SK,UNCLE,1517.07,Studied,22,4,Recalled,NA,13,Identical,MEAN,NA,NA,unrelated,,,
+SK,FINGER,1464.94,Studied,24,4,Recalled,NA,14,Identical,FOUND,NA,HAND,related,hand,2,4
+SK,BEHIND,1450.965,Studied,25,4,Recalled,NA,16,Unrelated,MANY,NA,NA,unrelated,,,
+SK,OFFICE,1567.375,Studied,27,4,Recalled,Identical,32,Related,TIME,CLOCK,NA,identical,office,17,4
+SK,MINUTE,4401.025,Studied,28,4,Recalled,NA,10,Unrelated,DRAW,NA,NA,unrelated,,,
+SK,TIME,1033.895,Not Studied,NA,NA,Recalled,Related,29,Identical,MINUS,NA,NA,unrelated,,,
+SK,DOLLAR,1149.83,Studied,29,4,Recalled,NA,31,Unrelated,SPIT,NA,BUCK,related,buck,30,4
+SK,LENGTH,2333.555,Studied,1,1,Recalled,NA,13,Unrelated,SPOTS,NA,NA,unrelated,,,
+SK,MONEY,6139.94,Studied,2,1,Recalled,NA,14,Unrelated,TOOTH,NA,CASH,related,cash,3,1
+SK,BUILD,7086.385,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK,FIND,7334.225,Not Studied,NA,NA,Recalled,Unrelated,"19,28",Identical,SLOW,NA,NA,identical,find,23,3
+SK,LOOK,1515.73,Studied,31,3,Recalled,NA,18,Identical,BORROW,NA,NA,unrelated,,,
+SK,SEARCH,1566.185,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,find,23,3
+SK,NAVY,1449.64,Studied,12,3,NotRecalled,NA,21,Unrelated,GAME,NA,NA,unprimed,,,
+SK,SHO,8001.125,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK,SHOE,2332.85,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+SK,PAPER,5650.07,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,paper,27,2
+SK,GROW,1891.86,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK,PLANT,1349.695,Studied,30,4,Recalled,NA,2,Related,HAND,FINGER,NA,unrelated,,,
+SK,CORAL,4216.15,Studied,4,4,Recalled,NA,6,Unrelated,PLANE,NA,NA,unrelated,,,
+SK,CANCE,2283.905,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK,CANCER,1402.355,Studied,6,4,Recalled,NA,5,Unrelated,PACKAGE,NA,NA,unrelated,,,
+SK,EARLY,6985.04,Studied,7,4,Recalled,NA,4,Identical,FENCE,NA,NA,unrelated,,,
+SK,TIGER,7999.31,Studied,32,4,Recalled,NA,21,Related,AFTER,BEFORE,NA,unrelated,,,
+SK,ANIMAL,1635.69,Studied,40,4,Recalled,NA,22,Unrelated,KNIFE,NA,NA,unrelated,,,
+SK,SHARK,1298.755,Studied,34,4,Recalled,NA,23,Unrelated,SHERIFF,NA,NA,unrelated,,,
+SK,ADD,4425.675,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK,HOME,6318.96,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK,FLOWER,4253.45,Studied,10,1,Recalled,Identical,29,Identical,FLOWER,NA,NA,identical,flower,29,1
+SK,MOTHER,1469.075,Studied,18,3,Recalled,NA,12,Unrelated,SOUR,NA,FATHER,related,father,8,3
+SK,MOTIVATE,6615.705,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK,CAR,6466.64,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK,WORD,4629.175,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK,CHAIN,3484.735,Studied,3,3,Recalled,NA,5,Related,MEDIA,NEWS,NA,unrelated,,,
+SK,BRANCH,2299.255,Studied,20,3,Recalled,NA,3,Related,GUIDE,TOUR,NA,unrelated,,,
+SK,ROPE,7533.22,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK,TOE,5842.03,Studied,NA,NA,NotRecalled,NA,7,Related,COBWEB,SPIDER,NA,related,feet,23,3
+SK,RIGHT,2111.465,Studied,36,1,NotRecalled,NA,NA,NA,NA,NA,LEFT,related,left,24,1
+SK,WATER,1289.76,Not Studied,NA,NA,Recalled,Unrelated,40,Unrelated,WATER,NA,NA,identical,water,40,2
+SK,BLUE,3865.935,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK,DAGGER,4551.345,Studied,23,1,NotRecalled,NA,4,Related,SWISS,CHEESE,NA,unprimed,,,
+SK,FUNERAL,7082.965,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK,SONG,4034.92,Studied,22,1,Recalled,Identical,23,Identical,SONG,NA,NA,identical,song,23,1
+SK,SOUL,8002.81,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK,PILE,1801.495,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK,BODY,6334.12,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK,SAD,3299.225,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK,COST,6532.965,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK,PAIN,1283.85,Studied,1,3,Recalled,NA,8,Related,FATHER,MOTHER,NA,unrelated,,,
+SK,COUR,8001.86,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK,LAND,3939.865,Studied,20,2,Recalled,NA,36,Unrelated,MAD,NA,ACRE,related,acre,21,2
+SK,CALL,7995.33,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK,PHONE,4576.575,Studied,20,4,Recalled,NA,37,Related,DIAL,PHONE,DIAL,related,dial,37,1

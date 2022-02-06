@@ -1,0 +1,22 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+JB3,LARH,8001.52,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JB3,LARGE,2016.905,Studied,9,1,NotRecalled,NA,NA,NA,NA,NA,MEDIUM,related,medium,31,2
+JB3,SMALL,1600.93,Studied,14,1,Recalled,NA,"13,29",Unrelated,DEAF,NA,SHRINK,related,shrink,9,1
+JB3,LETTUCE,6567.01,Studied,29,2,Recalled,NA,27,Identical,LOSE,NA,NA,unrelated,,,
+JB3,DESSERT,1917.22,Studied,NA,NA,Recalled,NA,26,Identical,DESERT,NA,NA,identical,desert,26,2
+JB3,WEIRD,1500.635,Not Studied,NA,NA,Recalled,NA,4,Identical,SMELL,NA,NA,unrelated,,,
+JB3,LAUGH,1317.7,Studied,4,2,Recalled,NA,"6,21",Related,DISCUSS,TALK,GIGGLE,related,giggle,5,2
+JB3,HAPPY,2401.445,Studied,2,2,Recalled,NA,8,Identical,DRESS,NA,NA,unrelated,,,
+JB3,NONE,1115.89,Studied,1,2,Recalled,NA,7,Identical,HAIR,NA,NA,unrelated,,,
+JB3,CAT,6218.695,Not Studied,NA,NA,Recalled,NA,20,Related,PERMIT,ALLOW,NA,unrelated,,,
+JB3,WATER,5016.98,Studied,11,1,Recalled,NA,8,Identical,LETTER,NA,NA,unrelated,,,
+JB3,EXTENT,6065.79,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JB3,MEDIUM,4902.315,Not Studied,NA,NA,NotRecalled,Related,NA,NA,NA,NA,NA,identical,medium,32,1
+JB3,LOVE,7798.84,Studied,39,2,Recalled,NA,2,Related,ACORN,TREE,NA,unrelated,,,
+JB3,TRY,1383.17,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JB3,EXPOSE,3215.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JB3,LETTER,5432.415,Studied,38,1,Recalled,Identical,23,Related,DOZE,SLEEP,NA,identical,letter,8,1
+JB3,GHOST,5551.78,Not Studied,NA,NA,Recalled,Unrelated,17,Unrelated,GHOST,NA,NA,identical,ghost,17,1
+JB3,HOUSE,3017.56,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JB3,M,7285.025,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JB3,M,2606.52,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

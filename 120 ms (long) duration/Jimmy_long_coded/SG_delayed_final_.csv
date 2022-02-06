@@ -1,0 +1,12 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+SG,QUEEN,2214.545,Studied,16,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+SG,LION,2980.79,Not Studied,NA,NA,Recalled,Related,3,Identical,CLOSE,NA,NA,unrelated,,,
+SG,SPOON,2331.305,Studied,40,1,Recalled,NA,9,Identical,MINUS,NA,NA,unrelated,,,
+SG,OUTTAKE,4646.05,Studied,18,2,Recalled,NA,23,Related,INMATE,JAIL,INTAKE,related,intake,8,2
+SG,MUSCLE,4012.715,Studied,35,1,Recalled,NA,2,Identical,MINUTE,NA,NA,unrelated,,,
+SG,DOOR,6960.385,Studied,25,3,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,door,42,3
+SG,CLAM,4812.195,Studied,1,2,Recalled,NA,3,Related,ALTER,CHANGE,NA,unrelated,,,
+SG,BEACH,5369.275,Studied,15,2,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+SG,BUBBLES,7993.015,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SG,VINES,2488.93,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SG,POOL,4579.255,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

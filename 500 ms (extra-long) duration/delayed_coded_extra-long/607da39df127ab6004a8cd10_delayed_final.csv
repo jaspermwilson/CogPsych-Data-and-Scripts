@@ -1,0 +1,92 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+607da39df127ab6004a8cd10,TREE,3771.305,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,BLACK,1652.585,Studied,1,4,Recalled,NA,NA,NA,NA,NA,NA,firstword,,,
+607da39df127ab6004a8cd10,HOOP,2479.395,Studied,31,4,Recalled,NA,NA,NA,NA,NA,NA,identical,hoop,8,4
+607da39df127ab6004a8cd10,LAND,1600.41,Studied,34,4,Recalled,Identical,36,Identical,LAND,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,SORRY,5337.56,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,TRASH,2270.745,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,GEEK,1840.455,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,LAND,2180.685,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,LAKE,1305.62,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,JUMP,5202.225,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,DOOR,1617.95,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,hinge,7,4
+607da39df127ab6004a8cd10,ROAD,1743.17,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,FIVE,2055.77,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,four,27,4
+607da39df127ab6004a8cd10,WHEAR,1944.705,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,grain,17,4
+607da39df127ab6004a8cd10,SEEK,2333.57,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,LOOP,1695.185,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,PRESENT,1722.35,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,present,40,4
+607da39df127ab6004a8cd10,LEARN,3444.43,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,learn,11,4
+607da39df127ab6004a8cd10,KILL,4544.01,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,SMOKE,5972.73,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,smoke,22,4
+607da39df127ab6004a8cd10,PICTURE,2506.87,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,picture,30,4
+607da39df127ab6004a8cd10,LEARN,4667.55,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,learn,11,4
+607da39df127ab6004a8cd10,TRAIN,1597.075,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,caboose,23,4
+607da39df127ab6004a8cd10,FROG,1784.82,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,CAMP,1548.795,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,camp,15,4
+607da39df127ab6004a8cd10,TIGHJT,5646.71,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,POUND,1534.8,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,DEVIL,7384.275,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,demon,18,4
+607da39df127ab6004a8cd10,HOTEL,2902.815,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,DUSK,2611.375,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,dusk,37,4
+607da39df127ab6004a8cd10,CAMP,5014.725,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,camp,15,4
+607da39df127ab6004a8cd10,DIRT,1999.935,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,dirt,20,4
+607da39df127ab6004a8cd10,BIRD,3285.12,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,bird,34,3
+607da39df127ab6004a8cd10,BRIDE,1409.81,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,ROAD,2229.33,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,FLOAT,1159.84,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,HDE,3264.26,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,HIDE,923.61,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,CAM,2645.515,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,SEEN,5417.775,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,OCEAN,2312.48,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,L,7994.235,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,BELOW,2468.785,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,KILL,5862.45,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,WORLD,3777.855,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,globe,16,4
+607da39df127ab6004a8cd10,LEAP,5312.46,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,GOO,7995.09,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,GOD,1498.65,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,MOOD,6737.235,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,HOPE,6090.57,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,glory,31,3
+607da39df127ab6004a8cd10,MA,7991.33,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,MALE,3389.02,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,BOX,2361.32,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,HEAD,1375.535,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,head,36,3
+607da39df127ab6004a8cd10,MOUSE,3791.775,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,RICE,1270.815,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,FANS,2515.47,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,PEN,2159.92,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,SHOUT,5778.53,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,RIDE,3167.365,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,WRITE,1302.435,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,write,10,3
+607da39df127ab6004a8cd10,LAKE,6402.86,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,LEACE,2055.59,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,SPEAK,2285.64,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,HOOP,7988.91,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,hoop,9,4
+607da39df127ab6004a8cd10,MALE,6997.655,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,SEX,1050.765,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,WORD,2861.06,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,MAC,5695.225,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,FAT,1430.4,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,POOL,7635.775,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,ENTRY,3227.06,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,S,1891.455,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,SNAKE,3623.07,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,KOPE,3625.11,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,SPEAKER,3180.795,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,FALE,5468.185,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,SNOW,4536.835,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,WORK,2125.225,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,BOX,3347.475,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,HOTEL,6139.82,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,TRAIB,2166.72,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unpimed,,,
+607da39df127ab6004a8cd10,DEAF,2562.86,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,NOISE,1520.79,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+607da39df127ab6004a8cd10,SM,7994.205,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,SMALL,2201.33,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,WEAK,2175.47,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,LOW,3118.355,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,RICH,4937.825,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,POOR,1284.655,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+607da39df127ab6004a8cd10,FALE,2041.655,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

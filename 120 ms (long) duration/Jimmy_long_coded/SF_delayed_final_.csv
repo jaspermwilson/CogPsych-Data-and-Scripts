@@ -1,0 +1,15 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+SF,SCHOOL,3047.83,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SF,HORRIBLE,5402.37,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SF,PEN,1085.3,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SF,COLD,2746.215,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SF,PINK,1232.68,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SF,NINE,816.39,Studied,19,2,Recalled,NA,31,Unrelated,BELOW,NA,NA,unrelated,,,
+SF,CLASS,5316.57,Studied,15,1,Recalled,NA,8,Related,TENSION,STRESS,NA,unrelated,,,
+SF,STRESS,1431.245,Studied,39,1,Recalled,NA,10,Unrelated,JAIL,NA,TENSION,related,tension,8,1
+SF,SCHOOL,7983.49,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SF,HATE,4220.845,Studied,39,4,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SF,PENCIL,2164.56,Studied,5,2,Recalled,NA,4,Identical,ITCH,NA,NA,unrelated,,,
+SF,STRESS,8001.94,Studied,39,1,Recalled,NA,10,Unrelated,JAIL,NA,TENSION,related,tension,8,1
+SF,EXTREME,8000.675,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SF,SLEEP,7997.275,Studied,21,2,Recalled,Identical,38,Identical,SLEEP,NA,NA,identical,sleep,38,2

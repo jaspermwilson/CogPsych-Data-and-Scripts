@@ -1,0 +1,71 @@
+DelayedWord,DelayedRT,Studied,StudyPosition,Block,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,PrimePosition,Primeblock
+LETTUCE,8000.755,Studied,1,1,NA,1,firstword,firstword,NA,NA,firstword,,
+HAIR,7999.715,Studied,21,1,Identical,29,Identical,HAIR,NA,NA,identical,29,1
+VOLCANO,8001.175,Studied,5,1,NA,3,Related,HEATER,WARM,NA,unrelated,,
+LOSE,7999.66,Studied,29,1,Identical,13,Identical,STICKY,NA,NA,identical,7,1
+SING,7999.165,Studied,30,1,NA,14,Unrelated,VERB,NA,NA,unrelated,,
+MUSIC,8000.065,NA,NA,NA,NA,"2,26",Unrelated,WILD,NA,NA,unrelated,,
+BOARD,8001.6,Studied,25,1,NA,7,Identical,LOSE,NA,NA,unrelated,,
+CHURCH,8000.37,Studied,10,1,NA,5,Unrelated,MIDDLE,NA,NA,unrelated,,
+ROOF,8000.41,Studied,17,1,NA,6,Identical,CLEAR,NA,NA,unrelated,,
+STORE,8000.035,Studied,28,1,Identical,10,Identical,STORE,NA,NA,identical,10,1
+TREE,7999.145,Studied,13,1,NA,8,Identical,FIND,NA,NA,unrelated,,
+STREET,8000.23,Studied,14,1,NA,9,Identical,SWORD,NA,NA,unrelated,,
+DESERT,8000.98,Studied,42,1,Identical,NA,NA,NA,NA,NA,,,
+FIND,8000.805,Studied,32,1,Identical,"17,24",Unrelated,LOOK,NA,NA,unrelated,,
+SHIP,8000.145,Studied,36,1,Identical,18,Related,BIZZARE,STRANGE,NA,identical,11,1
+BABY,8001.615,Studied,20,3,NA,15,Identical,STING,NA,NA,unrelated,,
+MARRY,8000.025,Studied,29,2,NA,9,Related,ENGAGE,MARRY,ENGAGE,related,9,2
+DEATH,8000.195,Studied,30,2,NA,10,Identical,SHALLOW,NA,NA,unrelated,,
+RENT,8000.63,Studied,24,2,Identical,8,Identical,RENT,NA,NA,identical ,8,2
+PLANE,8000.89,NA,NA,NA,NA,6,Identical,RAIN,NA,NA,unrelated,,
+PACKAGE,7990.66,Studied,23,2,NA,7,Unrelated,SHOVE,NA,NA,unrelated,,
+CLOWN,7999.91,Studied,32,2,NA,12,Unrelated,SPOON,NA,NA,unrelated,,
+LETTER,8001.305,Studied,22,4,Identical,"11,35",Unrelated,PLANT,NA,NA,identical,35,4
+SCISSORS,8001.75,Studied,35,2,NA,15,Unrelated,MINUTE,NA,NA,unrelated,,
+VOTE,7999.875,Studied,16,2,NA,19,Related,BALLOT,VOTE,BALLOT,related ,19,2
+SKINNY,8000.175,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+SHALLOW,8001.41,Studied,18,2,Identical,22,Identical,SILVER,NA,NA,identical ,2,10
+BUSH,8000.025,Studied,39,2,NA,1,firstword,firstword,NA,NA,firstword,,
+PIECE,7996.415,Studied,40,2,NA,2,Related,GRAVY,POTATO,NA,unrelated,,
+,7999.28,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+SHERIFF,8013.025,Studied,5,2,NA,23,Unrelated,FOUND,NA,NA,unrelated,,
+TROLLEY,7999.58,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+STAMP,8000.325,Studied,3,2,Identical,NA,NA,NA,NA,NA,,,
+SLIDE,8000.185,Studied,4,2,Identical,26,Identical,HATE,NA,NA,identical,5,2
+,8000.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+MANY,8001.42,Studied,9,2,NA,16,Identical,SAME,NA,NA,unrelated,,
+EXACT,7999.345,Studied,10,2,NA,17,Identical,TRAILER,NA,NA,unrelated,,
+METAL,8001.135,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+,7999.98,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+BIKE,7999.345,Studied,2,3,NA,1,firstword,firstword,NA,NA,urelated,,
+M,7999.57,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+MATH,8003.43,Studied,1,3,NA,3,Related,MIND,BRAIN,NA,unrelated,,
+TURN,8000.605,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+SHEEP,7999.405,Studied,5,3,NA,6,Unrelated,DREAM,NA,NA,unrelated,,
+GRAVE,7999.995,Studied,6,3,NA,7,Related,PATIENT,DOCTOR,NA,unrelated,,
+WOOD,8001.11,Studied,12,3,NA,13,Unrelated,TWELVE,NA,NA,unrelated,,
+DOCTOR,8001.225,Studied,22,3,NA,16,Unrelated,FISH,NA,PATIENT,related,7,3
+CELL,7999.815,Studied,25,3,NA,19,Related,DAYS,NIGHTS,NA,unrelated,,
+ROSE,8000.475,Studied,11,3,NA,20,Identical,GUILT,NA,NA,unrelated,,
+SKIN,7999.51,Studied,10,3,Identical,21,Identical,SUBJECT,NA,NA,identical,2,3
+KNIT,8000.71,Studied,34,3,Identical,23,Identical,KNIT,NA,NA,identical ,23,3
+EXPLODE,8000.63,Studied,36,3,Identical,NA,NA,NA,NA,NA,,,
+ARMS,8026.16,Studied,37,3,NA,25,Related,CARESS,TOUCH,NA,unrelated,,
+MAID,7999.44,Studied,15,4,NA,8,Unrelated,POUND,NA,NA,unrelated,,
+SNEEZE,8000.605,Studied,16,4,Identical,34,Identical,SNEEZE,NA,NA,identical ,34,4
+APARTMENT,8000.16,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+FIRE,8002.53,Studied,18,4,Identical,10,Identical,SURE,NA,NA,identical ,6,4
+BALLS,8000.825,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+EFFECT,7989.755,Studied,14,4,NA,14,Identical,BOSS,NA,NA,unrelated,,
+NINE,7999.075,Studied,12,4,Identical,15,Related,HAUL,CARRY,NA,identical ,7,4
+BANK,8000.84,Studied,13,4,NA,16,Unrelated,SOUTH,NA,NA,unrelated,,
+PLAN,7997.85,Studied,4,4,NA,3,Unrelated,HOOP,NA,NA,unrelated,,
+SLEEP,8001.48,Studied,2,4,NA,2,Related,DIGNITY,PRIDE,NA,unrelated,,
+OVEN,7999.045,Studied,5,4,NA,4,Identical,SMALL,NA,NA,unrelated,,
+SOFT,8001.1,Studied,6,4,NA,5,Identical,SILK,NA,NA,unrelated,,
+SILKC,7999.485,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+CAKE,8215.96,Studied,26,4,Identical,26,Unrelated,KISS,NA,NA,unrelated,,
+BOSS,7986.84,Studied,33,4,Identical,18,Identical,ITCH,NA,NA,identical ,14,4
+ANGRY,8000.68,NA,NA,NA,NA,27,Related,SALIVA,SPIT,NA,unrelated,,
+PAPER,6602.03,Studied,35,4,NA,19,Unrelated,WORLD,NA,NA,unrelated,,

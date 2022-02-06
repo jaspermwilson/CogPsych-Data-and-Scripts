@@ -1,0 +1,13 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+RK2,TREE,5418.18,Studied,36,2,Recalled,NA,8,Related,MIGHT,MAYBE,NA,unrelated,,,
+RK2,STREET,3743.725,Studied,28,2,Recalled,NA,3,Unrelated,BUTTER,NA,NA,unrelated,,,
+RK2,PEN,3704.59,Not Studied,NA,NA,Recalled,NA,7,Related,PLIERS,TOOL,NA,unrelated,,,
+RK2,LETTUCE,2518,Studied,20,2,Recalled,NA,6,Identical,STRANGE,NA,NA,unrelated,,,
+RK2,STICKY,3142.51,Studied,26,2,Recalled,NA,4,Unrelated,BALLET,NA,NA,unrelated,,,
+RK2,HAIR,1263.245,Studied,24,2,Recalled,NA,9,Identical,COLLECT,NA,NA,unrelated,,,
+RK2,BOARD,6337.785,Studied,37,2,Recalled,NA,7,Identical,PROBLEM,NA,NA,unrelated,,,
+RK2,MUSIC,6205.54,Not Studied,NA,NA,Recalled,NA,5,Unrelated,CHAIN,NA,NA,unrelated,,,
+RK2,MATH,1539.475,Studied,2,4,Recalled,Identical,6,Related,SESSION,CLASS,NA,identical,math,5,4
+RK2,RESULT,4856.93,Not Studied,NA,NA,Recalled,NA,39,Unrelated,TEST,NA,NA,unrelated,,,
+RK2,DOTKNOW,7989.52,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+RK2,CANTREMEMBER,3318.055,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

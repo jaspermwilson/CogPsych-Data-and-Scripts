@@ -1,0 +1,5 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+RK,KILL,5028.685,Studied,12,1,Recalled,NA,7,Related,MARSH,SWAMP,NA,unrelated,,,
+RK,WINDOW,2422.995,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RK,SWEET,5447.645,Studied,1,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+RK,TREAT,4011.485,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

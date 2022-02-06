@@ -1,0 +1,96 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+5f5b64c313f9ca2931cf9917,FLASH,2496.3,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,BAN,7989.145,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,EYES,4163.37,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,MOUNTAIN,2658.975,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,KNEE,2025.2,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,HIDE,1718.61,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,seek,7,3
+5f5b64c313f9ca2931cf9917,BIG,1229.305,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,LAMP,5201.345,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,TIGER,1783.25,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,tiger,10,4
+5f5b64c313f9ca2931cf9917,WATER,5805.505,Studied,38,2,Recalled,Identical,42,Unrelated,STARS,NA,NA,identical,water,12,2
+5f5b64c313f9ca2931cf9917,TEE,6130.53,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,MOUTH,7989.49,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,MOUSE,3634.24,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,APEX,3449.835,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,PENCIL,3686.1,Studied,9,2,Recalled,NA,10,Related,GRAMMAR,ENGLISH,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,ICE,4459.04,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,PEN,1066.51,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,JUICE,4590.32,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,MONITOR,5351.19,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,CAMERA,3767.425,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,picture,41,2
+5f5b64c313f9ca2931cf9917,GLASS,6480.51,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,SOCLS,7993.115,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,FIRE,3408.505,Studied,27,2,Recalled,NA,28,Unrelated,FIVE,NA,BLAZE,related,blaze,3,2
+5f5b64c313f9ca2931cf9917,HAT,2891.555,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,JAWELLERY,5337.395,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,HAR,4561,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,COFFEE,3892.32,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,HAM,4893.915,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,JUDGE,2608.49,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,PIECE,907.05,Studied,21,4,Recalled,Identical,19,Unrelated,FOUND,NA,NA,identical,piece,11,4
+5f5b64c313f9ca2931cf9917,WORLD,1722.68,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,CAKE,1248.84,Studied,21,2,Recalled,Identical,21,Identical,BANK,NA,NA,identical,cake,18,2
+5f5b64c313f9ca2931cf9917,POD,5700.205,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,HEAD,5860.41,Studied,5,1,Recalled,NA,5,Unrelated,BIRD,NA,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,BODY,1882.885,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,PC,5532.78,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,COMPUTER,2494.14,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,LEMON,4098.625,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,KEYS,1138.53,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,CIGARETS,6571.48,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,SMOKE,2550.28,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,smoke,36,2
+5f5b64c313f9ca2931cf9917,LIPS,3230.155,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,kiss,25,2
+5f5b64c313f9ca2931cf9917,STICK,1487.705,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,GLUE,2113.665,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,sticky,18,3
+5f5b64c313f9ca2931cf9917,CUP,5264.055,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,MIC,5208.065,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,JACKET,1147.52,Studied,13,3,Recalled,NA,13,Related,CHALK,BOARD,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,DRESS,2878.24,Studied,41,3,Recalled,Identical,42,Unrelated,TEST,NA,NA,identical,dress,34,3
+5f5b64c313f9ca2931cf9917,SHOES,1379.765,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,YELLOW,6536.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,PINK,3429.12,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,PIG,2494.89,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,COW,2371.37,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,HORSSE,3713.725,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,SCISSORS,6152.125,Studied,11,4,Recalled,NA,12,Identical,THANKS,NA,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,GREY,4856.82,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,BAG,1102.795,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,RPUTE,1993.525,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,ROUTE,2841.84,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,ROUTER,1862.175,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,SWITCH,1757.355,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,DESK,3314.355,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,ABLE,5225.04,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f5b64c313f9ca2931cf9917,DRUGS,3518.985,Studied,1,4,Recalled,NA,2,Unrelated,CLOSE,NA,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,TOOL,1982.79,Studied,2,4,Recalled,NA,4,Related,PARDON,EXCUSE,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,WRONG,2928.84,Studied,3,4,Recalled,NA,3,Related,DISLIKE,HATE,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,DISSAGREE,2346.09,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,SAME,1573.755,Studied,5,4,Recalled,NA,6,Related,TARNISH,SILVER,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,SLIDE,1704.175,Studied,6,4,Recalled,NA,7,Identical,EXACT,NA,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,SPIT,2436.615,Studied,7,4,Recalled,Identical,8,Identical,SPIT,NA,NA,identical,spit,8,4
+5f5b64c313f9ca2931cf9917,PACKAGE,3611.36,Studied,8,4,Recalled,NA,9,Identical,DRAW,NA,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,KNIFE,2574.465,Studied,9,4,Recalled,NA,10,Unrelated,TIGER,NA,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,POTATO,3960.995,Studied,10,4,Recalled,NA,11,Identical,PIECE,NA,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,SCISSORS,5729.52,Studied,11,4,Recalled,NA,12,Identical,THANKS,NA,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,ECXUSE,7221.47,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,pardon,4,4
+5f5b64c313f9ca2931cf9917,DEATWSS,1354.965,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,firstword,,,
+5f5b64c313f9ca2931cf9917,CARD,4042.105,Studied,14,4,Recalled,NA,14,Related,POSTAGE,STAMP,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,RAIN,3697.305,Studied,15,4,Recalled,NA,15,Related,YOUTH,YOUNG,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,REAL,2630.58,Studied,16,4,Recalled,NA,16,Related,SEVERAL,MANY,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,STRIPE,3931.18,Studied,17,4,Recalled,NA,17,Related,THICK,THIN,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,SHALLOW,4318,Studied,18,4,Recalled,NA,18,Related,THROAT,NECK,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,PLANE,1348.14,Studied,NA,NA,Recalled,Identical,NA,NA,NA,NA,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,CLOWN,3223.08,Studied,20,4,Recalled,NA,20,Related,LEASE,RENT,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,PIECE,2429.035,Studied,21,4,Recalled,Identical,19,Unrelated,FOUND,NA,NA,identical,piece,11,4
+5f5b64c313f9ca2931cf9917,MANY,2008.74,Studied,22,4,Recalled,NA,21,Unrelated,MEAN,NA,SEVERAL,related,several,16,4
+5f5b64c313f9ca2931cf9917,YOUNG,2647.735,Studied,23,4,Recalled,NA,23,Unrelated,THERE,NA,YOUTH,related,youth,15,4
+5f5b64c313f9ca2931cf9917,SILVER,3615.195,Studied,24,4,Recalled,NA,24,Related,ENGAGE,MARRY,TARNISH,related,tarnish,6,4
+5f5b64c313f9ca2931cf9917,NECK,2328.545,Studied,25,4,Recalled,NA,25,Unrelated,WHERE,NA,THROAT,related,throat,18,4
+5f5b64c313f9ca2931cf9917,BUSH,2356.38,Studied,26,4,Recalled,NA,26,Related,HEDGE,BUSH,HEDGE,related,hedge,26,4
+5f5b64c313f9ca2931cf9917,CHILD,3258.395,Studied,27,4,Recalled,NA,27,Identical,SHERIFF,NA,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,QUIET,3846.405,Studied,28,4,Recalled,NA,28,Identical,TRAILER,NA,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,TOCK,2997.46,Studied,29,4,Recalled,NA,29,Identical,PURPOSE,NA,NA,unrelated,,,
+5f5b64c313f9ca2931cf9917,STAMP,3530.07,Studied,30,4,Recalled,NA,30,Unrelated,ENTER,NA,POSTAGE,related,postage,14,4
+5f5b64c313f9ca2931cf9917,DRAW,2613.29,Studied,31,4,Recalled,Identical,31,Related,BALLOT,VOTE,NA,identical,draw,9,4
+5f5b64c313f9ca2931cf9917,EXACT,5479.835,Studied,32,4,Recalled,Identical,32,Unrelated,SHARK,NA,NA,identical,exact,7,4

@@ -1,0 +1,77 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+AG,FOOD,3247.045,Studied,7,3,Recalled,NA,"21,41",Unrelated,SOAP,NA,NA,unrelated,,,
+AG,MONARCH,4614.8,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AG,SURE,6148.03,Studied,37,2,Recalled,NA,"5,18,38",Identical,FRONT,NA,NA,unrelated,,,
+AG,ITCH,4865.305,Studied,42,2,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+AG,SKIN,1128.095,Studied,21,1,Recalled,NA,12,Identical,MILK,NA,NA,unrelated,,,
+AG,FUNERAL,4293.815,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AG,STREET,3649.855,Studied,5,3,Recalled,NA,18,Related,BAND,MUSIC ,NA,unrelated,,,
+AG,STORE,1087.54,Studied,1,3,Recalled,NA,19,Identical,TAKE,NA,NA,unrelated,,,
+AG,BRAIN,6417.675,Studied,1,1,Recalled,NA,"10,24",Unrelated,SHEETS,NA,NA,unrelated,,,
+AG,MARRY,2833.665,Studied,5,4,Recalled,NA,21,Identical,PURPOSE,NA,NA,unrelated,,,
+AG,WRONG,932.6500001,Studied,7,4,Recalled,NA,22,Unrelated,BEHIND,NA,NA,unrelated,,,
+AG,TRAILER,998.245,Studied,6,4,Recalled,NA,20,Related,GENUINE,REAL,TRACTOR,related,tractor,18,4
+AG,CHILD,934.2200001,Studied,8,4,Recalled,Identical,10,Identical,CHILD,NA,NA,identical,child,10,4
+AG,DRAW,982.4549999,Studied,9,4,Recalled,NA,4,Unrelated,ANIMAL,NA,NA,unrelated,,,
+AG,MAD,3765.725,Studied,38,2,Recalled,NA,14,Related,HAUL,CARRY,NA,unrelated,,,
+AG,HAPPY,4951.65,Studied,17,3,NotRecalled,NA,NA,NA,NA,NA,DELIGHT,related,delight,30,3
+AG,MOVE,4132.145,Studied,7,1,Recalled,Identical,"36,38,39",Related,SKULL,HEAD,NA,identical,move,35,1
+AG,GUILT,2231.77,Studied,2,1,Recalled,NA,"7,9",Related,CITY,TOWN,NA,unrelated,,,
+AG,PROPER,4916.79,Studied,28,1,Recalled,Identical,18,Identical,SHIRT,NA,NA,identical,proper,17,1
+AG,UNDER,951.165,Studied,37,1,Recalled,NA,"19,41",Identical,PENNY,NA,NA,unrelated,,,
+AG,TIRED,6949.36,Studied,36,2,Recalled,NA,"9,16",Unrelated,MINOR,NA,NA,unrelated,,,
+AG,SMELL,2482.385,Studied,29,3,Recalled,Identical,"22,31",Unrelated,MIDDLE,NA,NA,identical,smell,14,3
+AG,FOOD,4649.615,Studied,7,3,Recalled,NA,"21,41",Unrelated,SOAP,NA,NA,unrelated,,,
+AG,TIRED,1199.21,Studied,36,2,Recalled,NA,"9,16",Unrelated,MINOR,NA,NA,unrelated,,,
+AG,MONARCH,1564.86,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AG,TRIBE,2965.03,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AG,SKIN,5600.545,Studied,21,1,Recalled,NA,12,Identical,MILK,NA,NA,unrelated,,,
+AG,ITCH,3015.285,Studied,42,2,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+AG,DEATH,2848.185,Studied,24,4,Recalled,Identical,"16,41",Identical,DEATH,NA,NA,identical,death,16,4
+AG,HAPPY,5034.69,Studied,17,3,NotRecalled,NA,NA,NA,NA,NA,DELIGHT,Related,delight,30,3
+AG,TEST,5898.805,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AG,MOVE,2427.65,Studied,7,1,Recalled,Identical,"36,38,39",Related,SKULL,HEAD,NA,identical,move,35,1
+AG,STREET,3716.51,Studied,5,3,Recalled,NA,18,Related,BAND,MUSIC ,NA,unrelated,,,
+AG,STORE,6466.825,Studied,1,3,Recalled,NA,19,Identical,TAKE,NA,NA,unrelated,,,
+AG,WISH,1665.15,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AG,NINE,1088.68,Studied,14,2,Recalled,NA,"2,19,37",Identical,CAKE,NA,NA,unrelated,,,
+AG,COPY,4831.575,Studied,41,2,Recalled,Identical,31,Identical,COPY,NA,NA,identical,copy,31,2
+AG,STEAL,1465.95,Studied,27,1,Recalled,NA,3,Unrelated,NUMBER,NA,NA,unrelated,,,
+AG,BIKE,1682.755,Studied,30,1,Recalled,NA,4,Unrelated,ORANGE,NA,NA,unrelated,,,
+AG,HAPPY,6866.97,Studied,17,3,NotRecalled,NA,NA,NA,NA,NA,DELIGHT,related,delight,30,3
+AG,MAD,766.0650001,Studied,38,2,Recalled,NA,14,Related,HAUL,CARRY,NA,unrelated,,,
+AG,TRIBE,1099.7,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AG,SD,8474.53,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AG,HAPPY,3052.755,Studied,17,3,NotRecalled,NA,NA,NA,NA,NA,DELIGHT,related,delight,30,3
+AG,MAD,1016.1,Studied,38,2,Recalled,NA,14,Related,HAUL,CARRY,NA,unrelated,,,
+AG,TIRED,3218.26,Studied,36,2,Recalled,NA,"9,16",Unrelated,MINOR,NA,NA,unrelated,,,
+AG,SAD,5324.225,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AG,BIKE,6766.175,Studied,30,1,Recalled,NA,4,Unrelated,ORANGE,NA,NA,unrelated,,,
+AG,STEAL,1297.78,Studied,27,1,Recalled,NA,3,Unrelated,NUMBER,NA,NA,unrelated,,,
+AG,SMALL,3165.59,Studied,1,2,Recalled,NA,20,Identical,GLASSES,NA,NA,unrelated,,,
+AG,LARGE,2754.455,Studied,31,2,Recalled,NA,"21,35",Identical,MONKEY,NA,NA,unrelated,,,
+AG,SAD,1981.93,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AG,MAD,6899.74,Studied,38,2,Recalled,NA,14,Related,HAUL,CARRY,NA,unrelated,,,
+AG,TIRED,1331.795,Studied,36,2,Recalled,NA,"9,16",Unrelated,MINOR,NA,NA,unrelated,,,
+AG,STREET,4215.68,Studied,5,3,Recalled,NA,18,Related,BAND,MUSIC ,NA,unrelated,,,
+AG,STORE,6598.285,Studied,1,3,Recalled,NA,19,Identical,TAKE,NA,NA,unrelated,,,
+AG,CHILD,5632.42,Studied,8,4,Recalled,Identical,10,Identical,CHILD,NA,NA,identical,child,10,4
+AG,DRAW,6906.185,Studied,9,4,Recalled,NA,4,Unrelated,ANIMAL,NA,NA,unrelated,,,
+AG,TRAILER,6281.43,Studied,6,4,Recalled,NA,20,Related,GENUINE,REAL,TRACTOR,related,tractor,18,4
+AG,WRONG,1749.77,Studied,7,4,Recalled,NA,22,Unrelated,BEHIND,NA,NA,unrelated,,,
+AG,MARRY,1399.295,Studied,5,4,Recalled,NA,21,Identical,PURPOSE,NA,NA,unrelated,,,
+AG,TIRED,5452.895,Studied,36,2,Recalled,NA,"9,16",Unrelated,MINOR,NA,NA,unrelated,,,
+AG,RENT,4430.36,Studied,12,4,Recalled,NA,8,Related,SEVERAL,MANY,NA,unrelated,,,
+AG,SMALL,6581.95,Studied,1,2,Recalled,NA,20,Identical,GLASSES,NA,NA,unrelated,,,
+AG,LARGE,1388.605,Studied,31,2,Recalled,NA,"21,35",Identical,MONKEY,NA,NA,unrelated,,,
+AG,NINE,877.735,Studied,14,2,Recalled,NA,"2,19,37",Identical,CAKE,NA,NA,unrelated,,,
+AG,COPY,1299.485,Studied,41,2,Recalled,Identical,31,Identical,COPY,NA,NA,identical,copy,31,2
+AG,STEAL,999.17,Studied,27,1,Recalled,NA,3,Unrelated,NUMBER,NA,NA,unrelated,,,
+AG,BIKE,1183.405,Studied,30,1,Recalled,NA,4,Unrelated,ORANGE,NA,NA,unrelated,,,
+AG,MAD,5097.585,Studied,38,2,Recalled,NA,14,Related,HAUL,CARRY,NA,unrelated,,,
+AG,SAD,1199.115,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AG,TIRED,2151.99,Studied,36,2,Recalled,NA,"9,16",Unrelated,MINOR,NA,NA,unrelated,,,
+AG,TIRED,2882.825,Studied,36,2,Recalled,NA,"9,16",Unrelated,MINOR,NA,NA,unrelated,,,
+AG,HAPPY,2814.54,Studied,17,3,NotRecalled,NA,NA,NA,NA,NA,DELIGHT,related,delight,30,3
+AG,MAD,750.715,Studied,38,2,Recalled,NA,14,Related,HAUL,CARRY,NA,unrelated,,,
+AG,SAD,749.82,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

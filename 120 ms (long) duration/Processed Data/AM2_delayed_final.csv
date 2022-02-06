@@ -1,0 +1,17 @@
+"DelayedWord","DelayedRT","Studied","StudyPosition","Block","ReportedPrimeFromDay1","Day1OutputPosition","Day1PrimeCondition","Day1Prime","Day1PrimeFor","RelatedPrimePresentedonDay1"
+"COPY",7988.89,"Studied",15,1,"Identical",NA,NA,NA,NA,NA
+"SMART",7998.54,"Studied",1,1,NA,"11","Unrelated","THIEF",NA,NA
+"SOUR",7998.61,"Studied",1,2,NA,"1","firstword","firstword",NA,NA
+"STICKY",7998.54,"Studied",2,2,NA,"2","Unrelated","MIDDLE",NA,NA
+"LARGE",7998.435,"Studied",22,1,NA,"7","Unrelated","HOTEL",NA,"MEDIUM"
+"SMALL",7998.65,"Studied",23,1,NA,"6","Related","MEDIUM","LARGE",NA
+"CELL",7998.35,"Studied",15,4,NA,"16","Identical","BREAD",NA,NA
+"NIGHT",17370.205,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S",7998.51,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"STRESS",7989.565,"Studied",42,4,NA,NA,NA,NA,NA,NA
+"SCISSORS",7389.625,"Studied",26,3,"Identical",NA,NA,NA,NA,NA
+"STA",8110.67,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"STAMP",7998.535,"Studied",27,3,NA,"15","Unrelated","GRASS",NA,NA
+"PACKAGE",7998.425,"Studied",29,3,"Identical","16","Related","GRAVY","POTATO",NA
+"POTATO",7998.43,"Studied",12,3,NA,"18","Unrelated","CLOSE",NA,"GRAVY"
+"VOTE",7998.555,"Studied",13,3,NA,"19","Unrelated","WHERE",NA,NA

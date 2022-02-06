@@ -1,0 +1,6 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+KY,YELLOW,5951.145,Studied,36,2,Recalled,NA,4,Related,CHOWDER,CLAM,NA,unrelated,,,
+KY,DOLLAR,4051.72,Studied,4,1,Recalled,NA,6,Unrelated,DEATH,NA,NA,unrelated,,,
+KY,EARLY,3525.4,Studied,7,1,Recalled,NA,2,Related,AFTER,BEFORE,NA,unrelated,,,
+KY,KILL,2216.41,Studied,5,3,Recalled,Identical,4,Unrelated,GAME,NA,NA,unrelated,,,
+KY,ROSE,3661.04,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,rose,25,2

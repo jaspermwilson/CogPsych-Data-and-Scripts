@@ -1,0 +1,29 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+DC2,FISH,6353.63,Studied,13,4,Recalled,NA,11,Identical,BOMB,NA,NA,unrelated,,,
+DC2,ORANGE,1483.045,Studied,18,4,Recalled,NA,7,Identical,DREAM,NA,NA,unrelated,,,
+DC2,FLOWER,1766.52,Studied,21,4,Recalled,NA,9,Unrelated,TOWN,NA,NA,unrelated,,,
+DC2,LAWYER,1304.195,Studied,28,4,Recalled,NA,10,Unrelated,STEAL,NA,NA,unrelated,,,
+DC2,CHEESE,5883.515,Studied,12,4,Recalled,NA,8,Related,PARROT,BIRD,NA,unrelated,,,
+DC2,BIRD,3581.165,Studied,3,4,Recalled,NA,17,Unrelated,STRESS,NA,PARROT,related,parrot,8,4
+DC2,NUMBERS,1966.11,Studied,NA,NA,Recalled,NA,16,Identical,SHEETS,NA,NA,unrelated,,,
+DC2,WORK,1050.16,Studied,7,4,Recalled,NA,22,Identical,CHAIR,NA,NA,unrelated,,,
+DC2,CLAM,2884.44,Studied,9,4,Recalled,NA,18,Related,SALTINE,CRACKER,CHOWDER,related,chowder,12,4
+DC2,BOMB,852.6,Studied,11,4,Recalled,Identical,24,Identical,BEACH,NA,NA,identical,bomb,11,4
+DC2,KNIFE,784.56,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+DC2,CRACKERS,1788.805,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,saltine,,
+DC2,STOP,1005.39,Studied,8,4,Recalled,NA,19,Unrelated,CLIMB,NA,NA,unrelated,,,
+DC2,HORSE,2233.62,Studied,10,3,Recalled,NA,10,Identical,SHORT,NA,NA,unrelated,,,
+DC2,TIGER,1483.22,Studied,11,3,Recalled,Identical,9,Related,MINE,YOURS,NA,identical,tiger,3,3
+DC2,CORAL,3482.86,Studied,6,3,Recalled,NA,11,Identical,FOUND,NA,NA,unrelated,,,
+DC2,FINGER,1942.365,Studied,3,3,Recalled,NA,19,Unrelated,DISAGREE,NA,NA,unrelated,,,
+DC2,CAMP,4847.48,Studied,1,1,Recalled,NA,17,Related,CABOOSE,TRAIN,TENT,related,tent,2,1
+DC2,WORLD,1803.43,Studied,4,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+DC2,SONG,4366.8,Studied,2,4,NotRecalled,NA,NA,NA,NA,NA,HYMN,related,hymn,34,4
+DC2,STRONG,1882.56,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+DC2,WAITER,4600.2,Studied,1,2,Recalled,NA,8,Unrelated,TALK,NA,NA,unrelated,,,
+DC2,KIDNAP,6366.86,Studied,3,2,Recalled,Identical,28,Identical,KIDNAP,NA,NA,identical,kidnap,28,2
+DC2,NEWS,3983.075,Studied,9,2,Recalled,NA,14,Related,TUTU,BALLET,NA,unrelated,,,
+DC2,ODDBALL,1433.54,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+DC2,STICK,3434.465,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+DC2,NOSE,1336.42,Studied,14,2,Recalled,NA,"12,17",Unrelated,ROOF,NA,NA,unrelated,,,
+DC2,EXHALE,3723.115,Not Studied,NA,NA,NotRecalled,Related,NA,NA,NA,NA,NA,identical,exhale,16,2

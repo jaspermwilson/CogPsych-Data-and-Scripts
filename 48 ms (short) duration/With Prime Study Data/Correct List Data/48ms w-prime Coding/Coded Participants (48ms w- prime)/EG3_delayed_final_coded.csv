@@ -1,0 +1,101 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+EG3,ORANGE,5832.99,Studied,6,1,Recalled,NA,16,Identical,STAIRS,NA,NA,unrelated,STAIRS,16,1
+EG3,BOMB,1116.69,Studied,4,1,Recalled,NA,17,Unrelated,STUPID,NA,ATOM,related,ATOM,4,1
+EG3,DREAM,1132.505,Studied,3,1,Recalled,Identical,15,Related,TALE,STORY,NA,identical,DREAM,10,1
+EG3,STREAM,1367.42,Studied,20,1,Recalled,NA,13,Related,SALTINE,CRACKER,NA,unrelated,SALTINE,13,1
+EG3,NEPHEW,2634.35,Studied,19,1,Recalled,NA,3,Related,INMATE,JAIL,NA,unrelated,INMATE,3,1
+EG3,YEL,7999.41,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,YELLOW,3316.325,Studied,28,1,Recalled,NA,22,Identical,SHEETS,NA,MELLOW,related,MELLOW,2,1
+EG3,SHEET,2448.6,Studied,NA,NA,Recalled,NA,21,Identical,WORK,NA,NA,unrelated,WORK,21,1
+EG3,MONEY,2865.83,Studied,21,1,Recalled,NA,14,Unrelated,MILK,NA,NA,unrelated,MILK,14,1
+EG3,LAWYER,1849.6,Studied,22,1,Recalled,NA,29,Unrelated,BRAIN,NA,NA,unrelated,BRAIN,29,1
+EG3,NICKLE,1284.92,Studied,NA,NA,NotRecalled,NA,1,firstword,firstword,NA,NA,identical,NICKEL,24,1
+EG3,PICKLE,1350.7,Studied,2,1,Recalled,NA,2,Related,MELLOW,YELLOW,NA,unrelated,MELLOW,2,1
+EG3,DAGGER,2184.39,Studied,34,1,Recalled,NA,5,Identical,BIRD,NA,NA,unrelated,BIRD,5,1
+EG3,FRIGHT,1399.565,Studied,38,1,Recalled,NA,11,Identical,WEST,NA,NA,unrelated,WEST,11,1
+EG3,TWELVE,1616.65,Studied,37,1,Recalled,NA,6,Related,DIGIT,NUMBER,NA,unrelated,DIGIT,6,1
+EG3,CHAIR,4400.04,Studied,36,1,Recalled,NA,4,Related,ATOM,BOMB,NA,unrelated,ATOM,4,1
+EG3,,7998.585,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,,7999.65,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,ROAD,1682.945,Studied,2,2,Recalled,NA,2,Identical,LAKE,NA,NA,unrelated,LAKE,2,2
+EG3,BRIDE,1332.95,Studied,37,2,Recalled,NA,27,Related,ABDOMEN,STOMACH,NA,unrelated,ABDOMEN,27,2
+EG3,LAKE,1167.435,Studied,38,2,Recalled,Identical,28,Identical,BLACK,NA,NA,identical,LAKE,2,2
+EG3,GEEK,1348.93,Studied,11,2,NotRecalled,NA,NA,NA,NA,NA,NERD,related,NERD,26,2
+EG3,,8000.42,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,,7999.5,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,WORLD,1749.975,Studied,9,2,Recalled,NA,7,Related,CIGAR,SMOKE,NA,unrelated,CIGAR,7,2
+EG3,SHOE,3133.415,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,FIVE,8,2
+EG3,SHOES,1381.75,Studied,10,2,Recalled,NA,8,Identical,FIVE,NA,NA,unrelated,FIVE,8,2
+EG3,KILL,4633.295,Studied,15,2,Recalled,NA,"10,31",Unrelated,MINIMUM,NA,NA,unrelated,LINK,31,3
+EG3,,7999.56,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,,7998.84,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,JUMP,1766.355,Studied,18,2,Recalled,NA,12,Related,GARBAGE,TRASH,NA,unrelated,GARBAGE,12,2
+EG3,FROG,2349.955,Studied,3,2,Recalled,NA,3,Unrelated,PLAN,NA,NA,unrelated,PLAN,3,2
+EG3,HOOP,1399.5,Studied,6,2,Recalled,NA,6,Related,TENT,CAMP,NA,unrelated,TENT,6,2
+EG3,DEVIL,1367.975,Studied,24,2,NotRecalled,NA,NA,NA,NA,NA,DEMON,related,DEMON,31,2
+EG3,BELOW,1116.705,Studied,8,2,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,BELOW,34,2
+EG3,,7999.65,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,TRAIN,4416.95,Studied,21,2,Recalled,NA,"14,42",Unrelated,CASTLE,NA,NA,unrelated,PRIDE,42,2
+EG3,SWAMP,2965.26,Studied,35,2,Recalled,Identical,38,Unrelated,FINISH,NA,NA,identical,SWAMP,21,2
+EG3,BELOW,1366.115,Studied,8,2,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,BELOW,34,2
+EG3,SMILE,2617.855,Studied,36,2,Recalled,NA,26,Related,NERD,GEEK,NA,unrelated,NERD,26,2
+EG3,SORRY,3899.415,Studied,39,2,Recalled,Identical,"31,36",Related,DEMON,DEVIL,NA,identical,SORRY,29,2
+EG3,GHOST,1666.21,Studied,28,2,Recalled,NA,18,Unrelated,BOSS,NA,NA,unrelated,BOSS,18,2
+EG3,FENCE,4182.41,Studied,11,4,Recalled,NA,5,Unrelated,CLOWN,NA,NA,unrelated,CLOWN,5,4
+EG3,CORAL,3049.185,Studied,3,4,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,CORAL,32,4
+EG3,TEETH,1424.195,Studied,6,4,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,TEETH,14,4
+EG3,LEAVES,2029.735,Studied,22,4,Recalled,NA,17,Related,EXIT,ENTER,RAKE,related,RAKE,15,4
+EG3,LEAF,5274.44,Studied,NA,NA,Recalled,NA,16,Identical,DOLLAR,NA,NA,related,RAKE,15,4
+EG3,QUEEN,7266.265,Studied,16,4,Recalled,NA,10,Unrelated,TOCK,NA,NA,unrelated,TOCK,10,4
+EG3,HORSE,1015.47,Studied,19,4,Recalled,NA,13,Unrelated,EXCUSE,NA,NA,unrelated,EXCUSE,13,4
+EG3,SHARK,1084.255,Studied,20,4,Recalled,NA,14,Identical,TEETH,NA,NA,unrelated,TEETH,14,4
+EG3,TIGER,1433.11,Studied,12,4,Recalled,NA,6,Related,MINE,YOURS,NA,unrelated,MINE,6,4
+EG3,PLANT,1300.195,Studied,39,4,NotRecalled,NA,NA,NA,NA,NA,SEED,related,SEED,35,4
+EG3,ROCK,2899.955,Studied,42,4,Recalled,Identical,31,Unrelated,DRUGS,NA,NA,identical,ROCK,19,4
+EG3,SHOVE,1163.035,Studied,32,4,Recalled,Identical,28,Related,HERE,THERE,NA,identical,SHOVE,11,4
+EG3,OFFICE,3106.65,Studied,30,4,Recalled,NA,24,Identical,BEFORE,NA,NA,unrelated,BEFORE,24,4
+EG3,WORK,1815.55,Studied,24,1,Recalled,Identical,24,Identical,NICKEL,NA,NA,identical,WORK,21,1
+EG3,PEPPER,6559.75,Studied,4,4,Recalled,NA,20,Related,TALL,SHORT,SALT,related,SALT,3,4
+EG3,LEMON,1990.325,Studied,15,4,Recalled,NA,9,Identical,MINUTE,NA,NA,unrelated,MINUTE,9,4
+EG3,YOURS,2079.18,Studied,27,4,Recalled,NA,22,Unrelated,PACKAGE,NA,MINE,related,MINE,6,4
+EG3,NOSE,6966.635,Studied,4,3,Recalled,NA,4,Identical,ALIVE,NA,NA,unrelated,ALIVE,4,3
+EG3,CLUE,2380.535,Studied,5,3,Recalled,NA,34,Unrelated,LAUGH,NA,NA,unrelated,LAUGH,34,3
+EG3,HUNGRY,1416.26,Studied,NA,NA,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+EG3,TENNIS,1554.26,Studied,6,3,Recalled,NA,5,Identical,BUCKET,NA,NA,unrelated,BUCKET,5,3
+EG3,,8007.115,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,WAITER,3149,Studied,12,3,Recalled,NA,9,Identical,SOAP,NA,NA,unrelated,SOAP,9,3
+EG3,TOUR,1040.115,Studied,7,3,Recalled,NA,6,Unrelated,CHURCH,NA,NA,unrelated,CHURCH,6,3
+EG3,THIRST,4312.37,Studied,27,3,Recalled,NA,14,Related,HURT,PAIN,NA,unrelated,HURT,14,3
+EG3,BUCKET,2301.87,Studied,21,3,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,BUCKET,5,3
+EG3,MIDDLE,1256.93,Studied,18,3,NotRecalled,NA,NA,NA,NA,NA,CENTER,related,CENTER,23,3
+EG3,READ,1347.705,Studied,38,3,NotRecalled,NA,NA,NA,NA,NA,BOOK,related,BOOK,33,3
+EG3,CANDLE,2030.885,Studied,11,3,Recalled,NA,8,Identical,MOTHER,NA,NA,unrelated,MOTHER,8,3
+EG3,THREAD,1218.03,Studied,25,3,Recalled,NA,12,Unrelated,DESERT,NA,NA,unrelated,DESERT,12,3
+EG3,CHAIN,7366.37,Studied,23,3,Recalled,NA,NA,NA,NA,NA,LINK,unrelated,LESS,11,3
+EG3,SPIDER,2859.655,Studied,33,3,Recalled,NA,20,Related,PEANUT,BUTTER,NA,unrelated,PEANUT,20,3
+EG3,INHALE,3271.43,Studied,32,3,NotRecalled,NA,NA,NA,NA,NA,EXHALE,related,EXHALE,37,3
+EG3,,8008.59,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,BALLET,1239.72,Studied,39,3,Recalled,NA,27,Related,CIRCLE,SQUARE,TUTU,related,TUTU,15,3
+EG3,NAVY,1310.895,Studied,31,3,Recalled,NA,18,Unrelated,STREET,NA,NA,unrelated,STREET,18,3
+EG3,,8007.145,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,,8007.685,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,,8000.65,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,,7997.495,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,ANIMAL,1866.22,Studied,37,4,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,ANIMAL,23,4
+EG3,UNCLE,6066.94,Studied,21,4,Recalled,NA,15,Related,RAKE,LEAVES,AUNT,related,AUNT,2,4
+EG3,,7998.16,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,,7999.85,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,,7998.95,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,LAWYER,4999.08,Studied,22,1,Recalled,NA,29,Unrelated,BRAIN,NA,NA,unrelated,BRAIN,29,1
+EG3,FISH,7016.64,Studied,40,1,Recalled,NA,7,Related,HYMN,SONG,NA,unrelated,HYMN,7,1
+EG3,CLAM,1315.31,Studied,41,1,Recalled,NA,8,Unrelated,TOWN,NA,NA,unrelated,TOWN,8,1
+EG3,BEACH,1350.265,Studied,42,1,Recalled,NA,42,Unrelated,ROSE,NA,SAND,related,SAND,35,1
+EG3,STAIRS,3450.495,Studied,8,1,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,STAIRS,16,1
+EG3,FLOWER,1349.905,Studied,39,1,Recalled,NA,12,Related,BUYER,SELLER,NA,unrelated,BUYER,12,1
+EG3,,8000.985,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,,7999.385,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,,7999.79,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,,7999.83,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,,8000.15,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,,8000.08,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG3,,7998.555,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

@@ -1,0 +1,101 @@
+DelayedWord,DelayedRT,Studied,StudyPosition,Block,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,PrimePosition,PrimeBlock
+MOTHER,6165.935,Studied,36,1,Identical,7,Related,CIRCLE,SQUARE,NA,identical,4,1
+UNCLE,949.27,Studied,41,2,NA,17,Unrelated,STRIPE,NA,AUNT,related ,16,2
+OFFICE,3134.14,Studied,1,2,NA,4,Unrelated,SLIDE,NA,NA,unrelated,,
+PHONE,1147.74,Studied,6,2,Identical,27,Identical,PEPPER,NA,NA,identical,19,2
+THROW,5517.105,Studied,3,2,Identical,26,Identical,THROW,NA,NA,identical,26,2
+PURPLE,2145.9,Studied,2,1,NA,1,firstword,firstword,NA,NA,firstword,,
+NAVY,782.6,Studied,29,1,NA,30,Unrelated,LETTUCE,NA,ARMY,related ,26,1
+FLOWER,736.84,Studied,1,3,NA,NA,NA,NA,NA,TULIP,,,
+TREE,931.835,NA,NA,NA,Unrelated,NA,NA,NA,NA,NA,,,
+LEAVE,769.655,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+BRANCH,884.9,Studied,41,1,NA,18,Related,PEANUT,BUTTER,NA,unrelated,,
+TIGER,3103.605,Studied,11,2,NA,35,Unrelated,WRONG,NA,LION,related ,34,2
+LION,1016.93,NA,NA,NA,Related,NA,NA,NA,NA,NA,,,
+HORSE,4035.87,Studied,26,2,NA,"19,29",Identical,PHONE,NA,NA,unrelated,,
+FISH,780.935,Studied,12,3,Identical,NA,NA,NA,NA,NA,,,
+CANCER,1508.775,Studied,29,2,Identical,40,Unrelated,CHILD,NA,NA,identical,28,2
+KILL,1947.34,Studied,41,4,Identical,17,Identical,KILL,NA,NA,identical,17,4
+DAGGER,1690.78,Studied,9,3,NA,32,Unrelated,PENNY,NA,CLOAK,related ,27,3
+JAIL,830.51,Studied,3,3,NA,1,firstword,firstword,NA,NA,firstword,,
+LAWYER,3850.175,Studied,11,3,NA,28,Related,JUDGE,LAWYER,JUDGE,related ,28,3
+,8001.135,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+LAMP,3418.585,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+,8000.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+BALL,5166.715,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+JAIL,6970.94,Studied,3,3,NA,1,firstword,firstword,NA,NA,firstword,,
+MONEY,1083.36,Studied,7,3,NA,2,Related,IMAGINE,DREAM,NA,unrelated,,
+,8002.38,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+CHILD,5601.91,NA,NA,NA,Unrelated,16,Unrelated,PENCIL,NA,NA,unrelated,,
+,8015.76,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+DESK,1781.83,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+EARLY,2287.03,Studied,4,2,NA,8,Identical,CLOCK,NA,NA,unrelated,,
+CLOCK,990.33,Studied,8,2,Identical,9,Identical,GIRLS,NA,NA,identical,8,2
+BIRD,865.285,Studied,16,3,NA,"37,17",Related,PINT,QUART,NA,unrelated,,
+,8000.96,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+,8000.385,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+BRIDE,6123.39,Studied,22,4,NA,19,Identical,FROG,NA,NA,unrelated,,
+,7999.095,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+,7996.305,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+,7999.58,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+SPOONM,7402.37,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+SPOON,1422.095,Studied,25,2,NA,24,Identical,ENTER,NA,FORK,related ,22,2
+,8000.835,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+CRY,4454.36,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+OUTTAKE,5594.85,Studied,24,3,Identical,16,Identical,FRIGHT,NA,NA,identical,3,3
+,7988.215,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+,7991.32,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+,8003.77,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+CIRCLE,5361.125,NA,NA,NA,Related,NA,NA,NA,NA,NA,,,
+SQUARE,1545.015,Studied,22,1,NA,24,Identical,PAIN,NA,CIRCLE,related ,7,1
+NOSE,6211.74,Studied,1,1,NA,2,Unrelated,LAUGH,NA,NA,unrelated,,
+LIPS,4749.32,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+KISS,870.255,Studied,15,4,Identical,35,Unrelated,TIRED,NA,NA,identical,34,4
+,7988.215,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+WORDS,3838.38,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+BOOKS,2686.94,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+BEFORE,7734.795,Studied,34,2,NA,7,Related,PUSH,SHOVE,NA,unrelated,,
+BEHIND,5016.06,Studied,20,2,NA,5,Unrelated,NECK,NA,NA,unrelated,,
+BELOW,4529.175,Studied,5,4,NA,NA,NA,NA,NA,ABOVE,,,
+FENCE,3772.245,Studied,22,2,Identical,38,Identical,FENCE,NA,NA,identical,38,2
+HOLE,3397.695,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+,8000.53,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+SHEETS,1056.975,Studied,19,3,NA,38,Related,LINEN,SHEETS,LINEN,related ,38,3
+DREAM,2547.21,Studied,37,3,NA,39,Unrelated,STUPID,NA,IMAGINE,related ,2,3
+,7989.28,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+,8065.51,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+,8003.335,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+,8004.305,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+YELLOW,4334.33,Studied,20,3,NA,11,Related,SWISS,CHEESE,NA,unrelated,,
+,7999.855,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+FLOWER,1034.43,Studied,1,3,NA,NA,NA,NA,NA,TULIP,,,
+GARDEN,1988.935,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+GRASS,6752.435,Studied,24,2,NA,13,Identical,QUEEN,NA,WEED,related ,3,2
+,7998.28,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+ROAD,3934.17,Studied,35,4,Identical,24,Identical,ROAD,NA,NA,identical,24,4
+,7989.355,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+TEETH,6856.775,Studied,21,2,NA,"23,30",Related,REEF,CORAL,NA,unrelated,,
+SMILE,2153.015,Studied,9,4,NA,31,Unrelated,PLAN,NA,NA,unrelated,,
+,8001.775,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+TOES,3685.405,Studied,3,1,NA,3,Related,CENTER,MIDDLE,NA,unrelated,,
+,8000.775,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+,8000.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+,8000.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+,8001.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+WAIT,6574.955,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+,8008.695,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+BORED,2651.135,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+JUMP,6401.37,Studied,8,4,NA,4,Unrelated,MAID,NA,NA,unrelated,,
+FROG,5173.505,Studied,33,4,Identical,20,Unrelated,JEANS,NA,NA,identical,19,4
+,8002.615,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+,8002.76,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+CHANGE,6985.6,Studied,21,3,NA,4,Identical,STORY,NA,NA,unrelated,,
+,7998.39,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+,8000.355,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+CRANE,5536.845,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+WORST,6065.88,Studied,38,2,NA,36,Unrelated,TRAILER,NA,BEST,unrelated,,
+GOOD,827.545,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+WRONG,3286.035,NA,NA,NA,Unrelated,NA,NA,NA,NA,NA,,,
+HEAD,2029.675,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+,8000.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,
+BOX,7885.93,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,

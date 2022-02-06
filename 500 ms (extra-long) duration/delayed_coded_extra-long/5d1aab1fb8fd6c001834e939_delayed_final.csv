@@ -1,0 +1,20 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+5d1aab1fb8fd6c001834e939,SPIDER,6265.705,Studied,11,2,Recalled,NA,3,Identical,SQUARE,NA,NA,unrelated,,,
+5d1aab1fb8fd6c001834e939,BELOW,3032.88,Studied,6,1,Recalled,NA,20,Unrelated,PENCIL,NA,NA,unrelated,,,
+5d1aab1fb8fd6c001834e939,BALL,7999.18,Not Studied,NA,NA,Recalled,Unrelated,36,Unrelated,BALL,NA,NA,identical,ball,36,1
+5d1aab1fb8fd6c001834e939,TRAIN,5882.285,Studied,16,1,Recalled,NA,12,Unrelated,SMART,NA,NA,unrelated,,,
+5d1aab1fb8fd6c001834e939,POUND,7715.695,Studied,7,1,Recalled,NA,8,Identical,DOOR,NA,NA,unrelated,,,
+5d1aab1fb8fd6c001834e939,FIVE,1165.97,Studied,8,1,Recalled,NA,7,Identical,LEARN,NA,NA,unrelated,,,
+5d1aab1fb8fd6c001834e939,THIEF,4866.585,Studied,36,1,Recalled,Identical,41,Identical,THIEF,NA,NA,identical,thief,41,1
+5d1aab1fb8fd6c001834e939,NIGHT,7449.44,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5d1aab1fb8fd6c001834e939,MOTHER,7999.98,Studied,26,2,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,mother,26,2
+5d1aab1fb8fd6c001834e939,GRANDMA,7999.46,Not Studied,NA,NA,Recalled,NA,18,Unrelated,ENGLISH,NA,NA,unrelated,,,
+5d1aab1fb8fd6c001834e939,HIGHER,7982.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5d1aab1fb8fd6c001834e939,STARS,1866.05,Studied,3,1,Recalled,NA,6,Unrelated,MAD,NA,NA,unrelated,,,
+5d1aab1fb8fd6c001834e939,RISK,6565.605,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5d1aab1fb8fd6c001834e939,PRINCESS,2869.78,Not Studied,NA,NA,Recalled,NA,4,Identical,DEAF,NA,NA,unrelated,,,
+5d1aab1fb8fd6c001834e939,SHIFT,8004.515,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,move,40,4
+5d1aab1fb8fd6c001834e939,COMPANY,3916.09,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5d1aab1fb8fd6c001834e939,DEATH,7098.87,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5d1aab1fb8fd6c001834e939,KEY,1832.47,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5d1aab1fb8fd6c001834e939,POCKET,2608.92,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

@@ -1,0 +1,36 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+LL,MAID,2233.805,Studied,1,1,Recalled,NA,2,Unrelated,CAMP,NA,NA,unrelated,,,
+LL,NINE,3702.52,Studied,2,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+LL,JEANS,2450.55,Studied,4,1,Recalled,NA,3,Identical,SURE,NA,NA,unrelated,,,
+LL,ITCHY,3217.945,Not Studied,NA,NA,Recalled,NA,4,Related,SHRINK,SMALL,NA,unrelated,,,
+LL,SOFT,2417.88,Studied,22,1,Recalled,NA,26,Identical,FRONT,NA,NA,unrelated,,,
+LL,SILK,1718.5,Studied,23,1,Recalled,NA,25,Identical,WANT,NA,NA,unrelated,,,
+LL,CASTLE,5025.545,Studied,25,1,Recalled,NA,18,Related,MANAGER,BOSS,NA,unrelated,,,
+LL,BOSS,1499.935,Studied,36,1,Recalled,NA,19,Related,HERB,SPICE,MANAGER,related,manager,18,1
+LL,LETTER,5549.49,Studied,16,1,Recalled,NA,10,Related,HAUL,CARRY,NA,unrelated,,,
+LL,PENCIL,2299.57,Studied,9,1,Recalled,NA,"9,20",Unrelated,DUSK,NA,NA,unrelated,,,
+LL,PAPER,2501.765,Studied,34,1,Recalled,NA,22,Related,DIGNITY,PRIDE,MARGIN,related,margin,5,1
+LL,STRANGE,6784.575,Studied,12,2,Recalled,NA,16,Related,MIGHT,MAYBE,NA,unrelated,,,
+LL,LAUGH,3917.95,Studied,18,2,Recalled,NA,5,Unrelated,MOST,NA,NA,unrelated,,,
+LL,LOVE,2706.68,Studied,22,2,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+LL,TALK,1033.73,Studied,17,2,Recalled,NA,7,Related,SEIZE,TAKE,NA,unrelated,,,
+LL,MUSIC,4918.42,Studied,NA,NA,Recalled,Identical,31,Identical,MUSIC,NA,NA,identical,music,31,2
+LL,UNNER,7991.34,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+LL,UNDER,3300.735,Studied,1,4,Recalled,NA,6,Unrelated,ORANGE,NA,NA,unrelated,,,
+LL,TOWN,2449.48,Studied,2,4,Recalled,Identical,7,Identical,ROSE,NA,NA,identical,town,5,4
+LL,BABY,1870.895,Studied,4,4,Recalled,NA,8,Related,CAVITY,TOOTH,NA,unrelated,,,
+LL,SHALLOW,6755.445,Studied,4,3,Recalled,NA,24,Unrelated,FINGER,NA,NA,unrelated,,,
+LL,RAIN,3917.43,Studied,1,3,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+LL,DOCTOR,8000.305,Studied,42,4,Recalled,NA,5,Identical,TOWN,NA,NA,unrelated,,,
+LL,SILK,2535.285,Studied,23,1,Recalled,NA,25,Identical,WANT,NA,NA,unrelated,,,
+LL,PAPER,6626.81,Studied,34,1,Recalled,NA,22,Related,DIGNITY,PRIDE,MARGIN,related,margin,5,1
+LL,MILK,4766.99,Studied,19,4,Recalled,NA,10,Identical,SELF,NA,NA,unrelated,,,
+LL,POTATO,5970.52,Studied,11,3,Recalled,NA,6,Identical,WRONG,NA,NA,unrelated,,,
+LL,PURPOSE,3651.095,Studied,10,3,Recalled,NA,9,Related,LEASE,RENT,NA,unrelated,,,
+LL,CARD,1902.65,Studied,13,3,Recalled,NA,13,Identical,PIECE,NA,NA,unrelated,,,
+LL,HATE,2100.49,Studied,14,3,Recalled,NA,10,Unrelated,FOUND,NA,NA,unrelated,,,
+LL,ANN,8010.875,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+LL,ANNOY,2666.975,Studied,23,3,Recalled,NA,11,Identical,STRIPE,NA,NA,unrelated,,,
+LL,LIGHT,6250.43,Studied,37,4,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+LL,DEATH,6925.4,Studied,35,3,Recalled,NA,20,Unrelated,WHERE,NA,NA,unrelated,,,
+LL,GRAVE,1549.975,Studied,31,4,Recalled,NA,12,Related,TOPIC,SUBJECT,NA,unrelated,,,

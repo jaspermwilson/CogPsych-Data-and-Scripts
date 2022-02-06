@@ -1,0 +1,37 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+60bbcb77f4ece1a3142b98c1,SHIP,6860.535,Studied,6,3,Recalled,Identical,32,Unrelated,FIRST,NA,NA,identical,ship,11,3
+60bbcb77f4ece1a3142b98c1,DOCTOR,5029.035,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbcb77f4ece1a3142b98c1,DESERT,3879.2,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbcb77f4ece1a3142b98c1,WARM,2814.37,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,urelated,,,
+60bbcb77f4ece1a3142b98c1,KNIFE,5079.465,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbcb77f4ece1a3142b98c1,FUNERAL,5895.245,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,uprimed,,,
+60bbcb77f4ece1a3142b98c1,BELOW,1847.63,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,uprimed,,,
+60bbcb77f4ece1a3142b98c1,UNDER,3730.285,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,under,42,1
+60bbcb77f4ece1a3142b98c1,LETTER,3696.48,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbcb77f4ece1a3142b98c1,BANKER,7995.025,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbcb77f4ece1a3142b98c1,MAID,5978.415,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbcb77f4ece1a3142b98c1,EXPLOSION,6827.065,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbcb77f4ece1a3142b98c1,NINE,6962.375,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,eight,39,2
+60bbcb77f4ece1a3142b98c1,PLANE,6843.965,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,plane,22,4
+60bbcb77f4ece1a3142b98c1,VOLCANO,4745.065,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbcb77f4ece1a3142b98c1,SWORD,2963.795,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,sword,8,3
+60bbcb77f4ece1a3142b98c1,MAGIC,2664.07,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbcb77f4ece1a3142b98c1,SCL,7994.425,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbcb77f4ece1a3142b98c1,SLICE,2330.45,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbcb77f4ece1a3142b98c1,HAIR,3617.07,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,hair,9,3
+60bbcb77f4ece1a3142b98c1,TEEYTH,7681.16,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbcb77f4ece1a3142b98c1,TEETH,5216.6,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbcb77f4ece1a3142b98c1,ARM,1369.62,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbcb77f4ece1a3142b98c1,PALM,4301.16,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbcb77f4ece1a3142b98c1,RULER,2185.445,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbcb77f4ece1a3142b98c1,COLONY,4683.42,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbcb77f4ece1a3142b98c1,TOWN,4166.57,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,city,13,1
+60bbcb77f4ece1a3142b98c1,HILL,3301.315,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbcb77f4ece1a3142b98c1,STREET,7698.145,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,street,19,3
+60bbcb77f4ece1a3142b98c1,FRONT,3551.06,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbcb77f4ece1a3142b98c1,TALL,5911.205,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbcb77f4ece1a3142b98c1,CAPTAIN,3979.25,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,ship,32,3
+60bbcb77f4ece1a3142b98c1,SKIN,7045.325,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,graft,25,1
+60bbcb77f4ece1a3142b98c1,MAP,4246.305,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbcb77f4ece1a3142b98c1,SOUL,1366.005,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbcb77f4ece1a3142b98c1,PLEAD,4967.11,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

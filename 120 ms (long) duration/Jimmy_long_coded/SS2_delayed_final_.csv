@@ -1,0 +1,18 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+SS2,FINGER,4333.695,Studied,40,1,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,finger,26,1
+SS2,PLANT,735.185,Studied,35,1,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,plant,33,1
+SS2,UNCLE,1182.84,Studied,34,1,NotRecalled,NA,NA,NA,NA,NA,AUNT,related,aunt,16,1
+SS2,MOM,1686.65,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SS2,SPOON,5501.995,Studied,27,1,NotRecalled,NA,NA,NA,NA,NA,FORK,related,fork,22,1
+SS2,TIGER,4764.665,Studied,18,1,Recalled,NA,9,Unrelated,PURPOSE,NA,NA,unrelated,,,
+SS2,SHARK,933.1,Studied,20,1,Recalled,NA,10,Unrelated,MANY,NA,NA,unrelated,,,
+SS2,CAMP,2016.24,Studied,2,3,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+SS2,FIRE,583.425,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SS2,DIRT,2816.095,Studied,22,3,Recalled,NA,7,Related,OUNCE,POUND,NA,unrelated,,,
+SS2,GHOST,1385.35,Studied,40,3,Recalled,NA,25,Unrelated,MAD,NA,GHOUL,related,ghoul,11,3
+SS2,QUEEN,2201.25,Studied,15,1,Recalled,NA,8,Identical,FENCE,NA,NA,unrelated,,,
+SS2,BEACH,7066.925,Studied,4,2,NotRecalled,NA,NA,NA,NA,NA,SAND,related,sand,36,2
+SS2,TWELVE,7999.655,Studied,33,2,Recalled,Identical,24,Related,DILL,PICKLE,NA,identical,twelve,23,2
+SS2,SMILE,5634.9,Studied,12,3,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,smile,28,3
+SS2,GHOST,5583.715,Studied,40,3,Recalled,NA,25,Unrelated,MAD,NA,GHOUL,related,ghoul,11,3
+SS2,SWAMP,783.385,Studied,41,3,Recalled,NA,11,Related,GHOUL,GHOST,NA,unrelated,,,

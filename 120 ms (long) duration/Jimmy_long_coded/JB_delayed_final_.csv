@@ -1,0 +1,61 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+JB,SPOON,8001.23,Studied,25,2,Recalled,NA,20,Related,TUMOR,CANCER,NA,unrelated,,,
+JB,OFFICE,6517.175,Studied,16,2,Recalled,Identical,21,Identical,EARLY,NA,NA,identical,office,12,2
+JB,MEAN,5267.005,Studied,21,2,Recalled,NA,18,Identical,CLOSE,NA,NA,unrelated,,,
+JB,QUEEN,2299.95,Studied,19,2,Recalled,NA,4,Related,WEED,GRASS,NA,unrelated,,,
+JB,NAVY,2282.78,Studied,28,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+JB,HONEY,2767.185,Not Studied,NA,NA,NotRecalled,Related,NA,NA,NA,NA,NA,identical,honey,28,4
+JB,PICKLES,3917.285,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,pickle,6,3
+JB,GROSS,2116.8,Studied,12,3,Recalled,Identical,17,Identical,GROSS,NA,NA,identical,gross,17,3
+JB,BOAT,1215.14,Not Studied,NA,NA,Recalled,NA,36,Unrelated,NONE,NA,NA,unrelated,,,
+JB,FENCE,2600.105,Studied,39,2,Recalled,Identical,23,Related,GUMS,TEETH,NA,identical,fence,7,2
+JB,BEFORE,1882.46,Studied,6,2,Recalled,NA,25,Related,PUSH,SHOVE,NA,unrelated,,,
+JB,WHERE,2035.04,Studied,5,2,Recalled,NA,2,Related,RAKE,LEAVES,NA,unrelated,,,
+JB,THERE,1082.85,Studied,41,2,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+JB,EARLY,1299.965,Studied,1,2,Recalled,Identical,24,Identical,ENTER,NA,NA,identical,early,21,2
+JB,PHONE,3184.215,Studied,10,2,Recalled,NA,"15,35",Unrelated,SAME,NA,DIAL,identical,dial,6,2
+JB,SHORT,4167.745,Studied,22,2,Recalled,NA,16,Related,PLUS,MINUS,TALL,related,tall,13,2
+JB,SHARK,2433.935,Studied,13,2,Recalled,NA,10,Related,LOST,FOUND,NA,unrelated,,,
+JB,TIGER,1867.85,Studied,18,2,Recalled,NA,9,Unrelated,CHILD,NA,NA,unrelated,,,
+JB,GRASS,3651.065,Studied,33,2,Recalled,NA,28,Unrelated,DRAW,NA,WEED,related,weed,4,2
+JB,FIRE,882.6299999,Not Studied,NA,NA,Recalled,NA,34,Unrelated,OVEN,NA,NA,unrelated,,,
+JB,SMOKE,1199.595,Studied,10,4,Recalled,NA,16,Identical,STOMACH,NA,NA,unrelated,,,
+JB,KISS,1382.765,Studied,12,4,Recalled,NA,3,Identical,NOISE,NA,NA,unrelated,,,
+JB,SWAMP,2734.41,Studied,17,4,Recalled,Identical,37,Related,SLAY,KILL,NA,identical,swamp,17,4
+JB,LAKE,4416.195,Studied,8,4,Recalled,NA,35,Unrelated,ITCH,NA,NA,unrelated,,,
+JB,SWEET,3717.11,Studied,6,4,Recalled,NA,28,Related,HONEY,SWEET,HONEY,related,honey,28,4
+JB,DEVIL,5832.765,Studied,2,4,Recalled,NA,15,Unrelated,SPICE,NA,NA,unrelated,,,
+JB,KIDNAPER,2816.555,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+JB,CLOSE,7466.565,Studied,24,2,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,close,18,2
+JB,HOOP,5916.25,Studied,34,4,Recalled,NA,8,Unrelated,ONCE,NA,NA,unrelated,,,
+JB,BALL,4716.04,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,ball,6,4
+JB,TRASH,4983.385,Studied,16,4,Recalled,NA,14,Related,GARBAGE,TRASH,GARBAGE,related,garbage,14,4
+JB,UNCLE,4499.77,Studied,12,2,Recalled,NA,26,Related,MINE,YOURS,NA,unrelated,,,
+JB,STORY,2083.14,Studied,1,3,Recalled,NA,6,Identical,PICKLE,NA,NA,unrelated,,,
+JB,SICK,1566.91,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,sick,27,1
+JB,STAIRS,5249.905,Studied,42,3,Recalled,Identical,7,Related,SAND,BEACH,NA,identical,stairs,4,3
+JB,FISH,2533.54,Studied,11,3,Recalled,NA,10,Unrelated,SKIN,NA,NA,unrelated,,,
+JB,ORANGE,4750.045,Studied,15,3,Recalled,NA,4,Identical,STAIRS,NA,NA,unrelated,,,
+JB,YELLOW,1099.295,Studied,4,3,Recalled,NA,5,Identical,STOP,NA,NA,unrelated,,,
+JB,CHESS,6883.655,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JB,BRANCH,1233.19,Studied,4,1,NotRecalled,NA,4,Related,SERVER,WAITER,NA,unrelated,,,
+JB,HANG,6150.745,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JB,MONEY,1699.83,Studied,40,3,Recalled,NA,"8,20",Identical,CHEESE,NA,NA,unrelated,,,
+JB,DUSK,4300.19,Studied,19,4,Recalled,NA,20,Identical,DEAF,NA,NA,unrelated,,,
+JB,DARK,782.975,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JB,STARRY,3000.465,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JB,STARS,866.1099999,Studied,28,4,Recalled,NA,21,Unrelated,COPY,NA,NA,unrelated,,,
+JB,HANG,5383.415,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JB,ARGUE,1149.795,Studied,24,1,Recalled,NA,"7,19",Related,GUIDE,TOUR,NA,unrelated,,,
+JB,SCREAM,2533.985,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JB,YELL,999.52,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JB,TREES,5133.13,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,tree,17,1
+JB,DIRT,5243.25,Studied,21,4,Recalled,NA,24,Related,SOIL,DIRT,SOIL,related,soil,24,4
+JB,CAMP,4617.38,Studied,1,4,Recalled,NA,11,Related,CAMERA,PICTURE,NA,unrelated,,,
+JB,SICK,3933.345,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,sick,27,1
+JB,NEPHEW,1932.605,Studied,3,3,Recalled,NA,3,Unrelated,MILK,NA,NA,unrelated,,,
+JB,SWING,6199.43,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JB,SUPPER,883.1099999,Studied,30,1,Recalled,NA,21,Unrelated,STORE,NA,DINNER,related,dinner,12,1
+JB,THIRSTY,1682.765,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JB,HUNGRY,3600.92,Not Studied,NA,NA,Recalled,NA,12,Related,DINNER,SUPPER,NA,unrelated,,,
+JB,WAITER,3782.845,Studied,32,1,Recalled,NA,13,Related,MEDIA,NEWS,SERVER,related,server,4,1

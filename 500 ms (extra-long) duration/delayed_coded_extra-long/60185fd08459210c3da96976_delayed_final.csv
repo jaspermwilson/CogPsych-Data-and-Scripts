@@ -1,0 +1,14 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+60185fd08459210c3da96976,WINDOW,8001.685,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60185fd08459210c3da96976,PALACE,6050.66,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60185fd08459210c3da96976,DEATH,5398.85,Studied,24,4,Recalled,NA,9,Unrelated,ENTER,NA,NA,unrelated,,,
+60185fd08459210c3da96976,HATE,2968.09,Studied,18,4,Recalled,Identical,12,Identical,HATE,NA,NA,identical,hate,12,4
+60185fd08459210c3da96976,LOVE,2466.455,Studied,7,3,Recalled,NA,5,Identical,BELL,NA,NA,unrelated,,,
+60185fd08459210c3da96976,MORNING,3417.465,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60185fd08459210c3da96976,APPLE,7732.675,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60185fd08459210c3da96976,PEAR,3359.93,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60185fd08459210c3da96976,LIGHT,3850.395,Studied,7,1,NotRecalled,NA,3,Unrelated,EGGS,NA,NA,unrelated,,,
+60185fd08459210c3da96976,DARKNESS,3800.975,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60185fd08459210c3da96976,MELLOW,5133.995,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60185fd08459210c3da96976,YELLOW,4035.365,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60185fd08459210c3da96976,FROG,3857.205,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,frog,42,2

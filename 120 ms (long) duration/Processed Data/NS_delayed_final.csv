@@ -1,0 +1,9 @@
+"DelayedWord","DelayedRT","Studied","StudyPosition","Block","ReportedPrimeFromDay1","Day1OutputPosition","Day1PrimeCondition","Day1Prime","Day1PrimeFor","RelatedPrimePresentedonDay1"
+"BIRD",6578.34,"Studied",1,1,NA,"2","Related","BUYER","SELLER",NA
+"CHEESE",1814.775,"Studied",5,1,NA,"1","firstword","firstword",NA,NA
+"NEPHEW",1398.83,"Studied",4,1,NA,"5","Unrelated","CELL",NA,NA
+"FIRE",898.82,NA,NA,NA,NA,"9","Identical","SHEETS",NA,NA
+"BELOW",3968.64,"Studied",1,2,NA,"1","firstword","firstword",NA,NA
+"BEACH",7010.55,"Studied",2,1,NA,"10","Identical","FISH",NA,NA
+"SAND",815.6,NA,NA,NA,NA,"11","Unrelated","WOOD",NA,NA
+"STOP",1531.035,"Studied",19,1,"Identical","8","Unrelated","LIGHT",NA,NA

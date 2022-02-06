@@ -1,0 +1,36 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+60ae6e0771c7c33e58e5f012,YELLOW,3333.9,Studied,15,1,Recalled,NA,14,Related,STEPS,STAIRS,NA,unrelated,,,
+60ae6e0771c7c33e58e5f012,DOOR,2800.2,Studied,2,2,Recalled,NA,12,Related,SKIP,JUMP,HINGE,related,hinge,4,2
+60ae6e0771c7c33e58e5f012,CAMP,2267.4,Studied,31,2,Recalled,NA,4,Related,HINGE,DOOR,NA,unrelated,,,
+60ae6e0771c7c33e58e5f012,BELOW,5147.9,Studied,36,2,Recalled,NA,9,Related,ABOVE,BELOW,ABOVE,related,above,9,2
+60ae6e0771c7c33e58e5f012,CHAIR,3833.4,Studied,14,1,Recalled,NA,8,Unrelated,GRAVE,NA,NA,unrelated,,,
+60ae6e0771c7c33e58e5f012,SHEETS,3650.6,Studied,41,1,Recalled,NA,7,Related,TALE,STORY,NA,unrelated,,,
+60ae6e0771c7c33e58e5f012,DIRT,1316.8,Studied,32,2,Recalled,NA,11,Related,SOIL,DIRT,SOIL,related,soil,11,2
+60ae6e0771c7c33e58e5f012,GHOST,6449.9,Studied,12,2,Recalled,NA,26,Unrelated,EFFECT,NA,NA,unrelated,,,
+60ae6e0771c7c33e58e5f012,DEVIL,1800.5,Studied,20,2,Recalled,Identical,41,Identical,DEVIL,NA,NA,identical,devil,41,2
+60ae6e0771c7c33e58e5f012,FINGER,3899.9,Studied,1,4,Recalled,Identical,37,Identical,FINGER,NA,NA,identical,finger,37,4
+60ae6e0771c7c33e58e5f012,SHOES,4816.7,Studied,39,2,Recalled,NA,15,Unrelated,LARGE,NA,NA,unrelated,,,
+60ae6e0771c7c33e58e5f012,UNDER,6249.9,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,under,36,1
+60ae6e0771c7c33e58e5f012,CHILD,6255.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60ae6e0771c7c33e58e5f012,NEPHEW,5066.7,Studied,9,1,Recalled,NA,6,Related,SALTINE,CRACKER,NA,unrelated,,,
+60ae6e0771c7c33e58e5f012,PHONE,3851,Studied,6,4,Recalled,Identical,19,Identical,PHONE,NA,NA,identical,phone,19,4
+60ae6e0771c7c33e58e5f012,HUNGRY,2199.9,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,famine,40,3
+60ae6e0771c7c33e58e5f012,THIRSTY,2766.4,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,quench,39,3
+60ae6e0771c7c33e58e5f012,JAIL,1583.1,Studied,4,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+60ae6e0771c7c33e58e5f012,NUMBER,4206.5,Studied,10,1,Recalled,NA,38,Related,DIGIT,NUMBER,DIGIT,related,digit,38,1
+60ae6e0771c7c33e58e5f012,TRASH,5972.6,Studied,28,2,Recalled,NA,14,Unrelated,JEANS,NA,NA,unrelated,,,
+60ae6e0771c7c33e58e5f012,NOSE,5756.2,Studied,19,3,Recalled,NA,10,Unrelated,MUSIC,NA,NA,unrelated,,,
+60ae6e0771c7c33e58e5f012,BLACK,1583.2,Studied,17,2,Recalled,NA,38,Related,WHITE,BLACK,WHITE,related,white,38,2
+60ae6e0771c7c33e58e5f012,BOOK,4816.9,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,book,7,3
+60ae6e0771c7c33e58e5f012,READ,2304.6,Studied,22,3,Recalled,NA,7,Unrelated,TAKE,NA,NA,unrelated,,,
+60ae6e0771c7c33e58e5f012,SMILE,7095.5,Studied,26,2,Recalled,NA,16,Unrelated,MONKEY,NA,NA,unrelated,,,
+60ae6e0771c7c33e58e5f012,WORLD,5976.3,Studied,35,2,Recalled,Identical,22,Identical,WORLD,NA,NA,identical,world,22,2
+60ae6e0771c7c33e58e5f012,CHEESE,4466.3,Studied,35,1,Recalled,Identical,20,Identical,CHEESE,NA,NA,identical,cheese,20,1
+60ae6e0771c7c33e58e5f012,GIRL,6149.5,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60ae6e0771c7c33e58e5f012,FIVE,5283.2,Studied,29,2,Recalled,NA,17,Related,FOUR,FIVE,FOUR,related,four,17,2
+60ae6e0771c7c33e58e5f012,STOMACH,2894.2,Studied,30,2,Recalled,NA,19,Related,ABDOMEN,STOMACH,ABDOMEN,related,abdomen,19,2
+60ae6e0771c7c33e58e5f012,HEAR,1573.2,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60ae6e0771c7c33e58e5f012,LEMON,2356.9,Studied,7,4,Recalled,Identical,34,Identical,LEMON,NA,NA,identical,lemon,34,4
+60ae6e0771c7c33e58e5f012,ORANGE,4349.5,Studied,2,1,Recalled,Identical,25,Identical,ORANGE,NA,NA,identical,orange,25,1
+60ae6e0771c7c33e58e5f012,FLOWER,2733.7,Studied,30,1,Recalled,NA,15,Identical,BIRD,NA,NA,unrelated,,,
+60ae6e0771c7c33e58e5f012,BEE,5149.8,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

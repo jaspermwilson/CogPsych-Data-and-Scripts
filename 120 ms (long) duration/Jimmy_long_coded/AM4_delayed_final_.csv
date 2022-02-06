@@ -1,0 +1,18 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+AM4,FENCE,1815.685,Studied,2,2,Recalled,Identical,7,Identical,FENCE,NA,NA,identical,fence,7,2
+AM4,LESS,2117,Studied,8,1,Recalled,NA,6,Unrelated,LOSE,NA,NA,unrelated,,,
+AM4,MOST,1433.995,Studied,42,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+AM4,KISS,1765.89,Studied,8,4,Recalled,NA,9,Unrelated,SLEEP,NA,NA,unrelated,,,
+AM4,CO,8001.905,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AM4,COIN,1249.255,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AM4,MINUS,4634.365,Studied,17,2,Recalled,Identical,39,Identical,PEPPER,NA,NA,identical,minus,36,2
+AM4,WIFE,2130.99,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AM4,SUPPER,7450.675,Studied,19,1,Recalled,NA,27,Related,DINNER,SUPPER,DINNER,related,dinner,27,1
+AM4,MONEY,6667.79,Studied,12,3,NotRecalled,NA,NA,NA,NA,NA,CASH,related,cash,20,3
+AM4,FUNERAL,2282.445,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AM4,SEEK,7350.065,Studied,34,1,Recalled,NA,25,Unrelated,FIND,NA,HIDE,related,find,25,1
+AM4,LEAVES,3381.315,Studied,22,2,Recalled,NA,17,Unrelated,PLANE,NA,NA,unrelated,,,
+AM4,TOAST,1269.775,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AM4,WEDDING,6568.315,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AM4,BOOK,6350.515,Not Studied,NA,NA,NotRecalled,Related,NA,NA,NA,NA,NA,identical,book,11,1
+AM4,MISS,1749.89,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

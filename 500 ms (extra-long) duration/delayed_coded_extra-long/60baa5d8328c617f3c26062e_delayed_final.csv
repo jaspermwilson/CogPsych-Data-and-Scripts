@@ -1,0 +1,22 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+60baa5d8328c617f3c26062e,QUICK,7116.5,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60baa5d8328c617f3c26062e,LADDER,7116.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,climb,3,3
+60baa5d8328c617f3c26062e,BLOOD,3999.6,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60baa5d8328c617f3c26062e,HELMET,4500.1,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60baa5d8328c617f3c26062e,PARADE,6549.9,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60baa5d8328c617f3c26062e,FLOWER,5350,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60baa5d8328c617f3c26062e,MESS,6749.6,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60baa5d8328c617f3c26062e,PAPER,3100,Studied,18,4,Recalled,NA,15,Unrelated,TRASH,NA,NA,unrelated,,,
+60baa5d8328c617f3c26062e,CAR,6933.1,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60baa5d8328c617f3c26062e,SUGAR,5033,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60baa5d8328c617f3c26062e,SLEEP,4650.1,Studied,17,4,Recalled,NA,21,Unrelated,DUSK,NA,NA,unrelated,,,
+60baa5d8328c617f3c26062e,BACK,6433.4,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,front,18,4
+60baa5d8328c617f3c26062e,CASTLE,5349.8,Studied,37,4,Recalled,Identical,28,Identical,CASTLE,NA,NA,identical,castle,28,4
+60baa5d8328c617f3c26062e,ROCK,6466.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60baa5d8328c617f3c26062e,CROSS,7249.6,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60baa5d8328c617f3c26062e,BANDANA,5399.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60baa5d8328c617f3c26062e,JUNK,2416.6,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60baa5d8328c617f3c26062e,ESCAPE,4699.8,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60baa5d8328c617f3c26062e,BOOTS,6516.6,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60baa5d8328c617f3c26062e,PAIR,5283.3,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60baa5d8328c617f3c26062e,SCISSORS,5800.1,Studied,12,2,Recalled,NA,5,Related,CHARGE,CARD,NA,unrelated,,,

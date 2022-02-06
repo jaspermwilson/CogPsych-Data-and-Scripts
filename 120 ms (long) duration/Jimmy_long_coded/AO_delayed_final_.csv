@@ -1,0 +1,19 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+AO,FLOWER,8000,Studied,24,2,Recalled,Identical,20,Identical,SPOON,NA,NA,unrelated,,,
+AO,TREE,7999.63,Not Studied,NA,NA,Recalled,NA,"41,33",Identical,WEIGHT,NA,NA,unrelated,,,
+AO,YELLOW,7998.75,Studied,25,2,Recalled,Identical,"6,9",Unrelated,STRESS,NA,NA,identical,yellow,4,2
+AO,RED,8001.505,Not Studied,NA,NA,Recalled,NA,5,Related,DIME,NICKEL,NA,unrelated,,,
+AO,MOTHER,7999.605,Studied,3,4,Recalled,Identical,41,Related,ARMY,NAVY,NA,identical,mother,10,4
+AO,BALLET,8001.565,Studied,2,4,Recalled,NA,2,Related,CENTER,MIDDLE,NA,unrelated,,,
+AO,TOES,8000.815,Studied,1,4,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+AO,BOTTLE,8000.965,Not Studied,NA,NA,Recalled,NA,"30,26",Related,PARROT,BIRD,NA,unrelated,,,
+AO,PAPER,7999.73,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,paper,20,3
+AO,EGGS,8000.03,Studied,1,2,Recalled,NA,NA,NA,NA,NA,BACON,unrelated,,,
+AO,S,7999.09,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AO,STAR,8000.425,Studied,NA,NA,Recalled,NA,28,Identical,LEARN,NA,NA,related,galaxy,19,3
+AO,MOON,8000.02,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AO,SUN,8000.38,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AO,TREE,8002.325,Not Studied,NA,NA,Recalled,NA,"41,33",Identical,WEIGHT,NA,NA,unrelated,,,
+AO,FLOWER,7999.81,Studied,24,2,Recalled,Identical,20,Identical,SPOON,NA,NA,unrelated,,,
+AO,BIRD,8000.405,Studied,27,2,NotRecalled,NA,NA,NA,NA,NA,PARROT,related,parrot,30,2
+AO,FLY,8000.145,Not Studied,NA,NA,Recalled,NA,15,Unrelated,FIRE,NA,NA,unrelated,,,

@@ -1,0 +1,32 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+60b553fb5705a4355358afaf,PRISON,3044.425,Not Studied,NA,NA,Recalled,NA,10,Related,DIME,NICKEL,NA,unrelated,,,
+60b553fb5705a4355358afaf,CHEESE,1991.555,Studied,20,3,Recalled,NA,4,Unrelated,MATH,NA,NA,unrelated,,,
+60b553fb5705a4355358afaf,ORANGE,2932.505,Studied,4,3,Recalled,NA,13,Unrelated,CLASS,NA,NA,unrelated,,,
+60b553fb5705a4355358afaf,POND,1899.755,Not Studied,NA,NA,Recalled,Related,27,Identical,SWAMP,NA,NA,identical,pond,17,4
+60b553fb5705a4355358afaf,TRAIN,1882.675,Studied,2,4,Recalled,NA,6,Unrelated,SPICE,NA,NA,unrelated,,,
+60b553fb5705a4355358afaf,KNIFE,2796.005,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b553fb5705a4355358afaf,SHEETS,1655.675,Studied,26,3,Recalled,Identical,41,Identical,SHEETS,NA,NA,identical,sheets,41,3
+60b553fb5705a4355358afaf,ZEBRA,2729.285,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b553fb5705a4355358afaf,MOST,8019.62,Studied,30,1,Recalled,NA,9,Related,MORE,LESS,NA,unrelated,,,
+60b553fb5705a4355358afaf,THERE,7994.89,Studied,20,2,Recalled,NA,4,Unrelated,SHALLOW,NA,NA,unrelated,,,
+60b553fb5705a4355358afaf,MOTHER,7993.83,Studied,35,1,Recalled,NA,7,Related,FATHER,MOTHER,FATHER,related,father,7,1
+60b553fb5705a4355358afaf,NEWS,7994.36,Studied,28,1,Recalled,NA,23,Related,MEDIA,NEWS,MEDIA,related,media,23,1
+60b553fb5705a4355358afaf,SOAP,4870.225,Studied,37,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+60b553fb5705a4355358afaf,CANDLE,5784.645,Studied,39,1,Recalled,NA,34,Related,WICK,CANDLE,WICK,related,wick,34,1
+60b553fb5705a4355358afaf,PRESENT,6041.355,Studied,37,4,Recalled,NA,40,Related,GIFT,PRESENT,GIFT,related,gift,40,4
+60b553fb5705a4355358afaf,CLOCK,5915.795,Studied,11,2,Recalled,NA,14,Related,AHEAD,BEHIND,NA,unrelated,,,
+60b553fb5705a4355358afaf,BLACK,2287.28,Studied,3,4,Recalled,NA,8,Unrelated,LARGE,NA,NA,unrelated,,,
+60b553fb5705a4355358afaf,TRASH,2057.92,Studied,7,4,Recalled,NA,13,Related,HINGE,DOOR,NA,unrelated,,,
+60b553fb5705a4355358afaf,LAKE,3669.95,Studied,28,4,Recalled,NA,17,Related,POND,LAKE,POND,related,pond,17,4
+60b553fb5705a4355358afaf,JUMP,1795.75,Studied,17,4,Recalled,NA,31,Identical,POUND,NA,NA,unrelated,,,
+60b553fb5705a4355358afaf,NOISE,4955.07,Studied,10,4,Recalled,Identical,39,Identical,NOISE,NA,NA,identical,noise,39,4
+60b553fb5705a4355358afaf,CAMP,2684.265,Studied,9,4,Recalled,NA,9,Related,LOOSE,TIGHT,NA,unrelated,,,
+60b553fb5705a4355358afaf,C,15453.81,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b553fb5705a4355358afaf,GRAS,8005.065,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,grass,24,2
+60b553fb5705a4355358afaf,POUND,6312.765,Studied,22,4,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,pound,31,4
+60b553fb5705a4355358afaf,NICKEL,3470.87,Studied,1,3,NotRecalled,NA,NA,NA,NA,NA,DIME,related,dime,10,3
+60b553fb5705a4355358afaf,DOLLAR,5981.355,Studied,24,2,Recalled,NA,29,Related,BUCK,DOLLAR,BUCK,related,buck,29,2
+60b553fb5705a4355358afaf,ROCK,5845.73,Studied,5,2,Recalled,NA,7,Unrelated,TOCK,NA,NA,unrelated,,,
+60b553fb5705a4355358afaf,STARS,7994.11,Studied,19,4,Recalled,NA,22,Related,APOLOGY,SORRY,GALAXY,related,galaxy,15,4
+60b553fb5705a4355358afaf,WINDOW,4624.09,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b553fb5705a4355358afaf,LEMON,3935.465,Studied,41,2,Recalled,NA,12,Related,LIME,LEMON,LIME,related,lime,12,2

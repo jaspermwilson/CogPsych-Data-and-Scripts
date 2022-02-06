@@ -1,0 +1,23 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+609cf2d70b8cb2427c16f033,DOOR,3172.4,Studied,31,2,Recalled,NA,28,Unrelated,PENCIL,NA,NA,unrelated,,,
+609cf2d70b8cb2427c16f033,TOUR,3287.9,Studied,6,3,Recalled,NA,39,Unrelated,DRESS,NA,GUIDE,related,guide,4,3
+609cf2d70b8cb2427c16f035,KILL,4587.6,Studied,28,2,Recalled,NA,11,Identical,SMOKE,NA,NA,unrelated,,,
+609cf2d70b8cb2427c16f033,SORRY,1200.8,Studied,30,2,Recalled,Identical,13,Identical,TRAIN,NA,NA,identical,sorry,12,2
+609cf2d70b8cb2427c16f033,YELLOW,2910.2,Studied,28,1,NotRecalled,NA,NA,NA,NA,NA,MELLOW,related,mellow,26,1
+609cf2d70b8cb2427c16f035,FLOWER,1475.5,Studied,29,1,Recalled,NA,7,Unrelated,LIGHT,NA,NA,unrelated,,,
+609cf2d70b8cb2427c16f033,WHEAT,4448,Studied,2,2,Recalled,NA,2,Related,HIGHWAY,ROAD,NA,unrelated,,,
+609cf2d70b8cb2427c16f033,THIEF,1860.1,Studied,3,2,Recalled,NA,3,Related,TOAD,FROG,NA,unrelated,,,
+609cf2d70b8cb2427c16f035,NAVY,1450.9,Studied,8,3,Recalled,NA,5,Unrelated,VOLCANO,NA,NA,unrelated,,,
+609cf2d70b8cb2427c16f033,LAKE,6291.5,Studied,17,2,Recalled,NA,10,Identical,FIVE,NA,NA,unrelated,,,
+609cf2d70b8cb2427c16f033,MUSCLE,6395.4,Studied,12,4,Recalled,NA,8,Identical,BEHIND,NA,NA,unrelated,,,
+609cf2d70b8cb2427c16f035,TIGER,1253.9,Studied,11,4,Recalled,NA,9,Identical,WHERE,NA,NA,unrelated,,,
+609cf2d70b8cb2427c16f033,BEHIND,7989.7,Studied,32,4,Recalled,Identical,21,Unrelated,ANNOY,NA,NA,identical,behind,8,4
+609cf2d70b8cb2427c16f033,NETHEW,1794.3,Studied,NA,NA,NotRecalled,NA,11,Related,INTAKE,OUTTAKE,NA,identical,nephew,29,1
+609cf2d70b8cb2427c16f035,FIVE,4683,Studied,11,2,Recalled,Identical,17,Related,SOCKS,SHOES,NA,identical,five,10,2
+609cf2d70b8cb2427c16f033,DEAF,7992.5,Studied,4,2,Recalled,NA,4,Identical,NOISE,NA,NA,unrelated,,,
+609cf2d70b8cb2427c16f033,GHOST,4775,Studied,5,2,Recalled,NA,5,Unrelated,JEANS,NA,NA,unrelated,,,
+609cf2d70b8cb2427c16f035,SOUTH,887.8,Studied,1,2,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+609cf2d70b8cb2427c16f033,SMALL,2497.5,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+609cf2d70b8cb2427c16f033,LOWER,3618.5,Not Studied,NA,NA,Recalled,NA,24,Unrelated,SAME,NA,NA,unrelated,,,
+609cf2d70b8cb2427c16f035,JAIL,2998.4,Studied,41,1,Recalled,NA,9,Identical,GLORY,NA,NA,unrelated,,,
+609cf2d70b8cb2427c16f033,PURPLE,1436.3,Studied,35,3,Recalled,NA,9,Identical,TOES,NA,NA,unrelated,,,

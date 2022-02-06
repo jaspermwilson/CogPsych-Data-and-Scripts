@@ -1,0 +1,75 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+EX,BREAD,6402.865,Studied,31,2,Recalled,NA,10,Unrelated,SMOOTH,NA,NA,unrelated,,,
+EX,BABY,4150.28,Studied,3,2,Recalled,NA,3,Unrelated,YELLOW,NA,NA,unrelated,,,
+EX,WOOD,1964.55,Studied,4,2,Recalled,Identical,4,Identical,WOOD,NA,NA,identical,wood,4,2
+EX,MONKEY,1933.54,Studied,10,3,NotRecalled,NA,NA,NA,NA,NA,GORILLA,related,gorilla,29,3
+EX,GLASSES,1967.98,Studied,15,3,Recalled,NA,7,Unrelated,SOUTH,NA,NA,unrelated,,,
+EX,PENCIL,1481.985,Studied,14,3,Recalled,NA,13,Identical,CAKE,NA,NA,unrelated,,,
+EX,BIKE,1301.24,Studied,30,2,Recalled,NA,9,Related,PATIENT,DOCTOR,NA,unrelated,,,
+EX,ANNOYING,2550.6,Studied,NA,NA,Recalled,NA,24,Unrelated,TIGER,NA,NA,unrelated,,,
+EX,TREE,1615.685,Studied,5,4,Recalled,NA,6,Related,SHOP,STORE,NA,unrelated,,,
+EX,ROOF,1401.025,Studied,15,4,Recalled,NA,10,Identical,CLEAR,NA,NA,unrelated,,,
+EX,MUSIC,1154.265,Studied,NA,NA,Recalled,NA,16,Related,GOWN,DRESS,NA,unrelated,,,
+EX,BELL,6499.66,Studied,17,4,Recalled,NA,14,Unrelated,MIDDLE,NA,NA,unrelated,,,
+EX,SING,5786.165,Studied,18,4,Recalled,NA,15,Related,HEATER,WARM,NA,unrelated,,,
+EX,STREET,1499.9,Studied,34,4,Recalled,NA,35,Unrelated,SLOW,NA,MAIN,related,main,4,4
+EX,DESERT,1449.46,Studied,2,4,Recalled,NA,2,Identical,TAKE,NA,NA,unrelated,,,
+EX,PROBLEM,1467.935,Studied,1,4,Recalled,NA,3,Unrelated,WINTER,NA,NA,unrelated,,,
+EX,FOOD,2449.075,Studied,8,4,Recalled,NA,4,Related,MAIN,STREET,NA,unrelated,,,
+EX,LETTUCE,2199.78,Studied,20,4,Recalled,Identical,18,Identical,LETTUCE,NA,NA,identical,lettuce,18,4
+EX,SHIP,2433.87,Studied,40,4,Recalled,NA,31,Unrelated,STATES,NA,CAPTAIN,related,captain,13,4
+EX,WARM,3049.14,Studied,42,4,Recalled,NA,32,Unrelated,WILD,NA,HEATER,related,heater,15,4
+EX,WOOD,7999.985,Studied,4,2,Recalled,Identical,4,Identical,WOOD,NA,NA,identical,wood,4,2
+EX,CELL,8000.78,Studied,2,2,Recalled,NA,2,Identical,NIGHTS,NA,NA,unrelated,,,
+EX,WRITE,8000.67,Studied,13,2,Recalled,NA,22,Unrelated,DAGGER,NA,NA,unrelated,,,
+EX,CLASS,7999.18,Studied,14,2,Recalled,NA,23,Related,DUMB,STUPID,NA,unrelated,,,
+EX,EXPLODE,7998.375,Studied,16,2,Recalled,NA,7,Identical,GUILT,NA,NA,unrelated,,,
+EX,STORE,7999.705,Studied,31,4,Recalled,NA,36,Unrelated,SEEK,NA,SHOP,related,shop,6,4
+EX,CHURCH,8002.875,Studied,32,4,Recalled,Identical,24,Identical,CHURCH,NA,NA,identical,church,24,4
+EX,JACKET,7999.96,Studied,28,4,Recalled,NA,22,Related,VEST,JACKET,VEST,related,vest,22,4
+EX,DRAW,7999.63,Studied,5,1,Recalled,Identical,7,Unrelated,BEHIND,NA,NA,identical,draw,6,1
+EX,TRAILER,8001.95,Studied,6,1,Recalled,Identical,28,Identical,RENT,NA,NA,identical,trailer,8,1
+EX,POTATO,8003.545,Studied,8,1,Recalled,NA,29,Related,PARDON,EXCUSE,GRAVY,related,gravy,26,1
+EX,VOTE,7999.805,Studied,4,1,Recalled,NA,8,Identical,TRAILER,NA,NA,unrelated,,,
+EX,CHILD,7989.825,Studied,1,1,Recalled,NA,3,Unrelated,WHERE,NA,NA,unrelated,,,
+EX,DEATH,7998.7,Studied,2,1,Recalled,NA,4,Unrelated,CLOCK,NA,NA,unrelated,,,
+EX,KNIFE,8001.025,Studied,3,1,Recalled,NA,5,Unrelated,HORSE,NA,NA,unrelated,,,
+EX,SCISSORS,7999.6,Studied,12,1,Recalled,NA,6,Identical,DRAW,NA,NA,unrelated,,,
+EX,SHEEP,8000.11,Studied,20,2,Recalled,Identical,8,Identical,SHEEP,NA,NA,identical,sheep,8,2
+EX,TOOTH,7998.4,Studied,28,2,Recalled,NA,14,Unrelated,FISH,NA,NA,unrelated,,,
+EX,STEAL,7998.975,Studied,27,2,Recalled,NA,13,Related,THEFT,STEAL,THEFT,related,theft,13,2
+EX,CLIMB,8001.065,Studied,38,2,Recalled,NA,17,Related,THORN,ROSE,NA,unrelated,,,
+EX,PROPER,7988.21,Studied,37,2,Recalled,NA,19,Related,PHONY,FAKE,NA,unrelated,,,
+EX,BEAM,7998.59,Studied,NA,NA,Recalled,Related,26,Related,GRAFT,SKIN,NA,unrelated,,,
+EX,BED,8001.355,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EX,SLIDE,8002.165,Studied,32,1,Recalled,NA,12,Unrelated,THERE,NA,NA,unrelated,,,
+EX,FIND,7999.89,Studied,19,4,Recalled,NA,41,Unrelated,FIRST,NA,SEARCH,related,search,20,4
+EX,LOVE,8000.13,Studied,16,4,Recalled,NA,12,Unrelated,HUNGER,NA,NA,unrelated,,,
+EX,WEDDING,9209.13,Not Studied,NA,NA,Recalled,NA,19,Related,VIRUS,SICK,NA,unrelated,,,
+EX,DRESS,7997.21,Studied,36,4,Recalled,NA,20,Related,SEARCH,FIND,GOWN,related,gown,16,4
+EX,MAGIC,7999.17,Studied,4,4,Recalled,NA,5,Unrelated,THREAD,NA,NA,unrelated,,,
+EX,TALK,8000.035,Studied,14,4,Recalled,NA,11,Related,CHALK,BOARD,NA,unrelated,,,
+EX,VOLCANO,8000.55,Studied,12,4,Recalled,NA,8,Related,GATHER,COLLECT,NA,unrelated,,,
+EX,PENNY,8001.375,Studied,5,2,Recalled,NA,5,Unrelated,CRACKER,NA,NA,unrelated,,,
+EX,DOCTOR,7998.52,Studied,7,2,NotRecalled,NA,NA,NA,NA,NA,PATIENT,unprimed,,,
+EX,SMALL,7999.61,Studied,12,3,Recalled,Identical,32,Identical,SMALL,NA,NA,identical,small,32,3
+EX,MAID,8000.735,Studied,8,3,Recalled,NA,8,Unrelated,POUND,NA,NA,unrelated,,,
+EX,SMART,7998.605,Studied,19,3,Recalled,Identical,16,Identical,SMART,NA,NA,identical,smart,16,3
+EX,CASTLE,8000.235,Studied,18,3,Recalled,NA,9,Related,TWICE,ONCE,NA,unrelated,,,
+EX,ANGRY,7998.49,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EX,JEANS,7988.81,Studied,4,3,Recalled,NA,4,Unrelated,TIGHT,NA,NA,unprimed,,,
+EX,LIFE,7998.805,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EX,MINIMUM,7999.45,Studied,6,3,Recalled,NA,5,Unrelated,STOMACH,NA,NA,unrelated,,,
+EX,LARGE,7999.725,Studied,5,3,Recalled,NA,6,Identical,TIRED,NA,NA,unrelated,,,
+EX,SLEEP,8001.045,Studied,23,3,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,sleep,33,3
+EX,CAKE,7999.11,Studied,30,3,Recalled,Identical,19,Identical,WANT,NA,NA,identical,cake,13,3
+EX,NINE,8000.005,Studied,31,3,Recalled,NA,21,Unrelated,SHOES,NA,NA,unrelated,,,
+EX,OVEN,7988.075,Studied,33,3,Recalled,NA,22,Identical,SURE,NA,TOASTER,related,toaster,18,3
+EX,FRONT,7999.675,Studied,35,3,Recalled,Identical,23,Identical,ALLOW,NA,NA,unrelated,,,
+EX,BALL,8000.175,Studied,NA,NA,Recalled,Identical,25,Identical,HELLO,NA,NA,identical,ball,24,3
+EX,CONTROL,8002.105,Not Studied,NA,NA,Recalled,NA,27,Related,HAUL,CARRY,NA,unrelated,,,
+EX,BOSS,7999.525,Studied,38,3,Recalled,Identical,26,Related,HERB,SPICE,NA,identical,boss,20,3
+EX,FINISH,8002.29,Studied,34,3,Recalled,NA,24,Identical,BALL,NA,NA,unrelated,,,
+EX,ROSE,7999.56,Studied,17,2,Recalled,NA,20,Related,LEGS,ARMS,THORN,related,thorn,17,2
+EX,SHIRT,7999.13,Studied,18,2,Recalled,NA,21,Unrelated,WEST,NA,NA,unrelated,,,
+EX,POCKET,8002.195,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

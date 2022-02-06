@@ -1,0 +1,16 @@
+"DelayedWord","DelayedRT","Studied","StudyPosition","Block","ReportedPrimeFromDay1","Day1OutputPosition","Day1PrimeCondition","Day1Prime","Day1PrimeFor","RelatedPrimePresentedonDay1"
+"SHOE",8080.715,NA,NA,NA,NA,"23","Related","WAND","MAGIC",NA
+"WARM",7972.15,"Studied",5,1,NA,"5","Identical","ROOF",NA,NA
+"LOVE",8014.105,"Studied",42,1,NA,"1","firstword","firstword",NA,NA
+"SLEEP",7986.38,"Studied",30,4,NA,"41","Related","DOZE","SLEEP","DOZE"
+"GREEN",7990.315,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"STIPE",8003.085,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"STRIPE",7988.715,"Studied",37,2,NA,"19","Related","ZEBRA","STRIPE","ZEBRA"
+"SHIRT",8011.045,"Studied",25,3,NA,"19,40","Unrelated","TOES",NA,NA
+"JEANS",7977.405,"Studied",41,4,"Identical",NA,NA,NA,NA,NA
+"HOT",7985.79,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"CLOUD",8019.105,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"TREE",7989.995,"Studied",27,1,NA,NA,NA,NA,NA,"ACORN"
+"HAIR",8001.755,"Studied",12,1,NA,"10","Related","SHATTER","BREAK",NA
+"HEAD",8044.075,"Studied",15,3,"Identical","3","Identical","STUPID",NA,NA
+"ROOF",8020.905,"Studied",6,1,"Identical","6","Identical","BELL",NA,NA

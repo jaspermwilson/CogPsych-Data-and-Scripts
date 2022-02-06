@@ -1,0 +1,169 @@
+"participant","session","date","expName","psychopyVersion","frameRate","RecalledWord","RT","Prime","PrimeCon","PrimeDuration","OutputPosition","Block","StudyPosition","Studied","PrimeRecalledCondition","PrimeFor"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"DOLLAR ",4498.495,"firstword","firstword",NA,1,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"PLANT ",1815.655,"TALL","Related",66.085,2,1,NA,NA,NA,"SHORT"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"THROW ",1884.37,"TRAILER","Unrelated",67.445,3,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"UNCLE ",1684.555,"THIN","Unrelated",67.795,4,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"CLOCK",1815.805,"FINGER","Identical",68.41,5,1,22,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"ROCK ",2401.46,"BEST","Related",66.055,6,1,NA,NA,NA,"WORST"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"OFFICE ",2066.2,"TROT","Related",64.22,7,1,NA,NA,NA,"HORSE"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"GRASS",4667.795,"TEETH","Identical",66.465,8,1,18,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"FOUND ",1317.655,"THERE","Identical",65.965,9,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"SEARCH ",1967.245,"RAKE","Related",65.23,10,1,NA,NA,NA,"LEAVES"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"TREE ",1549.85,"VOTE","Unrelated",65.86,11,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"XXXXX",8002.555,"OPEN","Related",64.84,12,1,NA,NA,NA,"CLOSE"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"QUEEN ",1517.42,"ROCK","Identical",65.05,13,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"FATHER ",5049.29,"MINUTE","Identical",66.175,14,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"XXXXX",8000.4,"PACKAGE","Unrelated",65.88,15,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"SNACK ",5283.695,"AFTER","Related",65.84,16,1,NA,NA,NA,"BEFORE"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"XXXXX",7999.035,"TOOL","Unrelated",65.7,17,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"UNDER ",5067.09,"TUMOR","Related",66.02,18,1,NA,NA,NA,"CANCER"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"COW ",1934.2,"EXACT","Unrelated",64.98,19,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"XXXXX",8000.32,"KING","Related",67.67,20,1,NA,NA,NA,"QUEEN"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"OPTIC ",4737.5,"MINUS","Identical",66.865,21,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"LASER ",4068.105,"EARLY","Identical",64.865,22,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"HEAR T",6349.11,"DOLLAR","Identical",65.865,23,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"SOUL ",6663.84,"AUNT","Related",65.025,24,1,NA,NA,NA,"UNCLE"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"GROUND",5498.535,"AHEAD","Related",64.67,25,1,NA,NA,NA,"BEHIND"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"CLOUD ",3201.11,"MARRY","Unrelated",65.64,26,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"SOCIAL",7183.685,"OFFICE","Identical",65.51,27,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"MIND ",2868.02,"CHILD","Unrelated",67.385,28,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"BELOW",7599.54,"LOST","Related",67.505,29,1,NA,NA,"Identical","FOUND"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"SOIL ",4049.34,"GUYS","Related",66.245,30,1,NA,NA,NA,"GIRLS"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"MONEY",4433.25,"WHERE","Identical",65.43,31,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"PURPOSE",4065.46,"PURPOSE","Unrelated",63.945,32,1,NA,NA,"Unrelated",NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"SIL",7248.295,"CLOWN","Unrelated",57.43,33,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"POINT",4501.715,"MEAN","Identical",65.745,34,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"STRING",6366.37,"ANIMAL","Identical",66.065,35,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"MEMORY",6783.54,"FENCE","Identical",65.96,36,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"XXXXX",8000.485,"ENTER","Identical",64.66,37,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"WATCH",6499.55,"REEF","Related",65.76,38,1,NA,NA,NA,"CORAL"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"HOME",7149.725,"PLANT","Identical",67.215,39,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"FIGHT",5316.775,"TIGER","Identical",65.865,40,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"XXXXX",8000.49,"THROW","Identical",64.795,41,1,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"POINT",3099.895,"DIAL","Related",65.685,42,1,NA,NA,NA,"PHONE"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"BEACH",1399.16,"firstword","firstword",NA,1,2,8,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"FISH",1249.11,"BAIT","Related",64.88,2,2,6,"Studied",NA,"FISH"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"LENGTH",1733.175,"HORN","Identical",67.565,3,2,5,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"FRIGHT",1405.685,"GROSS","Identical",67.695,4,2,4,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"DAGGER",1682.93,"SELF","Unrelated",66.62,5,2,14,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"PICKLE",1950.64,"TOWN","Unrelated",66.45,6,2,2,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"CRACKER",1798.57,"SALTINE","Related",67.585,7,2,3,"Studied",NA,"CRACKER"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"CH",8000.365,"ORANGE","Identical",66.585,8,2,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"CHEESE",2232.655,"UNDER","Unrelated",66.115,9,2,22,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"CLAM",1017.32,"STUPID","Unrelated",67.18,10,2,42,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"ORANGE",2949.8,"SKIN","Unrelated",68.375,11,2,36,"Studied","Identical",NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"MONEY",2915.49,"NIECE","Related",66.28,12,2,26,"Studied",NA,"NEPHEW"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"EPHEW",1332.59,"STEAL","Unrelated",67.51,13,2,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"LAWYER",1834.125,"INTAKE","Related",66.75,14,2,28,"Studied",NA,"OUTTAKE"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"SHEETS",1598.98,"SHEETS","Identical",66.535,15,2,32,"Studied","Identical",NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"EAM",733.425,"TALE","Related",66.71,16,2,NA,NA,NA,"STORY"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"XXXXX",134.46,"CLASS","Unrelated",66.7,17,2,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"STOP",6416.86,"ALTER","Related",67.745,18,2,24,"Studied",NA,"CHANGE"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"FEAR",2714.4,"SONG","Identical",66.17,19,2,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"JAIL",3550.39,"RIGHT","Identical",66.035,20,2,13,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"PLACE",5317.025,"DREAM","Identical",67.02,21,2,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"GLORY",4815.515,"BABY","Unrelated",66.15,22,2,9,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"M",8000.35,"PROPER","Unrelated",66.265,23,2,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"LIHO",3416.235,"STING","Unrelated",66.02,24,2,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"ASTA",5601.31,"SMOOTH","Identical",65.87,25,2,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"GUITAR",6683.4,"GRAVE","Unrelated",67.615,26,2,1,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"CHOOSE",1765.905,"KNIT","Unrelated",65.795,27,2,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"HORN",4334.545,"FLOWER","Identical",66.705,28,2,31,"Studied","Identical",NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"FIGHT",6133.435,"BIRD","Identical",65.855,29,2,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"CLUB",3031.76,"TWELVE","Identical",65.64,30,2,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"BUYER",4235.135,"BUYER","Related",66.065,31,2,NA,NA,"Related","SELLER"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"JUMP",6149.485,"EAST","Related",65.72,32,2,NA,NA,"Identical","WEST"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"BENCH",3664.69,"TOUCH","Unrelated",65.9,33,2,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"JUNK",5116.68,"DOCTOR","Unrelated",66.255,34,2,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"NICKEL",1999.82,"NICKEL","Identical",67.3,35,2,29,"Studied","Identical",NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"NUMBER",4831.86,"CHORE","Related",65.475,36,2,30,"Studied",NA,"WORK"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"XXXXX",8001.565,"CELL","Unrelated",66.085,37,2,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"VICTORY",4866.39,"BACON","Related",66.045,38,2,NA,NA,NA,"EGGS"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"HONOR",3990.43,"LIGHT","Unrelated",66.185,39,2,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"TWLEVE",7066.26,"YELLOW","Identical",65.115,40,2,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"CAR",5449.93,"CLIMB","Unrelated",66.675,41,2,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"CRASH",1749.575,"TABLE","Related",66.035,42,2,NA,NA,NA,"CHAIR"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"KILL",1731.71,"firstword","firstword",NA,1,3,17,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"KISS",1449.65,"PLAN","Unrelated",64.865,2,3,41,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"SMOKE",1948.72,"NERD","Related",66.84,3,3,3,"Studied",NA,"GEEK"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"TIGHT",1499.12,"HULA","Related",68.245,4,3,2,"Studied",NA,"HOOP"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"BLACK",4267.53,"FOUR","Related",66.635,5,3,15,"Studied",NA,"FIVE"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"THIEF",3366.915,"MINIMUM","Unrelated",65.655,6,3,39,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"POUND",1899.09,"WATER","Unrelated",66.08,7,3,36,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"MINOR",1716.345,"DEAF","Identical",66.47,8,3,37,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"GHOST",1798.115,"FROG","Identical",66.695,9,3,38,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"TRAIN",1166.3,"DUSK","Identical",65.34,10,3,35,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"BRIDE",2616.21,"ROAD","Identical",66.75,11,3,32,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"LAKE",1549.58,"JUMP","Identical",65.735,12,3,31,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"LAND",1317.65,"WORLD","Identical",66.865,13,3,28,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"DIRT",1317.74,"STARS","Identical",65.635,14,3,27,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"JUMP",3400.46,"NORTH","Related",67.865,15,3,1,"Studied","Identical","SOUTH"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"TIGHT",1593.825,"TEACH","Related",66.29,16,3,2,"Studied",NA,"LEARN"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"LOVE",7699.82,"LETTER","Unrelated",65.695,17,3,NA,NA,"Unrelated",NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"SHOVE",5866.45,"APOLOGY","Related",67.295,18,3,NA,NA,NA,"SORRY"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"WHEAT",2200.72,"WHEAT","Identical",66.625,19,3,33,"Studied","Identical",NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"DWARF",4348.99,"DOOR","Identical",65.975,20,3,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"CRY",4533.33,"SOFT","Unrelated",65.085,21,3,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"FIST",5464.875,"ABDOMEN","Related",67.635,22,3,NA,NA,NA,"STOMACH"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"BELOW",2530.795,"BELOW","Identical",65.985,23,3,29,"Studied","Identical",NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"SOUND",7016.325,"PAPER","Unrelated",67.6,24,3,NA,NA,"Related",NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"TRASH",2600.255,"TRASH","Identical",66.035,25,3,5,"Studied","Identical",NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"RAIN",5316.05,"MARSH","Related",66.49,26,3,NA,NA,NA,"SWAMP"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"FROST",7999.07,"SOUND","Related",66.06,27,3,NA,NA,NA,"NOISE"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"CRAC",8000.28,"SWEET","Identical",66.24,28,3,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"MOI",7998.075,"SMILE","Identical",66.15,29,3,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"TOWN",6984.495,"TENT","Related",66.125,30,3,NA,NA,"Unrelated","CAMP"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"EPICTURE",7015.98,"PICTURE","Identical",65.875,31,3,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"SHARK",6110.845,"COPY","Unrelated",67.955,32,3,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"STORM",4231.71,"EFFECT","Unrelated",67.61,33,3,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"WARM",2099.755,"SMART","Unrelated",66.125,34,3,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"MONEY",5915.68,"SHOES","Identical",65.715,35,3,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"LOST",4166.25,"CARRY","Unrelated",65.72,36,3,NA,NA,"Related",NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"XXXXX",8000.105,"FRONT","Unrelated",64.56,37,3,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"DEVIL",1681.66,"DEVIL","Identical",64.74,38,3,12,"Studied","Identical",NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"OOR",715.975,"GLASSES","Unrelated",66.62,39,3,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"DOOR",1682.095,"JEANS","Unrelated",66.79,40,3,11,"Studied","Identical",NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"JEANS",2633.585,"GIFT","Related",64.93,41,3,NA,NA,"Unrelated","PRESENT"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"LOCK",2049.61,"FIRE","Unrelated",66.505,42,3,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"BUTTER",3750.26,"firstword","firstword",NA,1,4,1,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"NOSE",3297.31,"NOSE","Identical",65.965,2,4,2,"Studied","Identical",NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"BORROW",1849.765,"QUIZ","Related",65.94,3,4,3,"Studied",NA,"TEST"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"MOTHER",1184.375,"HURT","Related",66.585,4,4,5,"Studied",NA,"PAIN"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"WINTER",1267.985,"STREET","Unrelated",65.015,5,4,42,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"NEWS",2049.575,"VIOLET","Related",51.78,6,4,41,"Studied",NA,"PURPLE"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"KIDNAP",6017.3,"TAKE","Unrelated",67.49,7,4,39,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"ALIVE",1317.435,"LOVE","Unrelated",66.265,8,4,15,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"FIRST",1182.68,"STORE","Unrelated",66.38,9,4,17,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"SPIER",1350.735,"WILD","Identical",67.475,10,4,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"CLUE",1099.075,"SUPPER","Identical",66.285,11,4,19,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"TENNIS",5381.145,"LESS","Identical",66.55,12,4,10,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"CANDLE",1384.125,"YEAR","Unrelated",64.935,13,4,9,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"SOAP",1450.475,"NOUN","Related",64.995,14,4,26,"Studied",NA,"VERB"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"SQUARE",1615.945,"FEET","Related",66.88,15,4,29,"Studied",NA,"TOES"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"TEST",1015.54,"TREE","Unrelated",66.09,16,4,30,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"NAVY",1299.86,"STICKY","Unrelated",67.165,17,4,8,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"NIGHT",3468.205,"BOARD","Unrelated",67.475,18,4,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"SHOES",1965.93,"SHIP","Unrelated",64.785,19,4,NA,NA,"Identical",NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"CLOSE",6548.445,"THREAD","Identical",65.03,20,4,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"SEEK",7167.46,"READ","Identical",67.215,21,4,4,"Studied",NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"ASIDE",7999.63,"SING","Unrelated",66.985,22,4,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"B",8000.65,"TWIG","Related",65.99,23,4,NA,NA,NA,"BRANCH"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"DEBATE",1833.07,"DEBATE","Related",66.065,24,4,NA,NA,"Related","ARGUE"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"BRUNCH",4649.47,"MOST","Identical",66.825,25,4,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"DINNER",1750.85,"UNITED","Related",66.175,26,4,NA,NA,NA,"STATES"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"RUN",3766.63,"CHAIN","Identical",65.22,27,4,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"THRON",7618.165,"TUTU","Related",66.03,28,4,NA,NA,NA,"BALLET"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"CATCH",6217.28,"SPIDER","Identical",64.3,29,4,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"HOME",7700.385,"LAUGH","Unrelated",65.59,30,4,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"SERVER",5316.895,"SERVER","Related",66.785,31,4,NA,NA,"Related","WAITER"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"SMOKE",7998.825,"FAMINE","Related",66.375,32,4,NA,NA,NA,"HUNGER"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"RAID",6169.645,"SWORD","Unrelated",65.715,33,4,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"INHALE",3232.8,"INHALE","Identical",65.69,34,4,27,"Studied","Identical",NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"WILD",3738.46,"LOSE","Unrelated",64.51,35,4,36,"Studied","Identical",NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"BUCKET",2189.68,"BUCKET","Identical",64.515,36,4,20,"Studied","Identical",NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"THIRST",1487.73,"THIRST","Identical",64.79,37,4,24,"Studied","Identical",NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"BUFFER",2615.205,"ROOF","Unrelated",66.115,38,4,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"GUIDE",3832.55,"GUIDE","Related",67.33,39,4,NA,NA,"Related","TOUR"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"WANDER",6332.015,"MAGIC","Unrelated",66.365,40,4,NA,NA,NA,NA
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"CENTER",1759.735,"CENTER","Related",66.355,41,4,NA,NA,"Related","MIDDLE"
+"RK",1,"2020-11-11_18h26.59.757","M1.3ConstantTotalFinal","2020.1.3",60,"OUTTASK",4849.835,"LOOK","Identical",66.175,42,4,NA,NA,NA,NA

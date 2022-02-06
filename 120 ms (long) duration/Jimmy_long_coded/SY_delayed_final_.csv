@@ -1,0 +1,14 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+SY,SWORD,1033.75,Studied,13,1,Recalled,NA,"1,4",firstword,firstword,NA,NA,unrelated,,,
+SY,MONARCH,1449.83,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SY,BROKEN,1749.125,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SY,MIRROR,933,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SY,RIGHTRIGHTRIGHTRIGHTRIGHTLEFTLEFT,8002.215,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SY,RIGHT,4667.085,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,right,41,3
+SY,HELLO,4034.505,Studied,34,4,Recalled,NA,8,Identical,SMALL,NA,NA,unrelated,,,
+SY,ENGLISH,2650.75,Studied,3,4,Recalled,NA,7,Unrelated,SMOKE,NA,NA,unrelated,,,
+SY,SCISSORS,3266.795,Studied,12,2,Recalled,NA,4,Unrelated,TEETH,NA,NA,unrelated,,,
+SY,BREAK,949.54,Studied,1,1,Recalled,NA,"2,10",Unrelated,READ,NA,NA,unrelated,,,
+SY,STREET,1232.875,Studied,3,1,Recalled,NA,8,Unrelated,NOSE,NA,NA,unrelated,,,
+SY,KNIFE,949.955,Studied,11,2,Recalled,NA,5,Unrelated,DOLLAR,NA,NA,unrelated,,,
+SY,WANDER,1100,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

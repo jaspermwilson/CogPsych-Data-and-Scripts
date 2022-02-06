@@ -1,0 +1,7 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,Prime Position,PrimeBlock
+AY,SPOON,3531.715,Studied,5,4,Recalled,NA,26,Unrelated,KNIFE,NA,NA,unrelated,,,
+AY,TIGER,3216.69,Studied,16,4,Recalled,NA,3,Unrelated,BUSH,NA,NA,unrelated,,,
+AY,FUNNEL,5733.235,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AY,GATE,6648.93,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,fence,13,4
+AY,MEAN,2434.215,Studied,22,4,Recalled,NA,7,Unrelated,NECK,NA,NA,unrelated,,,
+AY,FLOWER,1165.985,Studied,23,1,Recalled,NA,8,Identical,WEIGHT,NA,NA,unrelated,,,

@@ -1,0 +1,16 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+AW,SHOE,8080.715,Not Studied,NA,NA,Recalled,NA,23,Related,WAND,MAGIC,NA,unrelated,,,
+AW,WARM,7972.15,Studied,5,1,Recalled,NA,5,Identical,ROOF,NA,NA,unrelated,,,
+AW,LOVE,8014.105,Studied,42,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+AW,SLEEP,7986.38,Studied,30,4,Recalled,NA,41,Related,DOZE,SLEEP,DOZE,related,doze,41,4
+AW,GREEN,7990.315,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AW,STIPE,8003.085,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,zebra,19,2
+AW,STRIPE,7988.715,Studied,37,2,Recalled,NA,19,Related,ZEBRA,STRIPE,ZEBRA,related,zebra,19,2
+AW,SHIRT,8011.045,Studied,25,3,Recalled,NA,"19,40",Unrelated,TOES,NA,NA,unrelated,,,
+AW,JEANS,7977.405,Studied,41,4,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,jeans,40,4
+AW,HOT,7985.79,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AW,CLOUD,8019.105,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AW,TREE,7989.995,Studied,27,1,NotRecalled,NA,NA,NA,NA,NA,ACORN,related,acorn,2,1
+AW,HAIR,8001.755,Studied,12,1,Recalled,NA,10,Related,SHATTER,BREAK,NA,unrelated,,,
+AW,HEAD,8044.075,Studied,15,3,Recalled,Identical,3,Identical,STUPID,NA,NA,identical,head,2,3
+AW,ROOF,8020.905,Studied,6,1,Recalled,Identical,6,Identical,BELL,NA,NA,identical,roof,5,1

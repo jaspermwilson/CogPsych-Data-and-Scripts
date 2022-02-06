@@ -1,0 +1,10 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+5fca459b64fc2d5d9db11604,BIKE,4952,Studied,5,1,Recalled,NA,1,firstword,firstword,NA,NA,unrelated,,,
+5fca459b64fc2d5d9db11604,WRITE,3278.4,Studied,41,1,Recalled,NA,3,Unrelated,WEIGHT,NA,NA,unrelated,,,
+5fca459b64fc2d5d9db11604,ELBOW,7215.9,Not Studied,NA,NA,Recalled,NA,25,Related,ESTEEM,SELF,NA,unrelated,,,
+5fca459b64fc2d5d9db11604,BE,7993.5,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5fca459b64fc2d5d9db11604,BREAD,2333.3,Studied,1,1,Recalled,NA,8,Related,WASP,STING,NA,unrelated,,,
+5fca459b64fc2d5d9db11604,BRAND,6320.1,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5fca459b64fc2d5d9db11604,ITCH,1784.7,Studied,27,2,NotRecalled,NA,NA,NA,NA,NA,NA,identical,itch,23,2
+5fca459b64fc2d5d9db11604,SMA,7992.5,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5fca459b64fc2d5d9db11604,SMALL,1451.2,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,

@@ -1,0 +1,40 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+ST,THIRST,7991.33,Studied,1,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+ST,MOTHER,7991.045,Studied,4,1,Recalled,NA,4,Related,SERVER,WAITER,NA,unrelated,,,
+ST,NAVY,7997.33,Studied,13,1,Recalled,NA,5,Related,LEAST,MOST,NA,unrelated,,,
+ST,BEHIND,8000.26,Studied,31,2,Recalled,Identical,NA,NA,NA,NA,NA,unrelated,,,
+ST,PURPLE,8002.75,Studied,41,1,Recalled,NA,8,Unrelated,DESERT,NA,NA,unrelated,,,
+ST,PICKLE,8000.785,Studied,32,3,Recalled,NA,26,Related,DILL,PICKLE,DILL,related,dill,26,3
+ST,FINGER,8000.815,Studied,39,2,Recalled,NA,6,Related,PUSH,SHOVE,NA,unrelated,,,
+ST,PHONE,7999.795,Studied,28,2,Recalled,NA,7,Related,HALF,WHOLE,NA,unrelated,,,
+ST,YELLOW,8001.22,Studied,40,3,Recalled,NA,5,Unrelated,SHIRT,NA,NA,unrelated,,,
+ST,SHOES,7999.695,Studied,4,4,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+ST,STAIRS,7991.155,Studied,9,3,Recalled,NA,11,Unrelated,MILK,NA,NA,unrelated,,,
+ST,SHEETS,8000.05,Studied,7,3,Recalled,NA,6,Identical,WEIGHT,NA,NA,unrelated,,,
+ST,PICTURE,8001.315,Studied,24,4,Recalled,NA,4,Related,MUTE,DEAF,NA,unrelated,,,
+ST,RIGHT,7999.97,Studied,8,3,Recalled,NA,15,Related,IMAGINE,DREAM,NA,unrelated,,,
+ST,SMOOTH,8000.985,Studied,33,3,Recalled,NA,13,Identical,STREAM,NA,NA,unrelated,,,
+ST,ROCK,8000.155,Studied,15,2,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,rock,31,3
+ST,GRASS,7999.76,Studied,23,2,Recalled,NA,17,Related,SALT,PEPPER,NA,unrelated,,,
+ST,FLOWER,7999.905,Studied,42,3,Recalled,NA,9,Related,TALE,STORY,NA,unrelated,,,
+ST,WORLD,8000.035,Studied,21,4,Recalled,Identical,34,Identical,WORLD,NA,NA,identical,world,34,4
+ST,WEIG,7998.815,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,weight,6,3
+ST,WEIGHT,7999.91,Studied,22,3,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,weight,6,3
+ST,DOOR,7999.975,Studied,29,4,Recalled,NA,3,Related,ABOVE,BELOW,NA,unrelated,,,
+ST,THERE,8000.325,Studied,19,2,Recalled,NA,25,Identical,BEFORE,NA,NA,unrelated,,,
+ST,WHERE,8001.09,Studied,22,2,Recalled,NA,9,Related,LATE,EARLY,NA,unrelated,,,
+ST,YOU,7999.925,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ST,ORANGE,7996.895,Studied,19,3,Recalled,NA,39,Unrelated,GUILT,NA,PEEL,related,peel,27,3
+ST,BRANCH,8000.13,Studied,14,1,Recalled,NA,18,Related,UNITED,STATES,NA,unrelated,,,
+ST,LEAVES,7999.645,Studied,37,2,NotRecalled,NA,NA,NA,NA,NA,RAKE,related,rake,39,2
+ST,STAR,7993.31,Studied,NA,NA,Recalled,NA,41,Unrelated,WARM,NA,NA,identical,stars,41,4
+ST,WHOLE,7994.79,Studied,2,2,Recalled,NA,12,Identical,SPOON,NA,HALF,related,half,7,2
+ST,SHORT,8003.79,Studied,9,2,Recalled,NA,2,Identical,LEMON,NA,NA,unrelated,,,
+ST,HORSE,8003.75,Studied,10,2,Recalled,NA,3,Unrelated,SLIDE,NA,NA,unrelated,,,
+ST,FENCE,7995.145,Studied,11,2,Recalled,NA,4,Unrelated,STRIPE,NA,NA,unrelated,,,
+ST,HUNGRY,8003.575,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ST,BEACH,8002.885,Studied,14,3,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,beach,10,3
+ST,THIEF,8006.445,Studied,30,4,Recalled,Identical,10,Related,TOAD,FROG,NA,identical,thief,8,4
+ST,PRESENCE,7998.62,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ST,BLACK,7995.515,Studied,11,4,Recalled,NA,12,Identical,TRAIN,NA,NA,unrelated,,,
+ST,DREAM,6605.93,Studied,24,3,NotRecalled,NA,NA,NA,NA,NA,IMAGINE,related,imagine,15,3

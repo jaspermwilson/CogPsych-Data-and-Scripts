@@ -1,0 +1,10 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+AM,CHAIR,2449.685,Studied,6,3,Recalled,NA,3,Related,INTAKE,OUTTAKE,NA,unrelated,,,
+AM,SUN,2342.28,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AM,YELLOW,1885.66,Studied,40,3,Recalled,NA,34,Unrelated,ALLOW,NA,NA,unrelated,,,
+AM,SHEETS,2218.05,Studied,2,3,Recalled,NA,42,Identical,WHOLE,NA,NA,unrelated,,,
+AM,SMOOTH,1500.275,Studied,1,3,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+AM,FIRE,1832.615,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AM,CRACKER,5198.775,Studied,9,3,NotRecalled,NA,23,Related,ALTER,CHANGE,NA,unrelated,,,
+AM,ROAD,1350.16,Studied,14,4,Recalled,NA,"9,14",Related,CAMERA,PICTURE,NA,unrelated,,,
+AM,MOUNTAIN,4850.01,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

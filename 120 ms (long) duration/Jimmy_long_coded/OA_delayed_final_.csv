@@ -1,0 +1,41 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+OA,HOOK,2382.27,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+OA,MOST,4570.625,Studied,10,3,Recalled,NA,9,Identical,BORROW,NA,LEAST,related,least,8,3
+OA,LESS,3514.855,Studied,32,3,Recalled,Identical,42,Related,HIDE,SEEK,NA,identical,less,35,3
+OA,GRASS,4948.17,Studied,14,4,Recalled,Identical,31,Identical,BEFORE,NA,NA,identical,grass,30,4
+OA,BRIDE,7365.89,Studied,17,2,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+OA,FISH,5996.795,Studied,27,1,Recalled,NA,9,Identical,DAGGER,NA,NA,unrelated,,,
+OA,TIGER,2203.7,Studied,4,4,Recalled,Identical,9,Related,GUYS,GIRLS,NA,identical,tiger,5,4
+OA,THERE,1203.92,Studied,19,4,Recalled,NA,11,Unrelated,SCISSORS,NA,NA,unrelated,,,
+OA,BEHOLD,2119.69,Not Studied,NA,NA,Recalled,NA,14,Related,GUMS,TEETH,NA,unrelated,,,
+OA,FIVE,7869.6,Studied,38,2,Recalled,NA,18,Related,LIPS,KISS,NA,unrelated,,,
+OA,NUMBER,1752.63,Studied,26,1,Recalled,NA,"7,16",Identical,GROSS,NA,NA,unrelated,,,
+OA,SPOO,8000.135,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+OA,DEVIL,5181,Studied,8,2,Recalled,NA,6,Unrelated,SPICE,NA,NA,unrelated,,,
+OA,GHOST,2931.4,Studied,3,2,Recalled,NA,5,Related,ABOVE,BELOW,NA,unrelated,,,
+OA,SMILE,1732.47,Studied,41,2,Recalled,NA,12,Identical,BLACK,NA,NA,unrelated,,,
+OA,LAND,1754.205,Studied,29,2,Recalled,NA,33,Related,ACRE,LAND,ACRE,related,acre,33,2
+OA,TRAIN,1654.39,Studied,2,2,Recalled,NA,10,Unrelated,MONKEY,NA,CABOOSE,related,caboose,4,2
+OA,JUMP,7998.58,Studied,40,2,Recalled,NA,2,Identical,LAKE,NA,NA,unrelated,,,
+OA,QUART,4765.805,Studied,38,4,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+OA,TABLE,5681.2,Not Studied,NA,NA,Recalled,NA,36,Unrelated,BRAIN,NA,NA,unrelated,,,
+OA,MESSY,1548.31,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+OA,MONEY,7547.915,Studied,39,1,Recalled,Identical,35,Unrelated,STING,NA,NA,identical,money,33,1
+OA,SHOES,4914.845,Studied,21,2,Recalled,Identical,41,Identical,SHOES,NA,NA,identical,shoes,41,2
+OA,FINGER,3348.685,Studied,5,4,Recalled,NA,15,Unrelated,TOCK,NA,NA,unrelated,,,
+OA,FENCE,1388.89,Studied,7,4,Recalled,Identical,41,Identical,FENCE,NA,NA,identical,fence,41,4
+OA,PEPPER,1515.87,Studied,2,4,Recalled,NA,28,Identical,BEHIND,NA,SALT,related,salt,2,4
+OA,PLANT,2265.64,Studied,3,4,Recalled,Identical,29,Identical,ENTER,NA,NA,identical,plant,27,4
+OA,WHOLE,5081.33,Studied,28,4,Recalled,Identical,27,Identical,PLANT,NA,NA,identical,whole,26,4
+OA,SHOVE,5482.175,Studied,6,4,Recalled,NA,5,Identical,TIGER,NA,NA,unrelated,,,
+OA,PILE,4548.34,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+OA,MIDDLE,1114.56,Studied,28,3,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+OA,CHOOSE,3388.61,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,choose,18,3
+OA,MINUS,4798.365,Studied,12,4,Recalled,NA,35,Related,PLUS,MINUS,PLUS,related,plus,35,4
+OA,NEPHEW,1988.66,Studied,29,1,Recalled,NA,26,Related,HYMN,SONG,NIECE,unrelated,,,
+OA,YELLOW,1799.555,Studied,31,1,Recalled,NA,5,Related,WIDTH,LENGTH,NA,unrelated,,,
+OA,ORANGE,2138.4,Studied,30,1,Recalled,Identical,4,Identical,ORANGE,NA,NA,identical,orange,4,1
+OA,HOOP,3048.545,Studied,13,2,Recalled,NA,3,Related,SLAY,KILL,NA,unrelated,,,
+OA,BUCKET,7988.43,Studied,33,3,Recalled,Identical,40,Identical,BUCKET,NA,NA,identical,bucket,40,3
+OA,SLOW,5372.165,Studied,24,3,Recalled,NA,20,Identical,ALIVE,NA,NA,unrelated,,,
+OA,CAMP,1849.05,Studied,23,2,Recalled,NA,30,Related,TENT,CAMP,TENT,related,tent,30,2

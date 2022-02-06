@@ -1,0 +1,11 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+606303f443435a07a4e1d78c,STOPU,4649.54,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,firstword,,,
+606303f443435a07a4e1d78c,KILL,4366.815,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+606303f443435a07a4e1d78c,CROSS,4216.475,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+606303f443435a07a4e1d78c,PURPLE,7480.995,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+606303f443435a07a4e1d78c,YELLOW,3397.355,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+606303f443435a07a4e1d78c,BLACK,1848.28,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,white,11,2
+606303f443435a07a4e1d78c,BANANA,3313.975,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+606303f443435a07a4e1d78c,WORLD,2881.235,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,world,28,2
+606303f443435a07a4e1d78c,LENGHT,6361.57,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+606303f443435a07a4e1d78c,TWELVE,3230.915,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,twelve,12,1

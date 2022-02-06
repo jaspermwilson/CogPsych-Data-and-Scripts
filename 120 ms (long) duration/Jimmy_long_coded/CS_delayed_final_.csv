@@ -1,0 +1,23 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+CS,ROSE,8001.885,Studied,22,4,Recalled,NA,"12,41",Unrelated,ORANGE,NA,NA,unrelated,,,
+CS,HEAD,8000.485,Studied,31,4,Recalled,NA,2,Identical,PROPER,NA,NA,unrelated,,,
+CS,GRAND,8002.1,Studied,24,4,Recalled,NA,13,Identical,MOVE,NA,NA,unrelated,,,
+CS,BABY,8002.365,Studied,34,4,Recalled,Identical,42,Identical,BABY,NA,NA,unrelated,,,
+CS,VOLCA,8001.57,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+CS,VOLCANO,8002.6,Studied,1,2,Recalled,NA,10,Identical,LAUGH,NA,NA,unrelated,,,
+CS,HAIR,8002.095,Studied,11,2,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+CS,MUSIC,7999.29,Studied,NA,NA,Recalled,NA,2,Related,CHESS,GAME,NA,unrelated,,,
+CS,CHOIR,8001.48,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,sing,3,2
+CS,SURE,8000.665,Studied,25,1,Recalled,NA,11,Related,GRAMMAR,ENGLISH,NA,unrelated,,,
+CS,BORING,8000.9,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,FINISH,7989.465,Studied,35,1,Recalled,NA,"1,29",firstword,firstword,NA,NA,firstword,,,
+CS,ROSE,8020.03,Studied,22,4,Recalled,NA,"12,41",Unrelated,ORANGE,NA,NA,unrelated,,,
+CS,GRAND,7936.165,Studied,24,4,Recalled,NA,13,Identical,MOVE,NA,NA,unrelated,,,
+CS,FLOWER,7988.625,Not Studied,NA,NA,Recalled,Unrelated,38,Identical,SELF,NA,NA,identical,flower,7,4
+CS,STUPI,8001.885,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,STUPID,8001.98,Studied,41,4,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,WRITING,7999.515,Studied,NA,NA,NotRecalled,NA,"6,21",Identical,REPEAT,NA,NA,identical,write,30,4
+CS,CLASS,8001.76,Studied,16,4,Recalled,NA,5,Related,SESSION,CLASS,SESSION,related,session,5,4
+CS,PEN,8003.435,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,PENCIL,8000.88,Studied,22,1,Recalled,NA,8,Unrelated,SWAMP,NA,NA,unrelated,,,
+CS,BRAIN,8000.32,Studied,5,4,Recalled,NA,10,Unrelated,GLORY,NA,NA,unrelated,,,

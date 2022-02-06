@@ -1,0 +1,69 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+NC,YELLOW,3401.2,Studied,32,1,Recalled,NA,3,Identical,TWELVE,NA,NA,unrelated,,,
+NC,DAGGER,2868.32,Studied,4,1,NotRecalled,NA,NA,NA,NA,NA,CLOAK,related,cloak,8,1
+NC,TENNIS,5053.61,Studied,27,3,Recalled,NA,3,Identical,PAIN,NA,NA,unrelated,,,
+NC,BALLET,1582.28,Studied,28,3,Recalled,NA,8,Unrelated,BOARD,NA,NA,unrelatd,,,
+NC,HOME,8001.945,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,PEN,7367.38,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,BASKET,1715.14,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,DOOR,1883.155,Studied,39,2,Recalled,NA,40,Related,HINGE,DOOR,HINGE,related,hinge,40,2
+NC,WATER,8001.015,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,MARKER,5485.3,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,CORAL,2967.305,Studied,4,4,Recalled,NA,8,Unrelated,DEATH,NA,NA,unrelated,,,
+NC,SHARK,1049.68,Studied,14,4,Recalled,NA,2,Unrelated,SHALLOW,NA,NA,unrelated,,,
+NC,HORSE,1517,Studied,15,4,Recalled,NA,30,Related,TROT,HORSE,TROT,related,trot,30,4
+NC,AFTER,3133.24,Not Studied,NA,NA,Recalled,NA,13,Identical,BEFORE,NA,NA,related,before,13,3
+NC,THERE,982.58,Studied,19,4,Recalled,NA,12,Related,POST,OFFICE,NA,unrelated,,,
+NC,WHERE,1217.95,Studied,26,4,Recalled,Identical,11,Identical,WHERE,NA,NA,identical,where,11,4
+NC,HORSE,3919.38,Studied,15,4,Recalled,NA,30,Related,TROT,HORSE,TROT,related,trot,30,4
+NC,SHOVE,3417.6,Studied,12,4,Recalled,Identical,37,Identical,SHOVE,NA,NA,identical,shove,37,4
+NC,UNCLE,1400.805,Studied,24,4,Recalled,NA,21,Unrelated,PIECE,NA,NA,unrelated,,,
+NC,KIL,3552.39,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,kill,13,2
+NC,KILL,916.14,Studied,32,2,Recalled,Identical,13,Identical,KILL,NA,NA,identical,kill,13,2
+NC,COAT,2517.805,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+NC,PHONE,3550.215,Studied,16,4,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+NC,CALL,2650.335,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,MINOR,6268.9,Studied,13,2,Recalled,Identical,28,Identical,MINOR,NA,NA,identical,minor,28,2
+NC,MAJOR,1316.255,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,minor,28,2
+NC,WINDOW,2656.415,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,SONG,8014.09,Studied,42,1,Recalled,NA,8,Related,CLOAK,DAGGER,NA,unrelated,,,
+NC,LOVE,6134.02,Not Studied,NA,NA,Recalled,NA,23,Related,CHORE,WORK,NA,unrelated,,,
+NC,LENGTH,1416.215,Studied,37,1,Recalled,Identical,40,Identical,LENGTH,NA,NA,identical,length,40,1
+NC,CUE,7702.66,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,PLANT,1382.415,Studied,13,4,Recalled,NA,4,Unrelated,BUSH,NA,NA,unrelated,,,
+NC,GUI,8002.575,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,GUITAR,1950.515,Studied,12,1,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,STAIR,4802.76,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,stairs,41,1
+NC,SHOE,2266.555,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,SNEAKER,1283.59,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,NOSE,3399.67,Studied,26,3,Recalled,NA,14,Related,MEDIA,NEWS,NA,unrelated,,,
+NC,LIAR,2528.475,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,KIDNAP,2268.405,Studied,25,3,Recalled,NA,16,Identical,HUNGER,NA,NA,unrelated,,,
+NC,BLACK,7434.96,Studied,42,2,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+NC,LADDER,4368.835,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,LAMP,6200.91,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,TOWEL,4133.33,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,NUN,6651.075,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,KWY,7517.445,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,KEY,683.275,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,UMBRELLA,7184.38,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,IMAGINE,4150.785,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,dream,39,1
+NC,TRAIN,2220.46,Studied,29,2,Recalled,NA,11,Related,SOIL,DIRT,NA,unrelated,,,
+NC,STA,8001.1,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,STAR,1032.575,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,stars,22,2
+NC,NE,8000.935,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,NEON,1200.665,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,LIGHT,2600.475,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,PRUSPLE,7999.805,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,PURPLE,2183.81,Studied,14,3,NotRecalled,NA,NA,NA,NA,NA,VIOLET,related,violet,2,3
+NC,SHIRT,7250.805,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,FISH,1499.55,Studied,34,1,Recalled,NA,26,Related,BAIT,FISH,BAIT,related,bait,26,1
+NC,BLANKET,4916.32,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,PENCIL,2350.66,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,PICTURE,5152.815,Studied,10,2,Recalled,Identical,16,Identical,PICTURE,NA,NA,identical,picture,16,2
+NC,STORY,2950.475,Studied,9,1,Recalled,Identical,20,Identical,STORY,NA,NA,identical,story,20,1
+NC,TIGER,2466.7,Studied,38,4,NotRecalled,NA,NA,NA,NA,NA,LION,related,lion,35,4
+NC,BELIEF,4088.12,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+NC,LIKE,4401.015,Not Studied,NA,NA,Recalled,NA,21,Unrelated,SOUR,NA,NA,unrelated,,,
+NC,FRIGHT,1733.06,Studied,2,1,Recalled,NA,30,Related,SCARE,FRIGHT,SCARE,related,scare,30,1
+NC,WALK,5317.005,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

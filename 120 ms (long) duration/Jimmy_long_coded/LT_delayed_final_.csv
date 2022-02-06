@@ -1,0 +1,12 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+LT,STONE,6998.98,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+LT,STORY,1472.88,Studied,28,2,Recalled,NA,22,Identical,LENGTH,NA,TALE,related,tale,9,2
+LT,CHEESE,3883.49,Studied,35,2,Recalled,NA,11,Unrelated,STRESS,NA,NA,unrelated,,,
+LT,BEACH,3462.015,Studied,36,2,Recalled,NA,2,Identical,MONEY,NA,NA,unrelated,,,
+LT,CHAIRS,2100.82,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,chair,3,2
+LT,STAIRS,2002.025,Studied,14,2,Recalled,NA,25,Identical,OUTTAKE,NA,NA,unrelated,,,
+LT,JAIL,6556.485,Studied,34,2,Recalled,NA,5,Unrelated,GUILT,NA,NA,unrelated,,,
+LT,MOMENT,8000.79,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+LT,LAUGH,3332.395,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,laugh,25,4
+LT,MILK,4754.08,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,milk,29,2
+LT,ENTER,4157.805,Studied,4,1,NotRecalled,NA,NA,NA,NA,NA,EXIT,related,exit,30,1

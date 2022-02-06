@@ -1,0 +1,33 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+LG,SWAMP,2783.79,Studied,1,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+LG,SOIL,1665.83,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,soil,11,2
+LG,HAND,3699.515,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,finger,2,3
+LG,FINGERS,1832.77,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+LG,TOES,1433.14,Studied,25,2,Recalled,NA,33,Unrelated,NONE,NA,NA,unrelated,,,
+LG,SPACE,1283.19,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+LG,SQUARE,1850.45,Studied,12,2,Recalled,NA,3,Unrelated,SING,NA,NA,unrelated,,,
+LG,ROAD,3501.165,Studied,8,1,Recalled,Identical,14,Identical,ROAD,NA,NA,identical,road,14,1
+LG,CAR,3270.08,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+LG,DEVIL,3316.84,Studied,24,1,Recalled,NA,19,Related,TENT,CAMP,NA,unrelated,,,
+LG,KIDNAP,3683.855,Studied,13,2,Recalled,Identical,35,Identical,KIDNAP,NA,NA,identical,kidnap,35,2
+LG,NAVY,2032.695,Studied,33,2,Recalled,NA,8,Identical,PAIN,NA,NA,unrelated,,,
+LG,RUN,6273.1,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+LG,RING,5133.21,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+LG,WATCH,3218.51,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+LG,UMBRELLA,7650.07,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+LG,GAS,2281.94,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+LG,RAT,3185.36,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+LG,BLACK,7833.94,Studied,2,1,Recalled,NA,3,Related,TEACH,LEARN,NA,unrelated,,,
+LG,WHITE,1566.915,Not Studied,NA,NA,Recalled,NA,12,Unrelated,GRAVE,NA,NA,unrelated,,,
+LG,CRACKER,1483.455,Studied,29,4,Recalled,Identical,11,Identical,CRACKER,NA,NA,identical,cracker,11,4
+LG,LAND,4451.665,Studied,3,1,NotRecalled,NA,27,Unrelated,WANT,NA,ACRE,related,acre,10,1
+LG,THROUGH,3000.58,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+LG,KNIFE,4969.855,Not Studied,NA,NA,Recalled,Unrelated,23,Unrelated,KNIFE,NA,NA,identical,knife,23,3
+LG,TOUCH,4367.09,Not Studied,NA,NA,Recalled,Unrelated,21,Unrelated,TOUCH,NA,NA,identical,touch,21,4
+LG,PICK,3582.315,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,choose,6,2
+LG,SMOOTH,4533.035,Studied,7,4,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,smooth,41,4
+LG,PAVEMENT,6934.775,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+LG,WASH,5309.71,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+LG,GHOST,3118.915,Studied,23,1,Recalled,Identical,29,Related,SKIP,JUMP,NA,identical,ghost,28,1
+LG,SOUL,6667.675,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+LG,FLASH,7900.01,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

@@ -1,0 +1,17 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+AM2,COPY,7988.89,Studied,15,1,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,copy,36,1
+AM2,SMART,7998.54,Studied,1,1,Recalled,NA,11,Unrelated,THIEF,NA,NA,unrelated,,,
+AM2,SOUR,7998.61,Studied,1,2,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+AM2,STICKY,7998.54,Studied,2,2,Recalled,NA,2,Unrelated,MIDDLE,NA,NA,unrelated,,,
+AM2,LARGE,7998.435,Studied,22,1,Recalled,NA,7,Unrelated,HOTEL,NA,MEDIUM,related,medium,6,1
+AM2,SMALL,7998.65,Studied,23,1,Recalled,NA,6,Related,MEDIUM,LARGE,NA,unrelated,,,
+AM2,CELL,7998.35,Studied,15,4,Recalled,NA,16,Identical,BREAD,NA,NA,unrelated,,,
+AM2,NIGHT,17370.205,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,nights,37,4
+AM2,S,7998.51,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AM2,STRESS,7989.565,Studied,42,4,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+AM2,SCISSORS,7389.625,Studied,26,3,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,scissors,32,3
+AM2,STA,8110.67,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AM2,STAMP,7998.535,Studied,27,3,Recalled,NA,15,Unrelated,GRASS,NA,NA,unrelated,,,
+AM2,PACKAGE,7998.425,Studied,29,3,Recalled,Identical,16,Related,GRAVY,POTATO,NA,identical,package,7,3
+AM2,POTATO,7998.43,Studied,12,3,Recalled,NA,18,Unrelated,CLOSE,NA,GRAVY,related,gravy,16,3
+AM2,VOTE,7998.555,Studied,13,3,Recalled,NA,19,Unrelated,WHERE,NA,NA,unrelated,,,

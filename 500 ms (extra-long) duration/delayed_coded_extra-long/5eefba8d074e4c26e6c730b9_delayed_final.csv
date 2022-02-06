@@ -1,0 +1,42 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+5eefba8d074e4c26e6c730b9,CAKE,1732.6,Studied,3,3,Recalled,NA,2,Unrelated,DUSK,NA,NA,unrelated,,,
+5eefba8d074e4c26e6c730b9,BAKE,2651.4,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,OVEN,2032.9,Studied,6,3,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+5eefba8d074e4c26e6c730b9,DEATH,4800.3,Studied,4,1,Recalled,NA,2,Related,SKETCH,DRAW,NA,unrelated,,,
+5eefba8d074e4c26e6c730b9,GRAVE,3583.7,Studied,39,2,Recalled,NA,4,Unrelated,EGGS,NA,NA,unrelated,,,
+5eefba8d074e4c26e6c730b9,FUNERAL,1998.8,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,SPIN,7018.3,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,HAIR,5301.4,Studied,42,4,Recalled,Identical,12,Identical,HAIR,NA,NA,identical,hair,12,4
+5eefba8d074e4c26e6c730b9,BRUSH,6935,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,WATER,2500.6,Studied,2,3,Recalled,NA,3,Related,MEDIUM,LARGE,NA,unrelated,,,
+5eefba8d074e4c26e6c730b9,BOOK,6150.8,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,read,4,4
+5eefba8d074e4c26e6c730b9,TOY,5950.4,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,SPIT,3267.3,Studied,1,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+5eefba8d074e4c26e6c730b9,SPIN,2917.5,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,STUPID,6467.6,Studied,6,2,Recalled,NA,13,Unrelated,CHEESE,NA,NA,unrelated,,,
+5eefba8d074e4c26e6c730b9,WALL,6767.9,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,PA,7999.4,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,PAPER,1698.7,Studied,30,3,NotRecalled,NA,NA,NA,NA,NA,MARGIN,related,margin,29,3
+5eefba8d074e4c26e6c730b9,PEN,5084.4,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,PENCIL,6450,Studied,35,3,Recalled,Identical,30,Identical,PENCIL,NA,NA,identical,pencil,30,3
+5eefba8d074e4c26e6c730b9,BATH,5717,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,TUB,899.3,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,BED,2718.3,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,SOFA,5600.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,PLATE,2216.4,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,MEDAL,1969.2,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,COMPUTER,8000.9,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,PLANE,1532.8,Studied,NA,NA,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,plane,17,1
+5eefba8d074e4c26e6c730b9,TRAVEL,4552.3,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,WALL,1267,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,TOOTH,2283,Studied,16,2,Recalled,NA,17,Unrelated,ORANGE,NA,NA,unrelated,,,
+5eefba8d074e4c26e6c730b9,BOOK,7182.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,read,4,4
+5eefba8d074e4c26e6c730b9,EMAIL,6050.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,PLUS,3716.9,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,SMILE,7917.4,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,FACE,1932.8,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,WORK,6583,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,GAS,6777.6,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,COLOR,5984.8,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5eefba8d074e4c26e6c730b9,FOOD,2983.1,Studied,7,4,Recalled,NA,19,Identical,FIND,NA,NA,unrelated,,,
+5eefba8d074e4c26e6c730b9,PLEAD,4967.11,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

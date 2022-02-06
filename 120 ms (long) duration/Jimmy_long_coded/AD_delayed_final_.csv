@@ -1,0 +1,38 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+AD,PLEAD,7990.685,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AD,STRIPE,7989.6,Studied,4,2,Recalled,Identical,26,Identical,STRIPE,NA,NA,identical,stripe,26,2
+AD,GRAND,7989.845,Studied,1,3,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+AD,SLIDE,7990.065,Studied,5,2,Recalled,NA,10,Unrelated,MEAN,NA,NA,unrelated,,,
+AD,DEATH,7990.25,Studied,12,2,Recalled,NA,19,Unrelated,SPOON,NA,BIRTH,related,birth,6,2
+AD,GUILT,7989.865,Studied,10,3,Recalled,NA,15,Unrelated,STREAM,NA,NA,unrelated,,,
+AD,SHALLOW,7990.215,Studied,3,2,Recalled,NA,"11,15",Related,TRACTOR,TRAILER,NA,unrelated,,,
+AD,WATER,7990.165,Studied,32,4,Recalled,NA,19,Unrelated,LAKE,NA,NA,unrelated,,,
+AD,UNDER,7990.065,Studied,42,3,Recalled,NA,34,Related,BENEATH,UNDER,BENEATH,related,beneath,34,3
+AD,BOARD,7990.14,Studied,10,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+AD,LOVE,7990.15,Studied,25,1,Recalled,NA,10,Related,CAPTAIN,SHIP,NA,unrelated,,,
+AD,LAUGH,7990.27,Studied,40,1,Recalled,NA,"16,32",Related,BIZZARE,STRANGE,NA,unrelated,,,
+AD,MAID,7990.11,Studied,4,4,Recalled,Identical,"4,8",Identical,MAID,NA,NA,identical,maid,4,4
+AD,BAKE,7990.215,Not Studied,NA,NA,NotRecalled,Related,NA,NA,NA,NA,NA,identical,bake,28,4
+AD,OVEN,7993.465,Studied,15,4,Recalled,NA,28,Related,BAKE,CAKE,NA,unrelated,,,
+AD,ANNOY,7989.165,Studied,36,2,Recalled,NA,6,Related,BIRTH,DEATH,BOTHER,related,bother,5,2
+AD,DRESS,7990.605,Studied,17,1,Recalled,Identical,9,Identical,DRESS,NA,NA,identical,dress,9,2
+AD,BUSH,7990.25,Studied,8,2,Recalled,NA,12,Identical,RAIN,NA,NA,unrelated,,,
+AD,TOCK,7990.15,Studied,27,2,Recalled,NA,20,Related,DISLIKE,HATE,NA,unrelated,,,
+AD,POTATO,7990.115,Studied,6,2,Recalled,NA,13,Related,PLIERS,TOOL,NA,unrelated,,,
+AD,CHILD,7999.415,Studied,42,2,Recalled,NA,14,Related,CHARGE,CARD,NA,unrelated,,,
+AD,MANY,7988.775,Studied,41,2,Recalled,NA,3,Related,BLADE,KNIFE,NA,unrelated,,,
+AD,DOCTOR,7990.385,Studied,28,3,Recalled,NA,25,Unrelated,HORN,NA,NA,unrelated,,,
+AD,LAUGH,7989.745,Studied,40,1,Recalled,NA,"16,32",Related,BIZZARE,STRANGE,NA,unrelated,,,
+AD,STICKY,7988.3,Studied,8,1,Recalled,NA,6,Related,GLUE,STICKY,GLUE,related,glue,6,1
+AD,TOUCH,7990.745,Studied,17,3,NotRecalled,NA,NA,NA,NA,NA,CARESS,related,caress,29,3
+AD,HEAR,7989.86,Studied,12,1,Recalled,NA,7,Related,VIRUS,SICK,NA,unrelated,,,
+AD,SING,7990.065,Studied,27,1,Recalled,NA,"19,31",Unrelated,CANDLE,NA,NA,unrelated,,,
+AD,MUSIC,7989.98,Studied,NA,NA,Recalled,NA,21,Related,SEARCH,FIND,NA,related,band,8,1
+AD,SCISSORS,7990.075,Studied,14,2,Recalled,NA,5,Related,BOTHER,ANNOY,NA,unrelated,,,
+AD,HAIR,7990.245,Studied,37,1,Recalled,NA,8,Related,BAND,MUSIC ,NA,unrelated,,,
+AD,BOARD,7989.06,Studied,10,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+AD,MAGIC,7988.495,Studied,39,1,Recalled,Identical,37,Identical,MAGIC,NA,NA,identical,magic,37,1
+AD,NINE,7990.025,Studied,42,4,Recalled,NA,"1,29",firstword,firstword,NA,NA,firstword,,,
+AD,STAIRS,7989.535,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AD,LAWYER,7990.685,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,lawyer,10,3
+AD,TOUCH,7989.795,Studied,17,3,NotRecalled,NA,NA,NA,NA,NA,CARESS,related,caress,29,3

@@ -1,0 +1,101 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+RJ,BEGIN,3736.255,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,EXTENT,1617.005,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,WEST,768.005,Studied,14,2,Recalled,NA,8,Related,HOPE,GLORY,NA,unrelated,HOPE,8,2
+RJ,ORANGE,1168.2,Studied,18,2,Recalled,Identical,29,Related,NERD,GEEK,NA,identical,ORANGE,39,2
+RJ,YELLOW,1350.81,Studied,17,2,Recalled,Identical,37,Identical,STREAM,NA,NA,identical,YELLOW,34,2
+RJ,WEST,767.62,Studied,14,2,Recalled,NA,8,Related,HOPE,GLORY,NA,unrelated,HOPE,8,2
+RJ,LEFT,820.83,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,RIGHT,26,2
+RJ,HOUSE,1523.8,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,,7988.845,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,,7989.72,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,,7989.775,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,,8010.3,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,SOAP,3818.8,Studied,4,4,NotRecalled,NA,NA,NA,NA,NA,ZEST,related,ZEST,14,4
+RJ,WRITE,4675.515,Not Studied,NA,NA,Recalled,NA,40,Identical,THIRST,NA,NA,unrelated,THIRST,40,4
+RJ,READ,868.115,Studied,24,4,Recalled,NA,"6,11",Unrelated,EFFECT,NA,NA,unrelated,BELOW,11,3
+RJ,TOGETHER,2084.895,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,TEST,1817.145,Studied,16,4,Recalled,NA,3,Unrelated,PROBLEM,NA,NA,unrelated,PROBLEM,3,4
+RJ,HOUSE,1968.235,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,HOME,1017.315,Not Studied,NA,NA,Recalled,NA,34,Identical,VERB,NA,NA,unrelated,VERB,34,4
+RJ,THIRST,917.395,Studied,17,4,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,THIRST,40,4
+RJ,WATER,1055.955,Not Studied,NA,NA,Recalled,NA,42,Related,SEED,PLANT,NA,unrelated,SEED,42,1
+RJ,FOOD,1284.815,Not Studied,NA,NA,Recalled,Unrelated,22,Unrelated,HAPPY,NA,NA,identical,FOOD,20,4
+RJ,BED,2734.93,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,HAY,767.01,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,FARM,984.47,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,BARN,1001.67,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,ANIMAL,1990.445,Studied,17,1,Recalled,Identical,"13,39",Identical,ANIMAL,NA,NA,identical,ANIMAL,13,1
+RJ,HORSE,2600.99,Studied,4,1,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,DOG,1100.535,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,BEGIN,1333.75,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,START,1120.225,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,RUN,1934.785,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,CAR,843.135,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,LARGE,2968.255,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,,8003.99,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,SCHOOL,1383.79,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,WATER,883.79,Not Studied,NA,NA,Recalled,NA,42,Related,SEED,PLANT,NA,unrelated,SEED,42,1
+RJ,,7989.99,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,FOOD,2484.335,Not Studied,NA,NA,Recalled,Unrelated,22,Unrelated,HAPPY,NA,NA,identical,FOOD,20,4
+RJ,DINNER,1279.21,Not Studied,NA,NA,NotRecalled,Related,NA,NA,NA,NA,NA,identical,DINNER,6,4
+RJ,SUPPER,1101.08,Studied,40,4,NotRecalled,NA,NA,NA,NA,NA,DINNER,related,DINNER,6,4
+RJ,LUNH,1171.86,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,LUNCH,1851.725,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,LAUNCH,2500.92,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,BREAKFAST,2635.425,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,APPLE,1434.155,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,DOG,551.04,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,PANCAKE,1754.98,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,WAFFLE,1567.52,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,WAR,1434.585,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,GENERAL,1217.735,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,DEGREE,2217.05,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,SCHOOL,1410.815,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,TEST,1948.835,Studied,16,4,Recalled,NA,3,Unrelated,PROBLEM,NA,NA,unrelated,PROBLEM,3,4
+RJ,PENCIL,1316.995,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,PENCIL,5,3
+RJ,PEN,1522.28,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,ERASER,2603.215,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,PENCIL,5,3
+RJ,RE,7988.955,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,READ,1632.44,Studied,24,4,Recalled,NA,"6,11",Unrelated,EFFECT,NA,NA,unrelated,BELOW,11,3
+RJ,SCHOOL,1801.31,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,BREAL,1084.205,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,BREAK,1253.535,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,REAL,1919.855,Not Studied,NA,NA,Recalled,Unrelated,30,Related,ACRE,LAND,NA,identical,REAL,3,1
+RJ,TEAM,1205.4,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,MATTED,1867.215,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,WATER,851.955,Not Studied,NA,NA,Recalled,NA,42,Related,SEED,PLANT,NA,unrelated,SEED,42,1
+RJ,MATT,1498.955,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,MATTE,1298.815,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,HAIR,1320.035,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,ANIMAL,4705.29,Studied,17,1,Recalled,Identical,"13,39",Identical,ANIMAL,NA,NA,identical,ANIMAL,13,1
+RJ,HORSE,1010.38,Studied,4,1,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,DOG,666.9,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,CUP,1390.64,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,WATER,1132.71,Not Studied,NA,NA,Recalled,NA,42,Related,SEED,PLANT,NA,unrelated,SEED,42,1
+RJ,SNACK,2101.3,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,FOOD,968.34,Not Studied,NA,NA,Recalled,Unrelated,22,Unrelated,HAPPY,NA,NA,identical,FOOD,20,4
+RJ,READ,720.725,Studied,24,4,Recalled,NA,"6,11",Unrelated,EFFECT,NA,NA,unrelated,BELOW,11,3
+RJ,CLUE,1440.19,Studied,21,4,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,CLUE,2,4
+RJ,BEGIN,2147.915,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,LAWYER,1816.265,Studied,4,2,Recalled,NA,22,Unrelated,SPOTS,NA,NA,unrelated,SPOTS,22,2
+RJ,LAW,2101.135,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,POLITICIAN,2988.215,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,CRIME,1404.995,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,JUMP,4470.92,Studied,10,3,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,JUMP,27,3
+RJ,HELP,2238.585,Not Studied,NA,NA,Recalled,NA,3,Unrelated,COPY,NA,NA,unrelated,COPY,3,3
+RJ,JACKET,2934.565,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,JACKET,5,4
+RJ,YELLOW,1818.905,Studied,17,2,Recalled,Identical,37,Identical,STREAM,NA,NA,identical,YELLOW,34,2
+RJ,LESS,7319.995,Studied,10,4,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,MORE,1500.185,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,LOW,1114.225,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,GROW,1131.345,Not Studied,NA,NA,Recalled,NA,42,Unrelated,CARRY,NA,NA,unrelated,CARRY,42,3
+RJ,SLOW,844.7,Studied,1,4,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+RJ,THROW,2675.24,Studied,23,1,Recalled,NA,8,Related,SALT,PEPPER,NA,unrelated,SALT,8,1
+RJ,GROW,2355.16,Not Studied,NA,NA,Recalled,NA,42,Unrelated,CARRY,NA,NA,unrelated,CARRY,42,3
+RJ,NEED,2107.17,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,SOCK,1381.645,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,SHOES,2,3
+RJ,CHARGE,2382.935,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,CARD,20,1
+RJ,PHONE,1222.78,Studied,41,1,Recalled,NA,42,Identical,MOST,NA,DIAL,related,DIAL,12,1
+RJ,SICK,2366.205,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RJ,SHO,633.995,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

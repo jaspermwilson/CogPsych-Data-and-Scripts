@@ -1,0 +1,10 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+60b69fcdea8cc6cc3672f729,FOOD,4149,Studied,41,2,Recalled,Identical,29,Identical,FOOD,NA,NA,identical,food,29,2
+60b69fcdea8cc6cc3672f729,PENCIL,3087.9,Studied,3,1,Recalled,NA,2,Unrelated,TRAIN,NA,NA,unrelated,,,
+60b69fcdea8cc6cc3672f729,LOVE,3966.3,Studied,14,2,Recalled,Identical,3,Unrelated,MOTHER,NA,NA,identical,love,2,2
+60b69fcdea8cc6cc3672f729,DEATH,5371.2,Studied,17,3,Recalled,NA,4,Identical,CHILD,NA,NA,unrelated,,,
+60b69fcdea8cc6cc3672f729,SPOTS,3865.8,Studied,16,4,Recalled,NA,8,Related,CANYON,GRAND,NA,unrelated,,,
+60b69fcdea8cc6cc3672f729,WOOD,1354.7,Studied,17,4,Recalled,NA,3,Unrelated,LAWYER,NA,NA,unrelated,,,
+60b69fcdea8cc6cc3672f729,BREAD,2849.2,Studied,18,4,Recalled,Identical,16,Identical,BREAD,NA,NA,identical,bread,16,4
+60b69fcdea8cc6cc3672f729,LIGHT,2972.4,Studied,35,4,Recalled,Identical,40,Identical,LIGHT,NA,NA,identical,light,40,4
+60b69fcdea8cc6cc3672f729,DOG,5603.5,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

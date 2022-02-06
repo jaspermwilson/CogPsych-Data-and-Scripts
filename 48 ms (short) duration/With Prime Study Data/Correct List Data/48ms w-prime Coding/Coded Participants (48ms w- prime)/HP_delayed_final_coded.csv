@@ -1,0 +1,101 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+HP,EGG,5696.495,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,DOCTOR,23,1
+HP,ROCK,6318.865,Studied,16,4,Recalled,Identical,8,Identical,ROCK,NA,NA,identical,ROCK,8,4
+HP,LEAVES,4318.895,Studied,17,4,Recalled,NA,9,Unrelated,CARD,NA,NA,unrelated,CARD,9,4
+HP,TEETH,1714.58,Studied,15,4,Recalled,NA,29,Related,HALF,WHOLE,GUMS,related,GUMS,14,4
+HP,WHERE,1084.375,Studied,20,4,Recalled,Identical,39,Unrelated,NECK,NA,NA,identical,WHERE,17,4
+HP,THERE,1383.7,Studied,11,4,Recalled,NA,11,Unrelated,PIECE,NA,NA,unrelated,PIECE,11,4
+HP,THROW,1051.205,Studied,10,4,Recalled,Identical,10,Related,FORK,SPOON,NA,identical,THROW,4,4
+HP,SHOVE,1016.38,Studied,14,4,Recalled,NA,7,Related,HAND,FINGER,NA,unrelated,HAND,7,4
+HP,OFFICE,2233.55,Studied,1,4,Recalled,NA,19,Identical,SHORT,NA,NA,unrelated,SHORT,19,4
+HP,CLOCK,1366.905,Studied,6,4,Recalled,NA,23,Identical,YOURS,NA,NA,unrelated,YOURS,23,4
+HP,MEAN,2499.38,Studied,13,4,Recalled,NA,28,Related,BUCK,DOLLAR,NA,unrelated,BUCK,28,4
+HP,MINUTE,1366.685,Studied,7,4,Recalled,Identical,24,Identical,MINUTE,NA,NA,identical,MINUTE,24,4
+HP,WORLD,1545.725,Studied,31,2,Recalled,NA,"15,20",Identical,WORK,NA,GLOBE,unrelated,SMOKE,20,2
+HP,DREAM,1468.1,Studied,10,1,NotRecalled,NA,NA,NA,NA,NA,IMAGINE,related,IMAGINE,18,1
+HP,CLOSE,2933.65,Studied,12,4,Recalled,NA,21,Identical,CANCER,NA,NA,unrelated,CANCER,21,4
+HP,ENTER,1496.06,Studied,21,4,Recalled,NA,22,Identical,QUART,NA,NA,unrelated,QUART,22,4
+HP,MINUTE,1216.82,Studied,7,4,Recalled,Identical,24,Identical,MINUTE,NA,NA,identical,MINUTE,24,4
+HP,CANCER,2821.015,Studied,4,4,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,CANCER,21,4
+HP,FINGER,1450.205,Studied,8,4,Recalled,NA,25,Related,LOST,FOUND,HAND,related,HAND,7,4
+HP,SPOON,1498.395,Studied,5,4,Recalled,NA,31,Unrelated,TOCK,NA,FORK,related,FORK,10,4
+HP,SHORT,1317.42,Studied,9,4,Recalled,Identical,27,Unrelated,STRIPE,NA,NA,identical,SHORT,19,4
+HP,FOUND,1335.715,Studied,28,4,Recalled,NA,26,Unrelated,KNIFE,NA,LOST,related,LOST,25,4
+HP,WHOLE,1267.165,Studied,31,4,Recalled,NA,30,Unrelated,SHALLOW,NA,HALF,related,HALF,29,4
+HP,FENCE,1830.855,Studied,32,4,Recalled,NA,35,Unrelated,WRONG,NA,GATE,related,GATE,15,4
+HP,PLANT,1649.915,Studied,27,4,Recalled,NA,6,Unrelated,MANY,NA,NA,unrelated,MANY,6,4
+HP,ANIMAL,1117.88,Studied,39,4,Recalled,NA,12,Identical,EARLY,NA,NA,unrelated,EARLY,12,4
+HP,QUEEN,2935.815,Studied,30,4,Recalled,NA,14,Related,GUMS,TEETH,NA,unrelated,GUMS,14,4
+HP,CORAL,1433.005,Studied,40,4,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+HP,GIRLS,1100.19,Studied,18,4,Recalled,NA,15,Related,GATE,FENCE,NA,unrelated,GATE,15,4
+HP,PEPPER,1736.835,Studied,23,4,Recalled,NA,"5,42",Unrelated,SCISSORS,NA,NA,unrelated,STAMP,42,4
+HP,TIGER,2233.48,Studied,41,4,Recalled,NA,40,Unrelated,QUIET,NA,LION,related,LION,3,4
+HP,UNCLE,1533.425,Studied,25,4,Recalled,NA,4,Identical,THROW,NA,NA,unrelated,THROW,4,4
+HP,LEMON,1614.235,Studied,26,4,Recalled,NA,3,Related,LION,TIGER,NA,unrelated,LION,3,4
+HP,YEARS,4984.695,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,BEHIND,6414.46,Studied,29,4,Recalled,NA,17,Identical,WHERE,NA,NA,unrelated,WHERE,17,4
+HP,BEFORE,1165.725,Studied,35,4,Recalled,NA,18,Identical,SHARK,NA,NA,unrelated,SHARK,18,4
+HP,SORRY,5404.295,Studied,3,2,Recalled,NA,4,Identical,FIVE,NA,NA,unrelated,FIVE,4,2
+HP,ROAD,999.905,Studied,2,2,Recalled,NA,2,Related,MARSH,SWAMP,NA,unrelated,MARSH,2,2
+HP,SMOKE,3349.01,Studied,14,2,Recalled,Identical,26,Related,GALAXY,STARS,NA,identical,SMOKE,20,2
+HP,GEEK,4099.4,Studied,17,2,Recalled,NA,24,Related,SKIP,JUMP,NA,unrelated,MINIMUM,35,2
+HP,STARS,2382.14,Studied,11,2,NotRecalled,NA,NA,NA,NA,NA,GALAXY,related,GALAXY,26,2
+HP,SHARK,5432.35,Studied,19,4,Recalled,Identical,41,Unrelated,DISAGREE,NA,NA,identical,SHARK,18,4
+HP,PEPPER,1798.465,Studied,23,4,Recalled,NA,"5,42",Unrelated,SCISSORS,NA,NA,unrelated,STAMP,42,4
+HP,SONG,4017.175,Studied,35,1,Recalled,NA,"7,17",Identical,SELLER,NA,NA,unrelated,KNIT,17,1
+HP,RIGHT,915.335,Studied,36,1,Recalled,NA,6,Unrelated,CELL,NA,NA,unrelated,CELL,6,1
+HP,,8002.015,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,1570.135,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,584.0500001,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,618.3150001,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,HORSE,7766.75,Studied,37,4,NotRecalled,NA,NA,NA,NA,NA,TROT,related,TROT,33,4
+HP,MANE,915.895,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,BRIDGE,5516.21,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,4111.285,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,1234.265,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,8000.21,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,WORST,1385.265,Studied,38,4,Recalled,NA,13,Unrelated,PACKAGE,NA,NA,unrelated,PACKAGE,13,4
+HP,,7998.875,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,NICKEL,5050.29,Studied,39,1,Recalled,NA,19,Identical,NUMBER,NA,NA,unrelated,NUMBER,19,1
+HP,PHONW,7250.465,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,REAL,20,4
+HP,,8000.62,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,667.875,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,697.925,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,SWAMP,5001.295,Studied,10,2,Recalled,NA,5,Related,GLOBE,WORLD,MARSH,related,MARSH,2,2
+HP,DIRT,2114.82,Studied,42,2,Recalled,NA,12,Identical,STOMACH,NA,NA,unrelated,STOMACH,12,2
+HP,FROG,1499.885,Studied,26,2,Recalled,NA,9,Identical,HOOP,NA,NA,unrelated,HOOP,9,2
+HP,BRIDE,5269.275,Studied,1,2,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+HP,RUN,7215.355,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,AWAY,2867.29,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,4134.605,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,NIECE,4116.53,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,NEPHEW,9,1
+HP,,966.825,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,498.35,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,220.74,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,64.67999995,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,498.81,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,500.425,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,217.0449999,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,251.53,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,198.5899999,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,232.985,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,148.84,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,218.74,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,133.35,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,50.12999999,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,131.6249999,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,483.015,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,116.6150001,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,249.51,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,166.0750001,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,100.135,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,233.305,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,83.125,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,35.00000003,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,166.74,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,58.17000009,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,82.73500006,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,49.02000003,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,550.65,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,231.48,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+HP,,216.715,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

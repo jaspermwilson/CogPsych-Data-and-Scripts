@@ -1,0 +1,67 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondtion,Prime,PrimePosition,PrimeBlock
+SK2,HORSE,1598.005,Studied,26,1,Recalled,NA,12,Unrelated,SHALLOW,NA,NA,unrelated,,,
+SK2,ORANGE,1759.905,Studied,8,2,Recalled,NA,15,Related,SCALE,WEIGHT,PEEL,related,peel,11,2
+SK2,YELLOW,1213.175,Studied,19,2,Recalled,NA,14,Related,CLOAK,DAGGER,NA,unrelated,,,
+SK2,FENCE,1337.915,Studied,24,1,Recalled,NA,14,Unrelated,SLIDE,NA,NA,unrelated,,,
+SK2,OFFICE,1151.475,Studied,30,1,Recalled,NA,15,Unrelated,THANKS,NA,NA,unrelated,,,
+SK2,CRACKER,4599.45,Studied,26,2,Recalled,NA,42,Unrelated,PROPER,NA,SALTINE,related,saltine,29,2
+SK2,LAND,2949.75,Studied,6,3,Recalled,Identical,17,Related,HULA,HOOP,NA,identical,land,12,3
+SK2,KILL,1738.58,Studied,41,3,Recalled,NA,2,Unrelated,CARRY,NA,NA,unrelated,,,
+SK2,BOMB,2090.12,Studied,5,2,Recalled,NA,"17,22",Related,STEPS,STAIRS,NA,unrelated,,,
+SK2,KNIFE,1801.075,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK2,SWORD,2020.24,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,sword,39,4
+SK2,BORROW,1376.04,Studied,1,4,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+SK2,NOSE,775.58,Studied,21,4,Recalled,NA,20,Identical,READ,NA,NA,unrelated,,,
+SK2,SQUARE,2053.495,Studied,23,4,Recalled,NA,35,Unrelated,STICKY,NA,CIRCLE,related,circle,22,4
+SK2,PUEPLE,1428.515,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+SK2,PAIN,1274.645,Studied,27,4,Recalled,NA,18,Related,EXHALE,INHALE,NA,unrelated,,,
+SK2,NAVY,1395.19,Studied,28,4,Recalled,NA,"16,31",Unrelated,YEAR,NA,NA,unrelated,,,
+SK2,ALIVE,2994.52,Studied,18,4,Recalled,NA,26,Related,SUMMER,WINTER,NA,unrelated,,,
+SK2,THIRST,1868.845,Studied,5,4,Recalled,NA,27,Identical,BALLET,NA,QUENCH,related,quench,9,4
+SK2,TEST,1403.505,Studied,4,4,Recalled,NA,6,Unrelated,JACKET,NA,NA,unrelated,,,
+SK2,HUNGER,1817.1,Studied,3,4,Recalled,NA,23,Unrelated,STORE,NA,NA,unrelated,,,
+SK2,WAITER,1412.915,Studied,35,4,Recalled,NA,25,Unrelated,BOARD,NA,NA,unrelated,,,
+SK2,SUPPER,827.425,Studied,30,4,Recalled,NA,24,Related,DINNER,SUPPER,DINNER,related,dinner,24,4
+SK2,MOTHER,1072.595,Studied,13,4,Recalled,NA,21,Unrelated,TREE,NA,NA,unrelated,,,
+SK2,TOES,3576.595,Studied,16,4,Recalled,NA,19,Related,GUIDE,TOUR,NA,unrelated,,,
+SK2,ARGUE,1129.735,Studied,20,4,Recalled,Identical,22,Related,CIRCLE,SQUARE,NA,identical,argue,15,4
+SK2,WEST,3039.955,Studied,11,2,Recalled,NA,8,Identical,BEACH,NA,NA,unrelated,,,
+SK2,GLORY,1458.1,Studied,13,2,Recalled,NA,10,Identical,MONEY,NA,NA,unrelated,,,
+SK2,LAWYER,2852.775,Studied,23,2,Recalled,NA,5,Identical,RIGHT,NA,NA,unrelated,,,
+SK2,MONEY,4153.55,Studied,16,2,Recalled,Identical,19,Related,BANJO,GUITAR,NA,identical,money,10,2
+SK2,RIGHT,5685.145,Studied,24,2,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,right,5,2
+SK2,CLC,7997.285,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK2,CLOCK,1072.74,Studied,1,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+SK2,CANCER,3084.1,Studied,3,1,Recalled,NA,2,Unrelated,DEATH,NA,NA,unrelated,,,
+SK2,WHOLE,795.7049999,Studied,4,1,Recalled,NA,3,Identical,QUART,NA,NA,unrelated,,,
+SK2,SHARK,3935.74,Studied,7,1,Recalled,NA,31,Related,LION,TIGER,NA,unrelated,,,
+SK2,NEWS,6854.41,Studied,7,4,Recalled,NA,28,Related,HIDE,SEEK,NA,unrelated,,,
+SK2,KIDNAP,2791.04,Studied,33,4,Recalled,NA,12,Identical,CHAIN,NA,ABDUCT,related,abduct,8,4
+SK2,TENNIS,1656.975,Studied,41,4,Recalled,NA,10,Unrelated,PROBLEM,NA,NA,unrelated,,,
+SK2,SKIP,3475.025,Not Studied,NA,NA,Recalled,Related,"7,34",Unrelated,MAGIC,NA,NA,unrelated,,,
+SK2,SOAP,2125.19,Studied,6,4,Recalled,NA,8,Related,ABDUCT,KIDNAP,NA,unrelated,,,
+SK2,BUCKET,903.61,Studied,2,4,Recalled,NA,9,Related,QUENCH,THIRST,NA,unrelated,,,
+SK2,WILD,1938.01,Studied,38,4,Recalled,NA,14,Identical,STATES,NA,NA,unrelated,,,
+SK2,SPIDER,763.2599999,Studied,11,4,Recalled,NA,15,Identical,ARGUE,NA,NA,unrelated,,,
+SK2,LEAVES,5349.885,Studied,2,1,Recalled,NA,4,Unrelated,POTATO,NA,NA,unrelated,,,
+SK2,BEACH,7568.975,Studied,1,2,Recalled,Identical,24,Unrelated,BIKE,NA,NA,identical,beach,8,2
+SK2,LOOK,5312.14,Studied,19,4,Recalled,Identical,32,Identical,LOOK,NA,NA,identical,look,32,4
+SK2,BUTTER,5434.13,Studied,42,4,Recalled,Identical,13,Unrelated,SOUR,NA,NA,identical,butter,5,4
+SK2,LAMP,1437.495,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK2,UNCLE,1255.645,Studied,34,1,Recalled,NA,10,Identical,CORAL,NA,NA,unrelated,,,
+SK2,MEAN,1235.795,Studied,33,1,Recalled,NA,9,Related,GUYS,GIRLS,HARSH,related,harsh,7,1
+SK2,QUEEN,840.5500001,Studied,8,1,Recalled,NA,8,Unrelated,SHERIFF,NA,NA,unrelated,,,
+SK2,SCARY,2969.64,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK2,RING,671.9599999,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK2,SHORT,953.425,Studied,17,1,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,short,42,1
+SK2,KEYS,2859.495,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK2,WATER,1722.385,Not Studied,NA,NA,Recalled,Unrelated,34,Identical,MINUTE,NA,NA,unrelated,,,
+SK2,DRINK,758.8000001,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK2,TIME,2408.045,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,clock,1,1
+SK2,TALL,6786.185,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,short,42,2
+SK2,PAPER,1677.465,Not Studied,NA,NA,Recalled,Unrelated,29,Related,PUSH,SHOVE,NA,unrelated,,,
+SK2,IMAGE,7098.76,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK2,CAMERA,1949.69,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,picture,23,3
+SK2,PHOTO,593.97,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK2,STUDY,5941.18,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SK2,WHITE,2516.295,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,black,19,3

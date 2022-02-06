@@ -1,0 +1,101 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+RB2,LAKE,2839.6,Studied,4,1,Recalled,NA,4,Identical,HOTEL,NA,NA,unrelated,HOTEL,4,1
+RB2,LAND,1202.665,Studied,11,1,Recalled,NA,6,Unrelated,SOFT,NA,NA,unrelated,SOFT,6,1
+RB2,SWAMP,4504.835,Studied,29,1,Recalled,NA,5,Unrelated,WANT,NA,NA,unrelated,WANT,5,1
+RB2,DIRT,2485.515,Studied,32,1,Recalled,Identical,32,Unrelated,ENGLISH,NA,NA,identical,DIRT,23,1
+RB2,FROG,2165.69,Studied,38,1,Recalled,NA,"3,26",Identical,KISS,NA,NA,unrelated,SHOES,26,1
+RB2,SMOKE,1379.335,Studied,39,1,Recalled,NA,8,Related,MUTE,DEAF,NA,unrelated,MUTE,8,1
+RB2,HOOP,4740.85,Studied,42,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+RB2,STARS,1829,Studied,5,1,Recalled,NA,11,Identical,ROAD,NA,NA,unrelated,ROAD,11,1
+RB2,DUSK,1595.855,Studied,18,1,Recalled,NA,10,Unrelated,WATER,NA,NA,unrelated,WATER,10,1
+RB2,BLACK,1413.5,Studied,16,1,Recalled,NA,9,Unrelated,CARRY,NA,NA,unrelated,CARRY,9,1
+RB2,FROG,2053.7,Studied,38,1,Recalled,NA,"3,26",Identical,KISS,NA,NA,unrelated,SHOES,26,1
+RB2,GRASS,1888.305,Studied,10,3,Recalled,NA,13,Unrelated,SCISSORS,NA,NA,unrelated,SCISSORS,13,3
+RB2,FENCE,2030.94,Studied,34,3,Recalled,NA,14,Unrelated,STAMP,NA,NA,unrelated,STAMP,14,3
+RB2,THROW,1936.29,Studied,17,3,Recalled,NA,18,Identical,MUSCLE,NA,NA,unrelated,MUSCLE,18,3
+RB2,SHOVE,1088.53,Studied,22,3,Recalled,NA,17,Unrelated,YOUNG,NA,NA,unrelated,YOUNG,17,3
+RB2,MUSCLE,3066.065,Studied,21,3,Recalled,Identical,NA,NA,NA,NA,NA,identical,MUSCLE,18,3
+RB2,TENNIS,2313.32,Studied,36,2,Recalled,NA,31,Unrelated,FIND,NA,RACKET,related,RACKET,24,2
+RB2,OFFICE,3274.44,Studied,4,3,Recalled,NA,20,Unrelated,CLOWN,NA,NA,unrelated,CLOWN,20,3
+RB2,CLOCK,1204.735,Studied,2,3,Recalled,NA,21,Related,REEF,CORAL,NA,unrelated,REEF,21,3
+RB2,EARLY,1561.07,Studied,32,3,Recalled,NA,23,Unrelated,PACKAGE,NA,NA,unrelated,PACKAGE,23,3
+RB2,BEGIN,2328.405,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RB2,PLANT,1507.97,Studied,7,3,Recalled,Identical,37,Identical,SHORT,NA,NA,identical,PLANT,28,3
+RB2,DAGGER,3678.425,Studied,8,4,Recalled,NA,6,Identical,NUMBER,NA,NA,unrelated,NUMBER,6,4
+RB2,BOMB,2310.475,Studied,9,4,Recalled,NA,7,Unrelated,SKIN,NA,NA,unrelated,SKIN,7,4
+RB2,LAWYER,1738.295,Studied,18,4,Recalled,NA,3,Identical,EGGS,NA,NA,unrelated,EGGS,3,4
+RB2,SELLER,1139.88,Studied,19,4,Recalled,NA,4,Identical,RIGHT,NA,NA,unrelated,RIGHT,4,4
+RB2,NEPHEW,4685.665,Studied,25,4,Recalled,NA,5,Unrelated,NIGHTS,NA,NA,unrelated,NIGHTS,5,4
+RB2,CANCER,1229.55,Studied,1,3,Recalled,NA,25,Related,GUMS,TEETH,NA,unrelated,GUMS,25,3
+RB2,BEHIND,3104.685,Studied,12,3,Recalled,NA,4,Related,GUYS,GIRLS,NA,unrelated,GUYS,4,3
+RB2,TEETH,1395.755,Studied,13,3,Recalled,NA,26,Related,HERE,THERE,GUMS,related,GUMS,25,3
+RB2,TOES,1575.85,Studied,10,2,Recalled,NA,22,Related,FEET,TOES,FEET,related,FEET,22,2
+RB2,NOSE,1099.81,Studied,30,2,Recalled,NA,23,Related,LEND,BORROW,NA,unrelated,LEND,23,2
+RB2,TOUR,786.645,Studied,1,2,Recalled,NA,16,Related,SUMMER,WINTER,GUIDE,related,GUIDE,8,2
+RB2,SQUARE,2090.84,Studied,4,2,Recalled,NA,17,Related,QUENCH,THIRST,NA,unrelated,QUENCH,17,2
+RB2,WAITER,1069.005,Studied,3,2,Recalled,Identical,18,Related,GLANCE,LOOK,NA,identical,WAITER,13,2
+RB2,BUTTER,1228.225,Studied,27,2,Recalled,NA,15,Identical,MOTHER,NA,NA,unrelated,MOTHER,15,2
+RB2,BUCKET,1843.76,Studied,41,2,Recalled,NA,14,Unrelated,JACKET,NA,NA,unrelated,JACKET,14,2
+RB2,HURT,1153.56,Not Studied,NA,NA,Recalled,NA,"25,32",Related,DINNER,SUPPER,NA,unrelated,WRONG,32,3
+RB2,NIGHT,1436.36,Not Studied,NA,NA,Recalled,NA,28,Identical,FIRST,NA,NA,unrelated,FIRST,28,2
+RB2,TENNIS,3679.43,Studied,36,2,Recalled,NA,31,Unrelated,FIND,NA,RACKET,related,RACKET,24,2
+RB2,BIRD,2341.27,Studied,1,4,Recalled,NA,18,Unrelated,WRITE,NA,NA,unrelated,WRITE,18,4
+RB2,UNCLE,1240.365,Studied,6,3,Recalled,NA,9,Unrelated,REAL,NA,AUNT,related,AUNT,6,3
+RB2,CRAZY,1841.455,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RB2,TIGER,1313.3,Studied,18,3,Recalled,NA,7,Unrelated,MANY,NA,NA,unrelated,MANY,7,3
+RB2,SHARK,1064.745,Studied,20,3,Recalled,NA,30,Identical,CLOSE,NA,NA,unrelated,CLOSE,30,3
+RB2,CORAL,2391.64,Studied,19,3,Recalled,NA,29,Related,LIME,LEMON,REEF,related,REEF,21,3
+RB2,HORSE,2204.09,Studied,28,3,Recalled,NA,5,Related,HOUR,MINUTE,NA,unrelated,HOUR,5,3
+RB2,CLAM,1114.765,Studied,29,4,Recalled,NA,NA,NA,NA,NA,CHOWDER,unrelated,HEAD,12,4
+RB2,CHEESE,2597.465,Studied,37,4,Recalled,Identical,13,Related,HONK,HORN,NA,identical,CHEESE,11,4
+RB2,EGGS,1088.09,Studied,36,4,Recalled,Identical,14,Unrelated,MILK,NA,NA,identical,EGGS,3,4
+RB2,ORANGE,1037.13,Studied,26,4,Recalled,NA,15,Identical,GROSS,NA,NA,unrelated,GROSS,15,4
+RB2,LEMON,1253.415,Studied,9,3,Recalled,NA,36,Identical,DOLLAR,NA,LIME,related,LIME,29,3
+RB2,YELLOW,2143.345,Studied,32,4,Recalled,NA,16,Identical,NICKEL,NA,NA,unrelated,NICKEL,16,4
+RB2,GROSS,1096.59,Studied,6,4,Recalled,Identical,17,Unrelated,STING,NA,NA,identical,GROSS,15,4
+RB2,CRACKERS,4392,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,CHEESE,11,4
+RB2,STAIRS,4064.02,Studied,16,4,Recalled,NA,10,Identical,WORK,NA,NA,unrelated,WORK,10,4
+RB2,BED,1444.855,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RB2,DOOR,1090.56,Studied,3,1,Recalled,NA,20,Identical,NOISE,NA,NA,unrelated,NOISE,20,1
+RB2,WHEAT,2173.37,Studied,8,1,Recalled,Identical,19,Related,GIFT,PRESENT,NA,identical,WHEAT,2,1
+RB2,MONEY,1700.77,Studied,23,4,Recalled,NA,"28,20",Identical,PLANT,NA,NA,unrelated,SAND,20,4
+RB2,NICKEL,1414.66,Studied,3,4,Recalled,Identical,21,Identical,GUITAR,NA,NA,identical,NICKEL,16,4
+RB2,NUMBER,3541.465,Studied,34,4,Recalled,Identical,29,Identical,FISH,NA,NA,identical,NUMBER,6,4
+RB2,CHANGE,1356.065,Studied,39,4,Recalled,NA,23,Related,IMAGINE,DREAM,NA,unrelated,IMAGINE,23,4
+RB2,LENGTH,1481.125,Studied,35,4,Recalled,NA,30,Unrelated,DOCTOR,NA,NA,unrelated,DOCTOR,30,4
+RB2,SONG,968.905,Studied,13,4,Recalled,NA,27,Unrelated,FAKE,NA,NA,unrelated,FAKE,27,4
+RB2,STREAM,1607.05,Studied,40,4,Recalled,Identical,28,Identical,STREAM,NA,NA,identical,STREAM,28,4
+RB2,WORK,8002.825,Studied,14,4,Recalled,Identical,26,Identical,FRIGHT,NA,NA,identical,WORK,10,4
+RB2,CHAIN,1587.325,Studied,12,2,Recalled,NA,10,Related,HIDE,SEEK,NA,unrelated,HIDE,10,2
+RB2,THREAD,1723.925,Studied,18,2,Recalled,NA,7,Unrelated,HAPPY,NA,NA,unrelated,HAPPY,7,2
+RB2,NAVY,1084.905,Studied,15,2,Recalled,NA,6,Related,BOOK,READ,NA,unrelated,BOOK,6,2
+RB2,PURPLE,2370.035,Studied,21,2,Recalled,NA,3,Unrelated,HAIR,NA,NA,unrelated,HAIR,3,2
+RB2,WILD,762.75,Studied,37,2,Recalled,NA,4,Identical,HUNGER,NA,NA,unrelated,HUNGER,4,2
+RB2,CANDLE,1322.41,Studied,2,2,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+RB2,SOAP,924.8,Studied,6,2,Recalled,NA,2,Unrelated,SHIP,NA,NA,unrelated,SHIP,2,2
+RB2,PEPPER,1459.535,Studied,27,3,Recalled,NA,10,Unrelated,DRUGS,NA,NA,unrelated,DRUGS,10,3
+RB2,QUART,3117.91,Studied,40,3,Recalled,NA,12,Identical,FOUND,NA,NA,unrelated,FOUND,12,3
+RB2,SPOON,2127.01,Studied,36,3,Recalled,NA,11,Unrelated,STRIPE,NA,NA,unrelated,STRIPE,11,3
+RB2,NEWS,3538.885,Studied,20,2,Recalled,NA,12,Unrelated,STRANGE,NA,NA,unrelated,STRANGE,12,2
+RB2,,8004.6,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RB2,WHERE,3319.32,Studied,23,3,Recalled,Identical,34,Identical,WHOLE,NA,NA,identical,WHERE,16,3
+RB2,THERE,4771.65,Studied,25,3,Recalled,NA,35,Identical,WORST,NA,HERE,related,HERE,26,3
+RB2,BELOW,7992.655,Studied,24,1,Recalled,NA,12,Identical,THIEF,NA,NA,unrelated,THIEF,12,1
+RB2,HARD,2093.4,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,SOFT,6,1
+RB2,BEAK,7993.945,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RB2,HORN,7995.045,Studied,5,4,Recalled,NA,36,Unrelated,BRAIN,NA,HONK,related,HONK,13,4
+RB2,DREAM,5269.85,Studied,4,4,Recalled,NA,32,Unrelated,GRAVE,NA,IMAGINE,related,IMAGINE,23,4
+RB2,GLORY,2109.965,Studied,17,4,Recalled,Identical,33,Related,TULIP,FLOWER,NA,identical,GLORY,24,4
+RB2,WEST,1146.335,Studied,15,4,Recalled,NA,34,Related,CHOWDER,CLAM,NA,unrelated,CHOWDER,34,4
+RB2,RIGHT,8005.79,Studied,31,4,Recalled,Identical,35,Unrelated,GUILT,NA,NA,identical,RIGHT,4,4
+RB2,TIGHT,4119.725,Studied,13,1,Recalled,NA,21,Related,MAJOR,MINOR,NA,unrelated,MAJOR,21,1
+RB2,BRIDE,1131.075,Studied,15,1,Recalled,NA,22,Related,OUNCE,POUND,NA,unrelated,OUNCE,22,1
+RB2,SWEET,1329.025,Studied,26,1,Recalled,Identical,24,Identical,SOUTH,NA,NA,identical,SWEET,18,1
+RB2,KISSES,3306.89,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,KISS,3,1
+RB2,,8002.965,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RB2,,7990.62,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RB2,,8004.84,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RB2,JAIL,4561.3,Studied,41,4,Recalled,NA,2,Identical,STOP,NA,NA,unrelated,STOP,2,4
+RB2,THIEF,2840.54,Studied,25,1,Recalled,Identical,14,Related,GLOBE,WORLD,NA,identical,THIEF,12,1
+RB2,STORY,7999.345,Studied,42,4,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+RB2,,8006.59,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

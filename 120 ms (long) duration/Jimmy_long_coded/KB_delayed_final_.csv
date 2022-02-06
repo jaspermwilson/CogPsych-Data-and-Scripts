@@ -1,0 +1,22 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+KB,NAVY,8002.68,Studied,29,2,Recalled,NA,17,Unrelated,DRESS,NA,NA,unrelated,,,
+KB,PURPLE,7994.125,Studied,19,2,Recalled,NA,16,Related,TUTU,BALLET,NA,unrelated,,,
+KB,ANIMAL,8004.35,Studied,9,3,Recalled,NA,29,Related,DIAL,PHONE,NA,unrelated,,,
+KB,FOUND,8001.43,Studied,33,3,Recalled,NA,"9,15",Unrelated,POTATO,NA,NA,unrelated,,,
+KB,THROW,8001.785,Studied,30,3,Recalled,NA,6,Identical,SPOON,NA,NA,unrelated,,,
+KB,QUEEN,7995.945,Studied,31,3,Recalled,NA,8,Related,GUYS,GIRLS,NA,unrelated,,,
+KB,BELOW,7993.995,Studied,28,1,Recalled,NA,"6,12",Unrelated,JEANS,NA,NA,unrelated,,,
+KB,CLOSE,8001.22,Studied,10,3,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KB,BEHIND,8026.85,Studied,40,3,Recalled,NA,10,Related,AHEAD,BEHIND,AHEAD,related,ahead,10,3
+KB,HORSE,8000.49,Studied,25,3,Recalled,NA,"5,28",Unrelated,CARD,NA,NA,unrelated,,,
+KB,INHALE,7994.67,Studied,10,2,Recalled,NA,4,Identical,SEEK,NA,NA,unrelated,,,
+KB,PILE,7992.21,Practice,NA,NA,Recalled,NA,13,Unrelated,UNCLEAR,NA,NA,unrelated,,,
+KB,MOST,8002.67,Studied,2,2,Recalled,NA,"15,30",Unrelated,GAME,NA,NA,unrelated,,,
+KB,WINTER,7991.435,Studied,17,2,Recalled,NA,13,Related,NOUN,VERB,NA,unrelated,,,
+KB,SLOW,7995.885,Studied,11,2,Recalled,NA,6,Unrelated,TREE,NA,NA,unrelated,,,
+KB,SUGAR,7996.78,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KB,TI,7996.98,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KB,TIGER,7993.34,Studied,3,3,Recalled,Identical,28,Identical,TIGER,NA,NA,identical,tiger,28,3
+KB,TENNIS,8001.01,Studied,24,2,Recalled,Identical,20,Identical,TENNIS,NA,NA,identical,tennis,20,2
+KB,DRESS,7990.92,Not Studied,NA,NA,Recalled,Unrelated,18,Related,MORE,LESS,NA,identical,dress,17,2
+KB,LEAVES,8011.95,Studied,35,3,Recalled,NA,42,Related,RAKE,LEAVES,RAKE,related,rake,42,3

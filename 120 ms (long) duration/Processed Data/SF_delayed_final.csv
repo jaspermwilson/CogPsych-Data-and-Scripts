@@ -1,0 +1,15 @@
+"DelayedWord","DelayedRT","Studied","StudyPosition","Block","ReportedPrimeFromDay1","Day1OutputPosition","Day1PrimeCondition","Day1Prime","Day1PrimeFor","RelatedPrimePresentedonDay1"
+"SCHOOL",3047.83,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"HORRIBLE",5402.37,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"PEN",1085.3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"COLD",2746.215,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"PINK",1232.68,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NINE",816.39,"Studied",19,2,NA,"31","Unrelated","BELOW",NA,NA
+"CLASS",5316.57,"Studied",15,1,NA,"8","Related","TENSION","STRESS",NA
+"STRESS",1431.245,"Studied",39,1,NA,"10","Unrelated","JAIL",NA,"TENSION"
+"SCHOOL",7983.49,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"HATE",4220.845,"Studied",39,4,NA,NA,NA,NA,NA,NA
+"PENCIL",2164.56,"Studied",5,2,NA,"4","Identical","ITCH",NA,NA
+"STRESS",8001.94,"Studied",39,1,NA,"10","Unrelated","JAIL",NA,"TENSION"
+"EXTREME",8000.675,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SLEEP",7997.275,"Studied",21,2,"Identical","38","Identical","SLEEP",NA,NA

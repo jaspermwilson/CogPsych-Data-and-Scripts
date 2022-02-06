@@ -1,0 +1,33 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+60b930daf9b9cf2ec78cbc64,REAL,5015.1,Studied,23,1,Recalled,NA,2,Related,SKETCH,DRAW,NA,unrelated,,,
+60b930daf9b9cf2ec78cbc64,BABY,2582.5,Studied,11,2,Recalled,NA,2,Unrelated,STOP,NA,NA,unrelated,,,
+60b930daf9b9cf2ec78cbc64,ARR,7997.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b930daf9b9cf2ec78cbc64,ARMS,1132.9,Studied,31,2,Recalled,Identical,13,Unrelated,FRIGHT,NA,NA,identical,arms,6,2
+60b930daf9b9cf2ec78cbc64,PURPOSE,5233.3,Studied,18,1,Recalled,NA,12,Unrelated,WHERE,NA,NA,unrelated,,,
+60b930daf9b9cf2ec78cbc64,BRAIN,3216.2,Studied,36,2,Recalled,Identical,23,Identical,BRAIN,NA,NA,identical,brain,23,2
+60b930daf9b9cf2ec78cbc64,FAKE,3449.8,Studied,24,2,Recalled,NA,14,Unrelated,HORN,NA,NA,unrelated,,,
+60b930daf9b9cf2ec78cbc64,MARRY,1716.7,Studied,34,1,Recalled,Identical,35,Identical,MARRY,NA,NA,identical,marry,35,1
+60b930daf9b9cf2ec78cbc64,DEATH,5782.5,Studied,8,1,Recalled,NA,3,Unrelated,MUSCLE,NA,NA,unrelated,,,
+60b930daf9b9cf2ec78cbc64,SNEEZE,5466,Studied,6,3,Recalled,NA,19,Unrelated,STARS,NA,NA,unrelated,,,
+60b930daf9b9cf2ec78cbc64,CHILD,1917.6,Studied,3,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+60b930daf9b9cf2ec78cbc64,LOVE,7365.5,Studied,3,4,Recalled,NA,7,Unrelated,SOAP,NA,NA,unrelated,,,
+60b930daf9b9cf2ec78cbc64,MOUTH,1451.7,Not Studied,NA,NA,Recalled,NA,26,Unrelated,STOMACH,NA,NA,unrelated,,,
+60b930daf9b9cf2ec78cbc64,LOAN,2017,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b930daf9b9cf2ec78cbc64,WORK,983.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b930daf9b9cf2ec78cbc64,CLASSES,2999.5,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b930daf9b9cf2ec78cbc64,GLASSES,1433.5,Studied,1,3,Recalled,NA,2,Related,SATIN,SILK,NA,unrelated,,,
+60b930daf9b9cf2ec78cbc64,HEAR,4349.9,Studied,42,4,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+60b930daf9b9cf2ec78cbc64,SCISSOR,5999.2,Studied,NA,NA,Recalled,NA,15,Related,YOUTH,YOUNG,NA,unrelated,,,
+60b930daf9b9cf2ec78cbc64,SKILL,5999.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b930daf9b9cf2ec78cbc64,NEED,5278.8,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b930daf9b9cf2ec78cbc64,FIRST,1532.4,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,first,15,4
+60b930daf9b9cf2ec78cbc64,EXTENT,1566.1,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b930daf9b9cf2ec78cbc64,BREAK,2116.1,Studied,12,4,Recalled,Identical,39,Identical,BREAK,NA,NA,identical,break,39,4
+60b930daf9b9cf2ec78cbc64,I,28290,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b930daf9b9cf2ec78cbc64,KNIT,3149.1,Studied,7,2,NotRecalled,NA,8,Unrelated,FISH,NA,NA,unprimed,,,
+60b930daf9b9cf2ec78cbc64,PILE,4861.985,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b930daf9b9cf2ec78cbc64,MONARCH,4090.6,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b930daf9b9cf2ec78cbc64,FUERAL,5197.94,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b930daf9b9cf2ec78cbc64,FUNERAL,1392.385,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b930daf9b9cf2ec78cbc64,SOUL,1366.005,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b930daf9b9cf2ec78cbc64,PLEAD,4967.11,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

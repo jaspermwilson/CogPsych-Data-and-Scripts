@@ -1,0 +1,51 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+AT,BREAD,7993.05,Studied,22,2,Recalled,NA,20,Unrelated,PICKLE,NA,LOAF,related,LOAF,13,2
+AT,FOOD,7990.88,Studied,9,4,Recalled,NA,14,Identical,LOVE,NA,NA,unrelated,LOVE,14,4
+AT,CAKE,7988.435,Studied,24,3,Recalled,NA,13,Identical,MAD,NA,NA,unrelated,MAD,13,3
+AT,PENCIL,7996.19,Studied,18,3,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,PENCIL,31,3
+AT,ENGLISH,7992.34,Studied,13,3,Recalled,NA,9,Identical,PAPER,NA,NA,unrelated,PAPER,9,3
+AT,WRITE,7993.125,Studied,41,2,Recalled,NA,2,Unrelated,BOMB,NA,NA,unrelated,BOMB,2,2
+AT,PENNY,8003.66,Studied,32,2,Recalled,NA,8,Identical,SELF,NA,NA,unrelated,SELF,8,2
+AT,BALL,8001.755,Studied,NA,NA,Recalled,Identical,38,Identical,FIRE,NA,NA,identical,BALL,10,3
+AT,TOOL,7991.705,Studied,39,1,Recalled,NA,8,Unrelated,QUART,NA,NA,unrelated,QUART,8,1
+AT,,8003.285,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,OVEN,8003.335,Studied,15,3,Recalled,NA,12,Unrelated,STARS,NA,NA,unrelated,STARS,12,3
+AT,CHILD,7997.69,Studied,10,1,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,CHILD,21,1
+AT,,7990.31,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,8003.75,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,7996.35,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,7991.965,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,7993.36,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,HUNGRY,8004.935,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,HUNGER,16,4
+AT,TIRED,7991.02,Studied,8,3,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+AT,STRESS,8009.98,Studied,24,2,Recalled,NA,4,Related,DUMB,STUPID,NA,unrelated,DUMB,4,2
+AT,POTATO,8009.195,Studied,14,1,Recalled,Identical,42,Related,PART,PIECE,NA,identical,POTATO,18,1
+AT,CLOWN,8006.02,Studied,3,1,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,CLOWN,37,1
+AT,,7990.095,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,8005.58,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,8007.465,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,7989.885,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,8001.54,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,7992.34,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,7990.35,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,8008.26,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,7994.05,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,8003.995,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,7991.87,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,8008.51,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,8009.04,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,7997.53,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,8005.45,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,7992.075,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,8006.59,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,7991.43,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,7995.925,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,7995.88,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,7990.72,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,7995.535,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,8011.655,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,8005.685,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,7990.54,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,8007.74,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,8003.215,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AT,,180285.165,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

@@ -1,0 +1,13 @@
+"DelayedWord","DelayedRT","Studied","StudyPosition","Block","ReportedPrimeFromDay1","Day1OutputPosition","Day1PrimeCondition","Day1Prime","Day1PrimeFor","RelatedPrimePresentedonDay1"
+"TREE",5418.18,"Studied",36,2,NA,"8","Related","MIGHT","MAYBE",NA
+"STREET",3743.725,"Studied",28,2,NA,"3","Unrelated","BUTTER",NA,NA
+"PEN",3704.59,NA,NA,NA,NA,"7","Related","PLIERS","TOOL",NA
+"LETTUCE",2518,"Studied",20,2,NA,"6","Identical","STRANGE",NA,NA
+"STICKY",3142.51,"Studied",26,2,NA,"4","Unrelated","BALLET",NA,NA
+"HAIR",1263.245,"Studied",24,2,NA,"9","Identical","COLLECT",NA,NA
+"BOARD",6337.785,"Studied",37,2,NA,"7","Identical","PROBLEM",NA,NA
+"MUSIC",6205.54,NA,NA,NA,NA,"5","Unrelated","CHAIN",NA,NA
+"MATH",1539.475,"Studied",2,4,"Identical","6","Related","SESSION","CLASS",NA
+"RESULT",4856.93,NA,NA,NA,NA,"39","Unrelated","TEST",NA,NA
+"DOTKNOW",7989.52,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"CANTREMEMBER",3318.055,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,84 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+TP,MARRY,4183.765,Studied,30,3,Recalled,NA,4,Related,SKETCH,DRAW,NA,unrelated,,,
+TP,MAID,4999.3,Studied,3,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+TP,BANK,1032.955,Studied,4,1,Recalled,NA,11,Identical,SNEEZE,NA,TELLER,related,teller,8,1
+TP,CARRY,1316.1,Studied,2,1,Recalled,NA,2,Unrelated,LAND,NA,NA,unrelated,,,
+TP,FRONT,1167.45,Studied,1,1,Recalled,NA,"3,12",Unrelated,LEARN,NA,NA,unrelated,,,
+TP,CAKE,1482.88,Studied,7,1,Recalled,NA,9,Related,ERASER,PENCIL,NA,unrelated,,,
+TP,OVEN,1148.75,Studied,9,1,Recalled,Identical,10,Unrelated,FIVE,NA,NA,identical,oven,7,1
+TP,SMALL,2449.79,Studied,16,1,Recalled,NA,7,Identical,OVEN,NA,NA,unrelated,,,
+TP,LARGE,1498.705,Studied,34,1,Recalled,NA,13,Unrelated,STOMACH,NA,NA,unrelated,,,
+TP,LAUGH,3834.425,Studied,30,2,Recalled,NA,12,Unrelated,LESS,NA,NA,unrelated,,,
+TP,ALLO,2149.75,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,ALLOW,1817.465,Studied,37,1,Recalled,NA,21,Unrelated,LAKE,NA,NA,unrelated,,,
+TP,KNIFE,2265.615,Studied,1,3,Recalled,Identical,"12,18",Identical,KNIFE,NA,NA,identical,knife,12,3
+TP,DEATH,1283.97,Studied,25,3,Recalled,NA,25,Related,PLEASE,THANKS,BIRTH,related,birth,6,3
+TP,YOUNG,1333.175,Studied,2,3,Recalled,NA,14,Unrelated,FENCE,NA,NA,unrelated,,,
+TP,HATEFUL,1616.285,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,SHERIFF,2083.385,Studied,17,3,Recalled,Identical,10,Identical,SHERIFF,NA,NA,identical,sheriff,10,3
+TP,EXCUSE,3599.96,Studied,19,3,Recalled,NA,7,Identical,HATE,NA,NA,unrelated,,,
+TP,DRAW,2515.94,Studied,22,3,Recalled,NA,33,Unrelated,DOLLAR,NA,SKETCH,related,sketch,4,3
+TP,VOTE,1083.675,Studied,23,3,Recalled,NA,32,Identical,DISAGREE,NA,NA,unrelated,,,
+TP,CHURCH,3316.05,Studied,24,2,Recalled,NA,2,Related,LICE,HAIR,NA,unrelated,,,
+TP,FOOD,1466.985,Studied,18,2,Recalled,Identical,23,Identical,SICK,NA,NA,identical,food,22,2
+TP,LETTUCE,1367.145,Studied,17,2,Recalled,NA,22,Identical,FOOD,NA,NA,unrelated,,,
+TP,SALE,1249.57,Not Studied,NA,NA,Recalled,NA,36,Unrelated,TRAIN,NA,NA,unrelated,,,
+TP,TAKE,3553.32,Studied,39,2,Recalled,NA,16,Identical,HAPPY,NA,NA,unrelated,,,
+TP,TALK,2932.75,Studied,31,2,Recalled,Identical,11,Identical,TALK,NA,NA,identical,talk,11,2
+TP,JEANS,2716.75,Studied,26,1,Recalled,NA,34,Related,MAXIMUM,MINIMUM,DENIM,related,denim,12,1
+TP,SHORT,3949.98,Not Studied,NA,NA,Recalled,Unrelated,22,Unrelated,SHORT,NA,NA,identical,short,22,3
+TP,GAME,3299.84,Studied,7,2,Recalled,NA,8,Identical,YEAR,NA,NA,unrelated,,,
+TP,LOVE,1483.04,Studied,4,2,Recalled,NA,"7,42",Identical,BREAK,NA,NA,unrelated,,,
+TP,FIND,833.3950001,Studied,5,2,Recalled,NA,6,Unrelated,LOOK,NA,NA,unrelated,,,
+TP,TWIS,8001.445,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,STRANGE,5849.53,Studied,22,2,Recalled,NA,21,Identical,CHOOSE,NA,BIZZARE,related,bizarre,17,2
+TP,HAI,949.55,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,HAIR,916.595,Studied,21,2,Recalled,NA,28,Unrelated,SLOW,NA,LICE,related,lice,2,2
+TP,BOARDED,2917.76,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,STORAGE,5550,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,LISTEN,1632.415,Not Studied,NA,NA,Recalled,Related,36,Related,LISTEN,HEAR,NA,identical,listen,36,2
+TP,DISALLOW,4684.92,Not Studied,NA,NA,Recalled,NA,32,Related,MOAT,CASTLE,NA,unrelated,,,
+TP,PLEDGE,7834.745,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,FIR,8000.11,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+TP,FOOD,7401.3,Studied,18,2,Recalled,Identical,23,Identical,SICK,NA,NA,identical,food,22,2
+TP,JUST,5934.075,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,WORD,1316.44,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,ENGLISH,1283.36,Studied,40,1,Recalled,Identical,25,Related,GREET,HELLO,NA,identical,english,24,1
+TP,LETTER,1265.94,Studied,39,1,Recalled,NA,24,Identical,ENGLISH,NA,NA,unrelated,,,
+TP,GRAMMAR,2284.78,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,english,24,1
+TP,OUT,1769.855,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,OWE,5718.53,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,SALE,850.33,Not Studied,NA,NA,Recalled,NA,36,Unrelated,TRAIN,NA,NA,unrelated,,,
+TP,BOUGHT,2133.865,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,GARDEN,2451.55,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,LEVEL,3283.635,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,CHOSE,4649.125,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,VOLCANO,4458.46,Studied,3,2,Recalled,NA,5,Related,MAIN,STREET,NA,unrelated,,,
+TP,MAGICAL,5582.975,Not Studied,NA,NA,Recalled,NA,4,Identical,BOARD,NA,NA,unrelated,,,
+TP,TREE,1378.67,Studied,1,2,Recalled,NA,3,Unrelated,TENNIS,NA,NA,unrelated,,,
+TP,ERPT,6602.545,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,ERUPT,2265.6,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,volcano,5,2
+TP,THIK,3296.85,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,THINK,1576.265,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,HARD,7291.945,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,soft,28,4
+TP,ESY,2015.84,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,EASY,1597.13,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,JOKE,2575.765,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,PUPPET,2677.395,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,DOLL,1502.6,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,STRANE,6266.845,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,STRANGE,1816.175,Studied,22,2,Recalled,NA,21,Identical,CHOOSE,NA,BIZZARE,related,bizarre,17,2
+TP,UNSURE,3834.035,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,CONTENT,1766.09,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,EXCLUDE,2350.76,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,CONTEXT,1816.67,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,EXTENT,1416.81,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,ELEMENT,6400.815,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,EYE,2416.735,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,EYES,1015.21,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,WALK,3100.03,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,TRIP,2199.745,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,FALL,883.7550001,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,BAGEL,1534.88,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,MAP,7551.035,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+TP,WOMAN,7350.915,Not Studied,NA,NA,Recalled,NA,34,Unrelated,QUEEN,NA,NA,unrelated,,,

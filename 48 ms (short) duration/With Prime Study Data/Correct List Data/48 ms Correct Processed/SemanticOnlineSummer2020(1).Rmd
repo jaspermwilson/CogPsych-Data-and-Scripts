@@ -1,0 +1,584 @@
+---
+title: "Priming Free Recall"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Reading the Data
+
+```{r}
+initialrecall = read.csv("sem_compiled_initial_2020.csv",header = TRUE, sep = ",")
+library(tidyverse)
+
+mean_duration = group_by(initialrecall, participant) %>%
+  summarise_at(vars(PrimeDuration), mean, na.rm = TRUE)
+
+initialrecall$Studied[is.na(initialrecall$Studied)] = 0
+initialrecall$Acc = ifelse(initialrecall$Studied == "Studied", 1,0)
+```
+
+## Means Per Condition
+
+```{r}
+mean_subject = group_by(initialrecall, participant, PrimeCondition) %>%
+  summarise_at(vars(Acc), mean)
+mean_cond = Rmisc::summarySE(mean_subject,
+                             measurevar = "Acc",
+                             groupvars = "PrimeCondition", 
+                             na.rm = TRUE)
+
+mean_cond = mean_cond %>% filter(PrimeCondition != "firstword")
+
+library(ggplot2)
+library(ggthemes)
+mean_cond %>% 
+  ggplot(aes(x = PrimeCondition, y = Acc))+
+geom_bar(stat = "identity", position = "dodge", width = 0.7, fill = "darkgoldenrod",
+         color = "gray26")+
+  geom_errorbar(aes(ymin=Acc - se, ymax=Acc + se), 
+             width=.2, color = "gray26", 
+             position = position_dodge(0.7))+
+ theme_few()+
+  scale_fill_gdocs()+
+    xlab("Prime Condition") + ylab("Mean Accuracy (Correctly Recalled Items)") + 
+  ggtitle("Free Recall Online: Immediate Test")  +
+   theme(axis.text = element_text(size = rel(1)),
+          axis.title = element_text(face = "bold", size = rel(1)),
+          legend.title = element_text(face = "bold", size = rel(1)),
+         plot.title = element_text(hjust = .5),
+         strip.text.x = element_text(face = "bold", size = rel(1.4)))
+
+## anova/t-test code
+
+mean_cond_sub = group_by(initialrecall, participant, PrimeCondition) %>%
+  summarize_at(vars(Acc), mean)
+
+mean_cond_sub_main = mean_cond_sub %>% filter(PrimeCondition != "firstword")
+
+## anova code
+mean_cond_sub_main$participant = as.factor(mean_cond_sub_main$participant)
+aov_prime = aov(data = mean_cond_sub_main, 
+                Acc ~ PrimeCondition + Error(participant/PrimeCondition))
+summary(aov_prime)
+
+## p and F value will tell you if there is 
+## a main effect of prime condition
+
+## t-test
+
+ident_sub = mean_cond_sub %>% filter(PrimeCondition == "Identical")
+related_sub = mean_cond_sub %>% filter(PrimeCondition == "Related")
+unrelated_sub = mean_cond_sub %>% filter(PrimeCondition == "Unrelated")
+
+# ident vs. unrelated
+t.test(ident_sub$Acc, unrelated_sub$Acc, paired = TRUE)
+# related vs. unrelated
+t.test(related_sub$Acc, unrelated_sub$Acc, paired = TRUE)
+# ident vs. related
+t.test(ident_sub$Acc, related_sub$Acc, paired = TRUE)
+
+```
+
+# Delayed Recognition Trials
+
+```{r}
+delayedrecog = read.csv("sem_compiled_recog_2020.csv", header = TRUE, sep = ",")
+
+delayedrecog$WordStatus = ifelse(delayedrecog$WordStatus == "Old", "Word was: Old", 
+                                 "Word was: New")
+
+recog_acc_subject = group_by(delayedrecog, participant, WordStatus, Day1Recalled, RecogDecision) %>%
+  summarise(Trials = n())
+
+recog_rmisc = Rmisc::summarySE(recog_acc_subject,
+                               measurevar = "Trials",
+                               groupvars = c("WordStatus", "Day1Recalled", "RecogDecision"))
+
+recog_rmisc %>% 
+  ggplot(aes(x = RecogDecision, y = Trials, 
+             group =Day1Recalled , fill = Day1Recalled))+
+geom_bar(stat = "identity", position = "dodge", width = 0.7)+
+  geom_errorbar(aes(ymin=Trials - se, ymax=Trials + se), 
+             width=.2, color = "gray26", 
+             position = position_dodge(0.7))+
+ theme_few()+
+  facet_wrap(~WordStatus)+
+  scale_fill_gdocs()+
+    xlab("Recognition Decision") + ylab("Mean Number of Trials") + 
+  ggtitle("Delayed Recognition Test")  +
+   theme(axis.text = element_text(size = rel(1)),
+          axis.title = element_text(face = "bold", size = rel(1)),
+          legend.title = element_text(face = "bold", size = rel(1)),
+         plot.title = element_text(hjust = .5),
+         strip.text.x = element_text(face = "bold", size = rel(1.4)))
+```
+
+# Hits, FA, CR, and Miss
+
+## Partitioning the Data
+
+```{r}
+
+delayedrecog$WithinTrialPrimeCondition = ifelse(is.na(delayedrecog$WithinTrialPrimeCondition), "Unprimed", delayedrecog$WithinTrialPrimeCondition)
+
+delayedrecog$CrossTrialPrimeCondition = ifelse(is.na(delayedrecog$CrossTrialPrimeCondition), "Unprimed", delayedrecog$CrossTrialPrimeCondition)
+
+notstudied = delayedrecog %>% filter(WordStatus == "Word was: New")
+## now these "new" items could have been within/cross-trial primed
+## although "within" is probably very few trials
+
+## we look at false alarms and correct rejections of these "new" items
+
+studied = delayedrecog %>% filter(WordStatus == "Word was: Old")
+## now these "old" items could have been within/cross-trial primed
+
+## we look at hits and misses of these "OLD" items
+
+```
+
+## Old (Studied) Items
+
+### Within-Trial priming
+```{r}
+studied_withintrial_measures = group_by(studied, participant, WithinTrialPrimeCondition) %>% 
+  summarise_at(vars(Hit, Miss), mean)
+
+studied_withintrial_measures_long = gather(studied_withintrial_measures, 
+                                   Measure, Proportion, Hit, Miss)
+
+studied_withintrial_rmisc = Rmisc::summarySE(studied_withintrial_measures_long,
+                                     measurevar = "Proportion",
+                        groupvars = c( "WithinTrialPrimeCondition",
+                                                   "Measure"))
+
+studied_withintrial_rmisc = studied_withintrial_rmisc %>%
+  filter(!WithinTrialPrimeCondition %in% "firstword")
+
+studied_withintrial_rmisc %>% 
+  ggplot(aes(x = Measure, y = Proportion, 
+             group =WithinTrialPrimeCondition , fill = WithinTrialPrimeCondition))+
+  #geom_point()+
+geom_bar(stat = "identity", position = "dodge", width = 0.7)+
+  geom_errorbar(aes(ymin=Proportion - se, ymax=Proportion + se), 
+             width=.2, color = "gray26", 
+             position = position_dodge(0.7))+
+ theme_few()+
+  scale_fill_gdocs()+
+    xlab("") + ylab("Proportion") + 
+  ggtitle("OLD items: within-trial priming")  +
+   theme(axis.text = element_text(size = rel(1)),
+          axis.title = element_text(face = "bold", size = rel(1)),
+          legend.title = element_text(face = "bold", size = rel(1)),
+         plot.title = element_text(hjust = .5),
+         strip.text.x = element_text(face = "bold", size = rel(1.4)))
+
+## checking if hit/miss rate is reliably different between ident and rel/unrel
+
+hit_data = studied_withintrial_measures_long %>% filter(Measure == "Hit" & 
+                              !WithinTrialPrimeCondition %in% c("Unprimed", "firstword"))
+
+hit_aov = aov(data = hit_data, Proportion ~ WithinTrialPrimeCondition + 
+                Error(participant/WithinTrialPrimeCondition))
+summary(hit_aov)
+
+hit_ident = hit_data %>% filter(WithinTrialPrimeCondition == "Identical")
+hit_rel = hit_data %>% filter(WithinTrialPrimeCondition == "Related")
+hit_unrel = hit_data %>% filter(WithinTrialPrimeCondition == "Unrelated")
+
+t.test(hit_ident$Proportion, hit_rel$Proportion, paired = TRUE)
+t.test(hit_ident$Proportion, hit_unrel$Proportion, paired = TRUE)
+
+miss_data = studied_withintrial_measures_long %>% filter(Measure == "Miss" & 
+                              !WithinTrialPrimeCondition %in% c("Unprimed", "firstword"))
+
+miss_aov = aov(data = miss_data, Proportion ~ WithinTrialPrimeCondition + 
+                Error(participant/WithinTrialPrimeCondition))
+summary(miss_aov)
+
+miss_ident = miss_data %>% filter(WithinTrialPrimeCondition == "Identical")
+miss_rel = miss_data %>% filter(WithinTrialPrimeCondition == "Related")
+miss_unrel = miss_data %>% filter(WithinTrialPrimeCondition == "Unrelated")
+
+t.test(miss_ident$Proportion, miss_rel$Proportion, paired = TRUE)
+t.test(miss_ident$Proportion, miss_unrel$Proportion, paired = TRUE)
+
+```
+## HIT - MISS sensitivity
+```{r}
+studied_withintrial_measures$HitMinusMiss = studied_withintrial_measures$Hit - 
+  studied_withintrial_measures$Miss
+
+hitminusmiss_maindata = studied_withintrial_measures %>% 
+  filter(!WithinTrialPrimeCondition %in% c("firstword", "Unprimed"))
+
+hitminusmiss_maindata_aov = aov(data = hitminusmiss_maindata,
+                                HitMinusMiss ~ WithinTrialPrimeCondition + 
+                                  Error(participant/WithinTrialPrimeCondition))
+
+summary(hitminusmiss_maindata_aov)
+
+
+hitminusmiss_maindata_ident = hitminusmiss_maindata %>% 
+  filter(WithinTrialPrimeCondition == "Identical")
+hitminusmiss_maindata_rel = hitminusmiss_maindata %>% 
+  filter(WithinTrialPrimeCondition == "Related")
+hitminusmiss_maindata_unrel = hitminusmiss_maindata %>% 
+  filter(WithinTrialPrimeCondition == "Unrelated")
+
+t.test(hitminusmiss_maindata_ident$HitMinusMiss, hitminusmiss_maindata_unrel$HitMinusMiss,
+       paired = TRUE)
+
+t.test(hitminusmiss_maindata_ident$HitMinusMiss, hitminusmiss_maindata_rel$HitMinusMiss,
+       paired = TRUE)
+
+
+hitminusmiss_rmisc = Rmisc::summarySE(hitminusmiss_maindata,
+                                     measurevar = "HitMinusMiss",
+                        groupvars = c( "WithinTrialPrimeCondition"))
+
+
+hitminusmiss_rmisc %>% 
+  ggplot(aes(x = WithinTrialPrimeCondition, y = HitMinusMiss, 
+             group =WithinTrialPrimeCondition , fill = WithinTrialPrimeCondition))+
+  #geom_point()+
+geom_bar(stat = "identity", position = "dodge", width = 0.7)+
+  geom_errorbar(aes(ymin=HitMinusMiss - se, ymax=HitMinusMiss + se), 
+             width=.2, color = "gray26", 
+             position = position_dodge(0.7))+
+ theme_few()+
+  scale_fill_gdocs()+
+    xlab("") + ylab("Difference Proportion") + 
+  ggtitle("OLD items: within-trial priming \n Hits - Misses")  +
+   theme(axis.text = element_text(size = rel(1)),
+          axis.title = element_text(face = "bold", size = rel(1)),
+          legend.title = element_text(face = "bold", size = rel(1)),
+         plot.title = element_text(hjust = .5),
+         strip.text.x = element_text(face = "bold", size = rel(1.4)))
+```
+### Cross-Trial priming
+```{r}
+studied_crosstrial_measures = group_by(studied, participant, CrossTrialPrimeCondition) %>%
+  summarise_at(vars(Hit, Miss), mean)
+
+studied_crosstrial_measures_long = gather(studied_crosstrial_measures, 
+                                   Measure, Proportion, Hit, Miss)
+
+studied_crosstrial_rmisc = Rmisc::summarySE(studied_crosstrial_measures_long,
+                                     measurevar = "Proportion",
+                        groupvars = c("CrossTrialPrimeCondition",
+                                                   "Measure"))
+
+studied_crosstrial_rmisc %>% 
+  ggplot(aes(x = Measure, y = Proportion, 
+             group =CrossTrialPrimeCondition , fill = CrossTrialPrimeCondition))+
+  #geom_point()+
+geom_bar(stat = "identity", position = "dodge", width = 0.7)+
+  geom_errorbar(aes(ymin=Proportion - se, ymax=Proportion + se), 
+             width=.2, color = "gray26", 
+             position = position_dodge(0.7))+
+ theme_few()+
+  scale_fill_gdocs()+
+    xlab("") + ylab("Proportion") + 
+  ggtitle("OLD items: cross-trial priming")  +
+   theme(axis.text = element_text(size = rel(1)),
+          axis.title = element_text(face = "bold", size = rel(1)),
+          legend.title = element_text(face = "bold", size = rel(1)),
+         plot.title = element_text(hjust = .5),
+         strip.text.x = element_text(face = "bold", size = rel(1.4)))
+```
+
+# New (Not Studied) Items
+
+### Within-Trial priming
+```{r}
+withintrial_measures = group_by(notstudied, participant, WithinTrialPrimeCondition) %>% 
+  summarise_at(vars(FalseAlarm, CorrectRejection), mean)
+
+withintrial_measures_long = gather(withintrial_measures, 
+                                   Measure, Proportion, FalseAlarm, CorrectRejection)
+
+withintrial_rmisc = Rmisc::summarySE(withintrial_measures_long,
+                                     measurevar = "Proportion",
+                                     groupvars = c("WithinTrialPrimeCondition",
+                                                   "Measure"))
+
+withintrial_rmisc %>% 
+  ggplot(aes(x = Measure, y = Proportion, 
+             group =WithinTrialPrimeCondition , fill = WithinTrialPrimeCondition))+
+  #geom_point()+
+geom_bar(stat = "identity", position = "dodge", width = 0.7)+
+  geom_errorbar(aes(ymin=Proportion - se, ymax=Proportion + se), 
+             width=.2, color = "gray26", 
+             position = position_dodge(0.7))+
+ theme_few()+
+  scale_fill_gdocs()+
+    xlab("") + ylab("Proportion") + 
+  ggtitle("NEW items: within-trial priming")  +
+   theme(axis.text = element_text(size = rel(1)),
+          axis.title = element_text(face = "bold", size = rel(1)),
+          legend.title = element_text(face = "bold", size = rel(1)),
+         plot.title = element_text(hjust = .5),
+         strip.text.x = element_text(face = "bold", size = rel(1.4)))
+```
+### Cross-Trial priming
+```{r}
+crosstrial_measures = group_by(notstudied, participant, CrossTrialPrimeCondition) %>%
+  summarise_at(vars(FalseAlarm, CorrectRejection), mean)
+
+crosstrial_measures_long = gather(crosstrial_measures, 
+                                   Measure, Proportion, FalseAlarm, CorrectRejection)
+
+crosstrial_rmisc = Rmisc::summarySE(crosstrial_measures_long,
+                                     measurevar = "Proportion",
+                        groupvars = c("CrossTrialPrimeCondition",
+                                                   "Measure"))
+
+crosstrial_rmisc %>% 
+  ggplot(aes(x = Measure, y = Proportion, 
+             group =CrossTrialPrimeCondition , fill = CrossTrialPrimeCondition))+
+  #geom_point()+
+geom_bar(stat = "identity", position = "dodge", width = 0.7)+
+  geom_errorbar(aes(ymin=Proportion - se, ymax=Proportion + se), 
+             width=.2, color = "gray26", 
+             position = position_dodge(0.7))+
+ theme_few()+
+  scale_fill_gdocs()+
+    xlab("") + ylab("Proportion") + 
+  ggtitle("NEW items: cross-trial priming")  +
+   theme(axis.text = element_text(size = rel(1)),
+          axis.title = element_text(face = "bold", size = rel(1)),
+          legend.title = element_text(face = "bold", size = rel(1)),
+         plot.title = element_text(hjust = .5),
+         strip.text.x = element_text(face = "bold", size = rel(1.4)))
+```
+
+
+
+# Recognition RTs
+
+```{r}
+## convert RTs to ms
+delayedrecog$RT = delayedrecog$key_resp_3.rt*1000
+```
+## z-score RTs
+```{r}
+## z-score RTs at participant level
+## trim RTs
+sem_firsttrim = delayedrecog %>% filter( RT > 50 & RT < 2500)
+## aggregate per subject 
+meanRT = group_by(sem_firsttrim, participant) %>%
+  summarise_at(vars(RT), mean)
+colnames(meanRT) = c("participant", "MeanRT")
+
+sdRT = group_by(sem_firsttrim, participant) %>%
+  summarise_at(vars(RT), sd)
+colnames(sdRT) = c("participant", "sdRT")
+
+RT_agg = merge(meanRT, sdRT, by = "participant")
+
+## merge aggregate info with long data
+sem_z = merge(sem_firsttrim, RT_agg, by = "participant", all.x = T)
+
+## person and grand-mean centered scores using original and aggregate
+library(dplyr)
+sem_z = sem_z %>% mutate(zRT = (RT - MeanRT)/sdRT)
+                 
+## checking: subject level means should be zero
+
+sub_pic = group_by(sem_z, participant) %>%
+  summarise_at(vars(zRT), mean)
+
+## trimming above and below 3 sd
+sem_z_trimmed = subset(sem_z, sem_z$zRT < 3 & sem_z$zRT > -3)
+
+## aggregate per subject all IVs and DVs
+meanRT_trim = group_by(sem_z_trimmed, participant) %>%
+  summarise_at(vars(RT), mean)
+colnames(meanRT_trim) = c("participant", "MeanRT_trim")
+
+sdRT_trim = group_by(sem_z_trimmed, participant) %>%
+  summarise_at(vars(RT), sd)
+colnames(sdRT_trim) = c("participant", "sdRT_trim")
+
+RT_agg_trim = merge(meanRT_trim, sdRT_trim, by = "participant")
+
+## merge aggregate info with long data
+new_sem_z = merge(sem_z_trimmed, RT_agg_trim, by = "participant", all.x = T)
+
+## person and grand-mean centered scores using original and aggregate
+library(dplyr)
+new_sem_z = new_sem_z %>% mutate(zRT_final = (RT - MeanRT_trim)/sdRT_trim)
+                 
+## checking: subject level means should be zero
+
+sub_pic = group_by(new_sem_z, participant) %>%
+  summarise_at(vars(zRT_final), mean)
+
+```
+
+## RTs per prime condition
+
+## Partitioning the Data
+
+```{r}
+RTnotstudied = new_sem_z %>% filter(WordStatus == "Word was: New")
+## now these "new" items could have been within/cross-trial primed
+## although "within" is probably very few trials
+
+## we look at zRTs of these "new" items
+
+RTstudied = new_sem_z %>% filter(WordStatus == "Word was: Old")
+## now these "old" items could have been within/cross-trial primed
+
+## we look at zRTs of these "old" items
+```
+
+## Old (Studied) Items
+
+
+### Within-Trial priming
+```{r}
+withintrial_rt = group_by(RTstudied, participant, WithinTrialPrimeCondition) %>% 
+  summarise_at(vars(zRT_final), mean)
+
+
+withintrial_rt_rmisc = Rmisc::summarySE(withintrial_rt,
+                                     measurevar = "zRT_final",
+                          groupvars = c( "WithinTrialPrimeCondition"))
+
+withintrial_rt_rmisc = withintrial_rt_rmisc %>%
+  filter(WithinTrialPrimeCondition != "firstword")
+
+withintrial_rt_rmisc %>% 
+  ggplot(aes(x = WithinTrialPrimeCondition, y = zRT_final, 
+             group =WithinTrialPrimeCondition , fill = WithinTrialPrimeCondition))+
+  #geom_point()+
+geom_bar(stat = "identity", position = "dodge", width = 0.7)+
+  geom_errorbar(aes(ymin=zRT_final - se, ymax=zRT_final + se), 
+             width=.2, color = "gray26", 
+             position = position_dodge(0.7))+
+ theme_few()+
+  scale_fill_gdocs()+
+    xlab("") + ylab("z-RT") + 
+  ggtitle("OLD items: within-trial priming")  +
+   theme(axis.text = element_text(size = rel(1)),
+          axis.title = element_text(face = "bold", size = rel(1)),
+          legend.title = element_text(face = "bold", size = rel(1)),
+         plot.title = element_text(hjust = .5),
+         strip.text.x = element_text(face = "bold", size = rel(1.4)))
+
+withintrial_rt_data = withintrial_rt %>% filter(!WithinTrialPrimeCondition %in% 
+                                                  c("firstword", "Unprimed"))
+
+withintrial_rt_aov= aov(data = withintrial_rt_data, 
+                        zRT_final ~ WithinTrialPrimeCondition + 
+                          Error(participant/WithinTrialPrimeCondition))
+summary(withintrial_rt_aov)
+
+withintrial_rt_ident = withintrial_rt_data %>% 
+  filter(WithinTrialPrimeCondition == "Identical")
+
+withintrial_rt_unrelated = withintrial_rt_data %>% 
+  filter(WithinTrialPrimeCondition == "Unrelated")
+
+withintrial_rt_rel = withintrial_rt_data %>% 
+  filter(WithinTrialPrimeCondition == "Related")
+
+t.test(withintrial_rt_ident$zRT_final, withintrial_rt_unrelated$zRT_final, paired = TRUE)
+
+```
+### Cross-Trial priming
+```{r}
+crosstrial_rt = group_by(RTstudied, participant, 
+                         CrossTrialPrimeCondition) %>%
+  summarise_at(vars(zRT_final), mean)
+
+crosstrial_rmisc_rt = Rmisc::summarySE(crosstrial_rt,
+                                     measurevar = "zRT_final",
+                        groupvars = c( "CrossTrialPrimeCondition"))
+
+crosstrial_rmisc_rt %>% 
+  ggplot(aes(x = CrossTrialPrimeCondition, y = zRT_final, 
+             group =CrossTrialPrimeCondition , fill = CrossTrialPrimeCondition))+
+geom_bar(stat = "identity", position = "dodge", width = 0.7)+
+  geom_errorbar(aes(ymin=zRT_final - se, ymax=zRT_final + se), 
+             width=.2, color = "gray26", 
+             position = position_dodge(0.7))+
+ theme_few()+
+  scale_fill_gdocs()+
+    xlab("") + ylab("z-RT") + 
+  ggtitle("OLD items: cross-trial priming")  +
+   theme(axis.text = element_text(size = rel(1)),
+          axis.title = element_text(face = "bold", size = rel(1)),
+          legend.title = element_text(face = "bold", size = rel(1)),
+         plot.title = element_text(hjust = .5),
+         strip.text.x = element_text(face = "bold", size = rel(1.4)))
+```
+
+## New (Not Studied) Items
+
+
+### Within-Trial priming
+```{r}
+withintrial_rt = group_by(RTnotstudied, participant, WithinTrialPrimeCondition) %>% 
+  summarise_at(vars(zRT_final), mean)
+
+
+withintrial_rt_rmisc = Rmisc::summarySE(withintrial_rt,
+                                     measurevar = "zRT_final",
+                          groupvars = c("WithinTrialPrimeCondition"))
+
+withintrial_rt_rmisc %>% 
+  ggplot(aes(x = WithinTrialPrimeCondition, y = zRT_final, 
+             group =WithinTrialPrimeCondition , fill = WithinTrialPrimeCondition))+
+  #geom_point()+
+geom_bar(stat = "identity", position = "dodge", width = 0.7)+
+  geom_errorbar(aes(ymin=zRT_final - se, ymax=zRT_final + se), 
+             width=.2, color = "gray26", 
+             position = position_dodge(0.7))+
+ theme_few()+
+  scale_fill_gdocs()+
+    xlab("") + ylab("z-RT") + 
+  ggtitle("NEW items: within-trial priming")  +
+   theme(axis.text = element_text(size = rel(1)),
+          axis.title = element_text(face = "bold", size = rel(1)),
+          legend.title = element_text(face = "bold", size = rel(1)),
+         plot.title = element_text(hjust = .5),
+         strip.text.x = element_text(face = "bold", size = rel(1.4)))
+```
+### Cross-Trial priming
+```{r}
+crosstrial_rt = group_by(RTnotstudied, participant, CrossTrialPrimeCondition) %>%
+  summarise_at(vars(zRT_final), mean)
+
+crosstrial_rmisc_rt = Rmisc::summarySE(crosstrial_rt,
+                                     measurevar = "zRT_final",
+                        groupvars = c("CrossTrialPrimeCondition"))
+
+crosstrial_rmisc_rt %>% 
+  ggplot(aes(x = CrossTrialPrimeCondition, y = zRT_final, 
+             group =CrossTrialPrimeCondition , fill = CrossTrialPrimeCondition))+
+  #geom_point()+
+geom_bar(stat = "identity", position = "dodge", width = 0.7)+
+  geom_errorbar(aes(ymin=zRT_final - se, ymax=zRT_final + se), 
+             width=.2, color = "gray26", 
+             position = position_dodge(0.7))+
+ theme_few()+
+  scale_fill_gdocs()+
+    xlab("") + ylab("z-RT") + 
+  ggtitle("NEW items: cross-trial priming")  +
+   theme(axis.text = element_text(size = rel(1)),
+          axis.title = element_text(face = "bold", size = rel(1)),
+          legend.title = element_text(face = "bold", size = rel(1)),
+         plot.title = element_text(hjust = .5),
+         strip.text.x = element_text(face = "bold", size = rel(1.4)))
+```
+
+
+
+
+
+

@@ -1,0 +1,80 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+60b54b4f1c445395a93ee622,GIRL,8004.855,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,GRASS,7994.665,Studied,37,1,Recalled,NA,"7,37",Unrelated,CARD,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,LEMON,7987.725,Studied,39,1,Recalled,NA,6,Identical,FENCE,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,BELOW,8017.355,Studied,2,3,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,below,18,3
+60b54b4f1c445395a93ee622,NOISE,7991.515,Studied,6,3,Recalled,NA,4,Unrelated,ENGLISH,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,DOG,7990.025,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b54b4f1c445395a93ee622,PEST,8018.545,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b54b4f1c445395a93ee622,TOES,7998.485,Studied,3,4,Recalled,NA,3,Unrelated,MAGIC,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,BALLET,8018.87,Studied,4,4,Recalled,NA,4,Unrelated,YEAR,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,NEWS,8011.49,Studied,5,4,Recalled,Identical,37,Identical,NEWS,NA,NA,identical,news,37,4
+60b54b4f1c445395a93ee622,PEST,7992.745,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b54b4f1c445395a93ee622,READ,7990.9,Studied,8,4,NotRecalled,NA,NA,NA,NA,NA,BOOK,related,book,28,4
+60b54b4f1c445395a93ee622,NOSE,8010.445,Studied,10,4,Recalled,NA,6,Unrelated,DESERT,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,SLOW,8008.215,Studied,11,4,Recalled,NA,7,Unrelated,NONE,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,LOOK,1919.445,Studied,13,4,Recalled,NA,8,Related,QUENCH,THIRST,NA,unrelated,,,
+60b54b4f1c445395a93ee622,BRANCH,3622.19,Studied,12,4,NotRecalled,Identical,NA,NA,NA,NA,NA,unprimed,,,
+60b54b4f1c445395a93ee622,HUNGER,3049.815,Studied,14,4,NotRecalled,NA,NA,NA,NA,NA,FAMINE,related,famine,27,4
+60b54b4f1c445395a93ee622,WAITER,8010.59,Studied,15,4,Recalled,Identical,NA,NA,NA,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,THIRST,4093.87,Studied,16,4,Recalled,NA,15,Unrelated,SOUR,NA,QUENCH,related,quench,8,4
+60b54b4f1c445395a93ee622,SOAP,3055.14,Studied,17,4,Recalled,NA,11,Unrelated,LOSE,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,ALIVE,2840.255,Studied,18,4,Recalled,NA,12,Identical,WAITER,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,SEEK,5779.8,Studied,19,4,Recalled,NA,13,Unrelated,CHURCH,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,BUCKET,6212.475,Studied,20,4,NotRecalled,NA,NA,NA,NA,NA,PAIL,related,pail,26,4
+60b54b4f1c445395a93ee622,LESS,4495.75,Studied,21,4,Recalled,NA,14,Unrelated,WARM,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,STATE,3001.41,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,states,31,4
+60b54b4f1c445395a93ee622,TENN,7988.775,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b54b4f1c445395a93ee622,MIDDLE,5348.495,Studied,25,4,Recalled,NA,17,Unrelated,FIND,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,PAIN,7994.78,Studied,26,4,NotRecalled,NA,NA,NA,NA,NA,HURT,related,hurt,40,4
+60b54b4f1c445395a93ee622,VERB,6031.7,Studied,27,4,NotRecalled,NA,NA,NA,NA,NA,NOUN,related,noun,32,4
+60b54b4f1c445395a93ee622,BUTTER,3747.415,Studied,28,4,Recalled,NA,18,Unrelated,SMELL,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,SQUARE,7993.13,Studied,29,4,Recalled,NA,19,Identical,TOUR,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,PURPLE,7992.095,Studied,31,4,Recalled,Identical,21,Identical,KIDNAP,NA,NA,identical,purple,5,4
+60b54b4f1c445395a93ee622,CANDLE,7995.505,Studied,32,4,Recalled,NA,22,Unrelated,LETTUCE,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,DOOR,4407.32,Studied,1,3,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+60b54b4f1c445395a93ee622,BELOW,2578.185,Studied,2,3,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,below,18,3
+60b54b4f1c445395a93ee622,HOOP,8003.015,Studied,4,3,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,hoop,3,3
+60b54b4f1c445395a93ee622,SMOKE,4135.245,Studied,5,3,Recalled,NA,3,Identical,HOOP,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,TIGHT,2564.255,Studied,9,3,NotRecalled,NA,NA,NA,NA,NA,LOOSE,related,loose,21,3
+60b54b4f1c445395a93ee622,LACK,4723.5,Not Studied,NA,NA,Recalled,NA,10,Unrelated,WANT,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,LAN,8001.05,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,LAND,3235.415,Studied,12,3,Recalled,NA,12,Related,NERD,GEEK,NA,unrelated,,,
+60b54b4f1c445395a93ee622,LEARN,3287.4,Studied,13,3,Recalled,NA,13,Related,TOAD,FROG,NA,unrelated,,,
+60b54b4f1c445395a93ee622,MUSCLE,6566.965,Studied,29,1,Recalled,NA,12,Unrelated,CLOWN,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,HOTEL,4454.935,Studied,15,3,Recalled,NA,15,Identical,LAKE,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,RIDE,2982.765,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b54b4f1c445395a93ee622,SOUTH,7501.85,Studied,17,3,Recalled,NA,16,Identical,KILL,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,TRAIN,4796.215,Studied,18,3,Recalled,NA,18,Identical,BELOW,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,STARS,4451.87,Studied,19,3,Recalled,NA,19,Identical,ROAD,NA,GALAXY,related,galaxy,2,3
+60b54b4f1c445395a93ee622,KISS,7990.375,Studied,20,3,Recalled,NA,6,Unrelated,CASTLE,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,SMILE,3348.365,Studied,21,3,Recalled,NA,7,Identical,DIRT,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,FROG,2176.695,Studied,22,3,Recalled,NA,20,Related,ABDOMEN,STOMACH,TOAD,related,toad,13,3
+60b54b4f1c445395a93ee622,JUMP,4818.875,Studied,23,3,Recalled,NA,21,Related,LOOSE,TIGHT,NA,unrelated,,,
+60b54b4f1c445395a93ee622,SWEET,4509.99,Studied,24,3,Recalled,NA,22,Related,GRAIN,WHEAT,NA,unrelated,,,
+60b54b4f1c445395a93ee622,SWAM,5578.165,Not Studied,NA,NA,Recalled,NA,24,Related,WHITE,BLACK,NA,unrelated,,,
+60b54b4f1c445395a93ee622,WORLD,5796.87,Studied,26,3,Recalled,NA,23,Unrelated,UNCLEAR,NA,NA,unrelated,,,
+60b54b4f1c445395a93ee622,LAKE,5255.02,Studied,27,3,Recalled,Identical,25,Identical,SHOES,NA,NA,identical,lake,15,3
+60b54b4f1c445395a93ee622,POUND,7999.08,Studied,28,3,NotRecalled,NA,NA,NA,NA,NA,OUNCE,related,ounce,35,3
+60b54b4f1c445395a93ee622,TRASH,8005.5,Studied,29,3,Recalled,Identical,27,Unrelated,GLASSES,NA,NA,identical,trash,5,3
+60b54b4f1c445395a93ee622,PICTURE,6358.4,Studied,30,3,Recalled,NA,29,Unrelated,FINISH,NA,CAMERA,related,identical,17,3
+60b54b4f1c445395a93ee622,ROAD,8006.22,Studied,31,3,Recalled,Identical,28,Related,MUTE,DEAF,NA,identical,road,19,3
+60b54b4f1c445395a93ee622,FIVE,8007.105,Studied,35,3,Recalled,NA,32,Related,MARSH,SWAMP,NA,unrelated,,,
+60b54b4f1c445395a93ee622,MINOR,8000.55,Studied,36,3,Recalled,NA,35,Related,OUNCE,POUND,MAJOR,related,major,33,3
+60b54b4f1c445395a93ee622,CAMP,8021.99,Studied,38,3,Recalled,Identical,"34,38",Identical,SORRY,NA,NA,identical,camp,26,3
+60b54b4f1c445395a93ee622,SORRY,7988.985,Studied,39,3,Recalled,Identical,37,Unrelated,FIRE,NA,NA,identical,sorry,34,3
+60b54b4f1c445395a93ee622,SHOE,8007.75,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,shoes,25,3
+60b54b4f1c445395a93ee622,SHOES,8005.12,Studied,42,3,Recalled,Identical,40,Unrelated,ALLOW,NA,NA,identical,shoes,25,3
+60b54b4f1c445395a93ee622,BORROW,7992.835,Studied,1,4,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+60b54b4f1c445395a93ee622,COLONY,7468.335,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b54b4f1c445395a93ee622,PLEAD,2903.705,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b54b4f1c445395a93ee622,SOUL,3899.91,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b54b4f1c445395a93ee622,MONARCH,3972.615,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b54b4f1c445395a93ee622,RECK,3516.435,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b54b4f1c445395a93ee622,WRECK,2928.43,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b54b4f1c445395a93ee622,PILE,6086.885,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b54b4f1c445395a93ee622,TRIBE,3572.59,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b54b4f1c445395a93ee622,MONARCH,5322.085,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b54b4f1c445395a93ee622,EXTEND,7997.895,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60b54b4f1c445395a93ee622,LENGTH,4550.86,Studied,4,2,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,9,2,
+60b54b4f1c445395a93ee622,CRACKER,3828.5,Studied,5,2,Recalled,NA,3,Identical,GROSS,NA,NA,unrelated,,,

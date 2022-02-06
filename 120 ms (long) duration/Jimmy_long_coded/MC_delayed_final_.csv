@@ -1,0 +1,20 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+MC,CHURCH,3283.285,Studied,1,1,Recalled,NA,NA,NA,NA,NA,CHAPEL,firstword,,,
+MC,TALK,1165.85,Studied,10,1,Recalled,NA,2,Related,PICK,CHOOSE,NA,unrelated,,,
+MC,VOLCANO,2101.71,Studied,8,1,Recalled,NA,5,Identical,LOVE,NA,NA,unrelated,,,
+MC,MANY,5334.685,Studied,4,2,Recalled,NA,4,Unrelated,GRASS,NA,NA,unrelated,,,
+MC,PLANE,2167.535,Studied,NA,NA,Recalled,Identical,"14,20",Unrelated,WINTER,NA,NA,unrelated,,,
+MC,SHIP,8000.635,Studied,20,1,Recalled,NA,13,Identical,SMELL,NA,NA,unrelated,,,
+MC,CHILD,8003.37,Studied,10,2,Recalled,NA,"5,12",Identical,PIECE,NA,NA,unrelated,,,
+MC,STAMP,1516.835,Studied,25,2,Recalled,NA,NA,NA,NA,NA,POSTAGE,unrelated,,,
+MC,SHERRIF,8000.685,Studied,NA,NA,NotRecalled,NA,2,Identical,PLANE,NA,NA,unprimed,sheriff,21,2
+MC,CAKE,8000.5,Studied,6,4,Recalled,NA,14,Unrelated,WHEAT,NA,BAKE,related,bake,7,4
+MC,HAIR,8000.51,Studied,33,1,Recalled,Identical,24,Unrelated,TOUR,NA,NA,identical,hair,16,1
+MC,FREE,5450.405,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+MC,ANNOY,2082.97,Studied,7,2,Recalled,NA,NA,NA,NA,NA,BOTHER,unrelated,,,
+MC,DISAGREE,2767.705,Studied,6,2,Recalled,Identical,42,Identical,DISAGREE,NA,NA,identical,disagree,42,4
+MC,HILL,3266.99,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+MC,KNIFE,3000.66,Studied,37,2,Recalled,NA,14,Unrelated,SHOVE,NA,NA,unrelated,,,
+MC,CAUSE,2890.015,Not Studied,NA,NA,NotRecalled,Related,NA,NA,NA,NA,NA,identical,cause,3,4
+MC,SH,8001.03,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+MC,SHALLOW,7999.53,Studied,39,2,Recalled,Identical,33,Identical,ALLOW,NA,NA,unrelated,,,

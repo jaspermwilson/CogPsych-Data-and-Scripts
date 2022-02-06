@@ -1,0 +1,38 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+60bbf45003c586668c7defb8,SHERIFF,3596.9,Studied,37,2,Recalled,NA,4,Unrelated,FOUND,NA,NA,unrelated,,,
+60bbf45003c586668c7defb8,LOVE,1361.2,Studied,13,1,Recalled,Identical,26,Unrelated,WHERE,NA,NA,unrelated,,,
+60bbf45003c586668c7defb8,SISTER,1076.3,Not Studied,NA,NA,Recalled,NA,"31,37,38",Unrelated,MOTHER,NA,NA,unrelated,,,
+60bbf45003c586668c7defb8,TAKE,1229.1,Studied,1,1,Recalled,NA,"1,10",firstword,firstword,NA,NA,firstword,,,
+60bbf45003c586668c7defb8,LEAVE,875,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbf45003c586668c7defb8,POST,1722.1,Not Studied,NA,NA,Recalled,NA,17,Related,BOTHER,ANNOY,NA,unrelated,,,
+60bbf45003c586668c7defb8,OPEN,2951.3,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbf45003c586668c7defb8,MATH,4375.6,Studied,41,3,Recalled,NA,"4,9,31",Identical,SHIRT,NA,NA,unrelated,,,
+60bbf45003c586668c7defb8,DEATH,4389.7,Studied,19,2,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbf45003c586668c7defb8,RENT,1110.7,Studied,20,2,Recalled,NA,5,Identical,REAL,NA,NA,unrelated,,,
+60bbf45003c586668c7defb8,SHALLOW,2854.4,Studied,22,2,Recalled,NA,8,Unrelated,BEFORE,NA,NA,unrelated,,,
+60bbf45003c586668c7defb8,HOLLOW,2270.9,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbf45003c586668c7defb8,SPIRIT,3562.6,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbf45003c586668c7defb8,BORTHER,3593.5,Not Studied,NA,NA,NotRecalled,,NA,NA,NA,NA,NA,unprimed,,,
+60bbf45003c586668c7defb8,GIVE,4677.2,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbf45003c586668c7defb8,ROSE,7000.4,Studied,20,3,Recalled,NA,10,Identical,TOOTH,NA,NA,unrelated,,,
+60bbf45003c586668c7defb8,HEAL,1756.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbf45003c586668c7defb8,HATE,3104,Studied,17,2,Recalled,Identical,30,Identical,DRAW,NA,NA,identical,hate,25,2
+60bbf45003c586668c7defb8,HIM,660.5,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbf45003c586668c7defb8,CLOCK,6167,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,clock,10,2
+60bbf45003c586668c7defb8,PROBLEM,7542.1,Studied,7,1,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,problem,23,1
+60bbf45003c586668c7defb8,BEST,3353.6,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,worst,38,2
+60bbf45003c586668c7defb8,STEEL,7458.6,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbf45003c586668c7defb8,ROSE,1599,Studied,20,3,Recalled,NA,10,Identical,TOOTH,NA,NA,unrelated,,,
+60bbf45003c586668c7defb8,GIVE,2250,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbf45003c586668c7defb8,TAKE,875.1,Studied,1,1,Recalled,NA,"1,10",firstword,firstword,NA,NA,unrelated,,,
+60bbf45003c586668c7defb8,SHERIFF,3195.9,Studied,37,2,Recalled,NA,4,Unrelated,FOUND,NA,NA,unrelated,,,
+60bbf45003c586668c7defb8,SCHOOL,2682.1,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbf45003c586668c7defb8,PROBLEM,5473,Studied,7,1,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,problem,23,1
+60bbf45003c586668c7defb8,MOVE,7993.4,Studied,24,3,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbf45003c586668c7defb8,MOTHER,4736,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,mother,31,1
+60bbf45003c586668c7defb8,FATHER,1062.1,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,mother,31,1
+60bbf45003c586668c7defb8,SPEAK,5536.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbf45003c586668c7defb8,STRUP,7993.5,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbf45003c586668c7defb8,STRIP,1395.8,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbf45003c586668c7defb8,LOSE,742.9,Studied,31,1,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,lose,24,1
+60bbf45003c586668c7defb8,WIN,2147.4,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

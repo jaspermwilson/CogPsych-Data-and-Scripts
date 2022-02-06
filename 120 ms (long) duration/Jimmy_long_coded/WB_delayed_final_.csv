@@ -1,0 +1,19 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+WB,TOES,4199.47,Studied,2,2,Recalled,NA,2,Unrelated,STREET,NA,NA,unrelated,,,
+WB,MINUTE,2599.995,Studied,2,3,Recalled,NA,9,Related,MINE,YOURS,NA,unrelated,,,
+WB,LAKE,2866.305,Studied,40,1,Recalled,NA,14,Unrelated,TIRED,NA,NA,unrelated,,,
+WB,FROG,1433.565,Studied,41,1,Recalled,NA,16,Unrelated,OVEN,NA,NA,unrelated,,,
+WB,CLOSE,2566.475,Studied,24,3,Recalled,NA,6,Unrelated,PLANE,NA,NA,unrelated,,,
+WB,WHOLE,4118.06,Studied,15,3,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+WB,ROAD,5450.16,Studied,26,1,Recalled,NA,"3,7",Related,GLOBE,WORLD,NA,unrelated,,,
+WB,NIGHT,1398.965,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,nights,32,4
+WB,TOUR,5449.565,Studied,1,2,Recalled,NA,3,Unrelated,HAPPY,NA,NA,unrelated,,,
+WB,CORAL,6266.59,Studied,6,3,Recalled,NA,11,Unrelated,VOTE,NA,NA,unrelated,,,
+WB,TIME,6249.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,clock,27,3
+WB,KISS,3932.895,Studied,35,1,Recalled,NA,19,Unrelated,JEANS,NA,NA,unrelated,,,
+WB,EARLY,7017.415,Studied,14,3,Recalled,Identical,20,Identical,EARLY,NA,NA,identical,early,20,3
+WB,HOME,2432.525,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+WB,SHEETS,4531.61,Studied,20,4,Recalled,Identical,21,Identical,SHEETS,NA,NA,identical,sheets,20,4
+WB,FROG,2182.7,Studied,41,1,Recalled,NA,16,Unrelated,OVEN,NA,NA,unrelated,,,
+WB,B,8697.335,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+WB,BIRD,2501.605,Studied,16,4,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,bird,9,4

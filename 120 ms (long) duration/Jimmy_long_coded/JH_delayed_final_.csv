@@ -1,0 +1,4 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+JH,PENCIL,7996.675,Studied,4,1,Recalled,NA,3,Related,MAIL,LETTER,NA,unrelated,,,
+JH,LOSE,3027.2,Studied,16,2,Recalled,NA,2,Identical,COLLECT,NA,NA,unrelated,,,
+JH,ROCKK,7930.395,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,rock,4,3

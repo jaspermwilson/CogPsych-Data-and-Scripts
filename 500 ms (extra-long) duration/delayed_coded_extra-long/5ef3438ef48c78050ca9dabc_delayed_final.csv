@@ -1,0 +1,67 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+5ef3438ef48c78050ca9dabc,ANIMAL,5466.415,Studied,40,1,Recalled,NA,"15,17",Identical,MINUS,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,HORSE,3499.505,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,firstword,,,
+5ef3438ef48c78050ca9dabc,QUEEN,1947.64,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,TIME,3970.74,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,time,14,2
+5ef3438ef48c78050ca9dabc,BEFORE,2023.27,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,before,6,2
+5ef3438ef48c78050ca9dabc,OFFICE,1827.135,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,GIRLS,2284.74,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,UNCLES,2770.795,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,uncle,9,2
+5ef3438ef48c78050ca9dabc,DOLLAR,1997.425,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,dollar,26,2
+5ef3438ef48c78050ca9dabc,TIME,3847.245,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,time,14,2
+5ef3438ef48c78050ca9dabc,HORSE,5020.015,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,firstword,,,
+5ef3438ef48c78050ca9dabc,H,7990.875,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5ef3438ef48c78050ca9dabc,QUEEN,2724.24,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,FIVE,6802.615,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,JJJJJJJJJJJJJ,7997.025,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5ef3438ef48c78050ca9dabc,IDONTKNOW,7995.67,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5ef3438ef48c78050ca9dabc,QUART,3848.55,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5ef3438ef48c78050ca9dabc,BE,8003.99,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5ef3438ef48c78050ca9dabc,BEFORE,3029.255,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,before,6,2
+5ef3438ef48c78050ca9dabc,WAIT,4616.1,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,PICKLE,2194.21,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,FISH,2150.125,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,bait,16,3
+5ef3438ef48c78050ca9dabc,FLOWER,3221.275,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,tulip,2,3
+5ef3438ef48c78050ca9dabc,STAIRS,4647.83,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,stairs,24,3
+5ef3438ef48c78050ca9dabc,BIRD,2759.07,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,bird,4,3
+5ef3438ef48c78050ca9dabc,DAGGER,4066.535,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,dagger,26,3
+5ef3438ef48c78050ca9dabc,GLORY,3767.245,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,glory,32,3
+5ef3438ef48c78050ca9dabc,GROSS,4213.335,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,gross,27,3
+5ef3438ef48c78050ca9dabc,ORANGE,5279.8,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,peel,5,3
+5ef3438ef48c78050ca9dabc,BOMB,4198.605,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,atom,14,3
+5ef3438ef48c78050ca9dabc,EGGS,7998.89,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,bacon,15,3
+5ef3438ef48c78050ca9dabc,MONEY,3448.505,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,HORN,3831.18,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,WORK,3094.425,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,firstword,,,
+5ef3438ef48c78050ca9dabc,CHEESE,2823.12,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,SELLER,3035.935,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,STORY,4362.34,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,CHANGE,3991.76,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,JAIL,5519.15,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,SONG,2541.91,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,CLAM,4189.74,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,clam,10,3
+5ef3438ef48c78050ca9dabc,STOP,4138.905,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,stop,30,3
+5ef3438ef48c78050ca9dabc,SMOOTH,5248.59,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,smooth,31,3
+5ef3438ef48c78050ca9dabc,WEST,3599.625,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,west,20,3
+5ef3438ef48c78050ca9dabc,NICKEL,8007.135,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,nickel,7,3
+5ef3438ef48c78050ca9dabc,BRIDE,4086.205,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,groom,37,4
+5ef3438ef48c78050ca9dabc,SMILE,4014.55,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,frown,22,4
+5ef3438ef48c78050ca9dabc,DIRT,3505.72,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,JUMP,3467.91,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,KISS,8001.69,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,FIVE,5746.935,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,SORRY,3326.815,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,HOOP,7997.095,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,hula,5,4
+5ef3438ef48c78050ca9dabc,DEVIL,3031.475,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,demon,2,4
+5ef3438ef48c78050ca9dabc,HOTEL,7995.995,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,DEAF,7995.84,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,POUND,8006.34,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,LAND,2859.28,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,land,34,4
+5ef3438ef48c78050ca9dabc,KILL,8003.535,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,kill,32,4
+5ef3438ef48c78050ca9dabc,STARS,8009.56,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,stars,31,4
+5ef3438ef48c78050ca9dabc,WORLD,8008.78,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,world,35,4
+5ef3438ef48c78050ca9dabc,FROG,7993.15,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5ef3438ef48c78050ca9dabc,TIGHT,8023.56,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,loose,21,4
+5ef3438ef48c78050ca9dabc,DOOR,7998.75,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,hinge,7,4
+5ef3438ef48c78050ca9dabc,MINOR,8001.775,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,major,11,4
+5ef3438ef48c78050ca9dabc,DEVI,4052.105,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,demon,2,4

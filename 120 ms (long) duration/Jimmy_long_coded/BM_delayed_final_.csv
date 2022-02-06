@@ -1,0 +1,24 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+BM,LAWYER,3477.155,Studied,6,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+BM,CHAIR,2783.335,Studied,37,1,Recalled,NA,29,Identical,BOMB,NA,NA,unrelated,,,
+BM,OUTTAKE,4188.865,Studied,7,1,Recalled,Identical,38,Unrelated,PROPER,NA,NA,identical,outtake,23,1
+BM,STARS,2749.4,Studied,1,2,Recalled,Identical,38,Identical,SOUTH,NA,NA,identical,stars,35,2
+BM,CAMP,1716.725,Studied,8,2,Recalled,NA,4,Identical,LAND,NA,NA,firstword,,,
+BM,HOTEL,1899.915,Studied,3,2,Recalled,Identical,23,Identical,HOTEL,NA,NA,identical,hotel,23,2
+BM,KISS,968.335,Studied,9,2,Recalled,NA,6,Unrelated,SLEEP,NA,NA,unrelated,,,
+BM,FISH,1269.545,Studied,21,1,Recalled,Identical,32,Identical,FLOWER,NA,NA,identical,fish,21,1
+BM,BIRD,921.69,Studied,24,1,Recalled,NA,7,Unrelated,FAKE,NA,NA,unrelated,,,
+BM,RIVER,6234.16,Not Studied,NA,NA,Recalled,NA,8,Unrelated,UNDER,NA,NA,unrelated,,,
+BM,BOMB,3517.56,Studied,36,1,Recalled,Identical,30,Related,CASH,MONEY,NA,identical,bomb,29,1
+BM,STAIRS,6884.625,Studied,23,1,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,stairs,19,1
+BM,ANIMAL,1799.655,Studied,23,4,Recalled,NA,11,Related,FLEX,MUSCLE,NA,unrelated,,,
+BM,WORK,4317.535,Studied,38,1,NotRecalled,NA,10,Related,SWISS,CHEESE,NA,unrelated,,,
+BM,CLOCK,3935.765,Studied,11,4,NotRecalled,Identical,16,Unrelated,NECK,NA,NA,identical,clock,14,4
+BM,TRIP,6934.355,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+BM,ROAD,2550.895,Studied,34,2,Recalled,NA,5,Unrelated,EFFECT,NA,NA,unrelated,,,
+BM,STOMACH,2433.44,Studied,13,2,Recalled,NA,29,Identical,HOOP,NA,NA,unrelated,,,
+BM,BRIDE,6142.945,Studied,11,2,Recalled,Identical,28,Identical,BRIDE,NA,NA,identical,bride,28,2
+BM,COFFEE,5618.35,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+BM,MO,8000.755,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+BM,MONEY,2283.27,Studied,12,1,NotRecalled,NA,NA,NA,NA,NA,CASH,related,cash,30,1
+BM,FUNERAL,5934.52,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

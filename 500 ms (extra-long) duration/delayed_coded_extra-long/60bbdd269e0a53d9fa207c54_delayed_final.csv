@@ -1,0 +1,51 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+60bbdd269e0a53d9fa207c54,BELL,7853.2,Studied,2,1,Recalled,NA,2,Unrelated,LOOK,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,STICKY,2054.9,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,firstword,,,
+60bbdd269e0a53d9fa207c54,SWOARD,7561.5,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,saber,25,1
+60bbdd269e0a53d9fa207c54,SING,2922.7,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,HAPPY,1728.7,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,MARRY,6290.9,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,CARD,2048,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,TOOL,1552,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,TRAILER,4563,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,BUSH,4579.3,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,SHALLOW,3179.5,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,firstword,,,
+60bbdd269e0a53d9fa207c54,SILVER,4323,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,silver,3,2
+60bbdd269e0a53d9fa207c54,STRIP,2263.2,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbdd269e0a53d9fa207c54,POTATO,5332.9,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbdd269e0a53d9fa207c54,THIN,2867.4,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,thin,30,2
+60bbdd269e0a53d9fa207c54,CLOWN,5590.3,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,PLANE,5297.6,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,RAIN,2221.9,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,hail,19,2
+60bbdd269e0a53d9fa207c54,DRUGS,4777.8,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,SLIDE,3665.9,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,RAIN,1704.6,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,hail,19,2
+60bbdd269e0a53d9fa207c54,NECK,4936.9,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,FUNERAL,2219,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbdd269e0a53d9fa207c54,BABY,5256.9,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,CRAWL,3273.3,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbdd269e0a53d9fa207c54,FAKE,1027.5,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,WOOD,1340.2,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,STING,2985.4,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,YELLOW,4712.4,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbdd269e0a53d9fa207c54,SPOTS,2117.5,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,spots,18,3
+60bbdd269e0a53d9fa207c54,ROSE,3260.4,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,IRON,4170.5,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbdd269e0a53d9fa207c54,SHIRT,3231.8,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,OVEN,2430.6,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,NIGHT,1670.4,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,DOCTOR,2659.2,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,SHEEP,2993.6,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,sheep,16,3
+60bbdd269e0a53d9fa207c54,TREE,6665.8,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,SHIP,2818.6,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,DESERT,7074,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,BOARD,6558.7,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,STREET,7988.7,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,HATE,7992,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,dislike,39,2
+60bbdd269e0a53d9fa207c54,VULCANO,3611.5,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,volcano,22,1
+60bbdd269e0a53d9fa207c54,ROOF,1485.5,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,MONKEY,6913.1,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,ITCHY,7988.1,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,SHERIFF,6249.3,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+60bbdd269e0a53d9fa207c54,PAC,7995.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+60bbdd269e0a53d9fa207c54,PACKAGE,3498.8,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,

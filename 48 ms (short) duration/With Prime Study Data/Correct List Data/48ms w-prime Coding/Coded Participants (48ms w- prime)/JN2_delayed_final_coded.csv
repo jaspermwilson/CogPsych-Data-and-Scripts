@@ -1,0 +1,85 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+JN2,NEPHEW,5809.225,Studied,4,2,Recalled,NA,6,Identical,CHANGE,NA,NA,unrelated,CHANGE,6,2
+JN2,SOUTH,1780.255,Studied,26,3,Recalled,NA,4,Identical,GHOST,NA,NA,related,NORTH,14,2
+JN2,BLOOD,1347.79,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,HELL,1947.015,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,OUTTAKE,4976.62,Studied,14,2,Recalled,NA,10,Unrelated,PENNY,NA,NA,unrelated,PENNY,10,2
+JN2,NAVY,2513.975,Studied,27,4,Recalled,NA,2,Identical,BUTTER,NA,NA,unrelated,BUTTER,2,4
+JN2,PURPLE,1880.955,Studied,41,4,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+JN2,YELLOW,1298.185,Studied,12,2,Recalled,Identical,8,Identical,YELLOW,NA,NA,identical,YELLOW,8,2
+JN2,,7990.995,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,SOUND,3237.84,Not Studied,NA,NA,NotRecalled,Related,NA,NA,NA,NA,NA,identical,SOUND,38,3
+JN2,LAKE,1314.67,Studied,3,3,Recalled,NA,7,Related,ABOVE,BELOW,NA,unrelated,ABOVE,7,3
+JN2,SEEK,2962.9,Studied,1,4,Recalled,NA,12,Unrelated,DRESS,NA,NA,unrelated,DRESS,12,4
+JN2,NEAR,6075.655,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.685,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,DARK,1663.845,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,HEEL,2750.995,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,BIRD,1131.575,Studied,3,2,Recalled,NA,3,Related,BUYER,SELLER,NA,unrelated,BUYER,3,2
+JN2,,7993.145,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,LION,1514.45,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,TIGER,9,1
+JN2,TIGER,1259.97,Studied,27,1,Recalled,NA,9,Identical,QUART,NA,NA,unrelated,QUART,9,1
+JN2,,7990.765,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.265,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,MILK,2464.405,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,CYCLE,7991.485,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.09,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.58,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,HORN,2712.3,Studied,7,2,Recalled,NA,9,Unrelated,NIGHTS,NA,NA,unrelated,NIGHTS,9,2
+JN2,,7990.585,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,SOUTH,5709.44,Studied,26,3,Recalled,NA,4,Identical,GHOST,NA,NA,related,NORTH,14,2
+JN2,WEST,2646.275,Studied,39,2,Recalled,NA,15,Unrelated,DOCTOR,NA,EAST,related,EAST,11,2
+JN2,,7991.64,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,KING,6591.835,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,QUEEN,3,1
+JN2,RIGHT,1763.66,Studied,5,2,Recalled,NA,16,Unrelated,CLIMB,NA,NA,unrelated,CLIMB,16,2
+JN2,,7991.645,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7990.49,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.205,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.185,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7989.81,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.25,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7990.335,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7993.67,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.375,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7990.855,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7990.95,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.675,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7990.925,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7990.74,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.145,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7990.965,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7990.725,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7990.62,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.495,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7990.6,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7990.725,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7989.97,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.28,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7996.795,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7993.84,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7990.49,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.16,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7988.03,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7996.53,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.05,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.05,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.265,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.005,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.11,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.19,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.21,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.25,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7992.745,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7990.525,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.455,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.1,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.04,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7997.105,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7992.845,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7993.28,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,8007.16,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.575,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7997.72,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7990.755,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,7991.46,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JN2,,5393.975,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

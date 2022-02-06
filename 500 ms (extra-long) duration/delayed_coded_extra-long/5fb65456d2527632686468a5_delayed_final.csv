@@ -1,0 +1,27 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+5fb65456d2527632686468a5,COLONIST,4934.165,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5fb65456d2527632686468a5,KILL,8001.14,Studied,9,2,Recalled,NA,3,Unrelated,MAID,NA,NA,unrelated,,,
+5fb65456d2527632686468a5,EARTH,2004.975,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5fb65456d2527632686468a5,GHOST,4680.875,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5fb65456d2527632686468a5,MOTHER,6339.99,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,father,10,3
+5fb65456d2527632686468a5,JUMP,4563.26,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5fb65456d2527632686468a5,BOMB,833.35,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5fb65456d2527632686468a5,EXPLOSION,1550.205,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5fb65456d2527632686468a5,THREAD,7332.915,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,needle,19,3
+5fb65456d2527632686468a5,THEIRS,1283.58,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5fb65456d2527632686468a5,THERE,1100.465,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5fb65456d2527632686468a5,STARS,1583.435,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5fb65456d2527632686468a5,LEARN,1249.985,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5fb65456d2527632686468a5,TIGER,5017.05,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5fb65456d2527632686468a5,BEAR,1067.395,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5fb65456d2527632686468a5,ANIMAL,4016.27,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,beast,38,4
+5fb65456d2527632686468a5,SHARK,1717.11,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5fb65456d2527632686468a5,QUEEN,6667.13,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5fb65456d2527632686468a5,MOTHER,5688.43,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,father,10,3
+5fb65456d2527632686468a5,WEST,1050.105,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5fb65456d2527632686468a5,MENACE,1999.65,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5fb65456d2527632686468a5,DEFEND,5055.18,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5fb65456d2527632686468a5,TEARS,5983.495,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5fb65456d2527632686468a5,YOURS,4966.76,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5fb65456d2527632686468a5,O,15273.08,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5fb65456d2527632686468a5,HORSE,1874.5,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,

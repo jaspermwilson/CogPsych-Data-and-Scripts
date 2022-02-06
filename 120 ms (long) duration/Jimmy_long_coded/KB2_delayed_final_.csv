@@ -1,0 +1,39 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+KB2,PICKLE,3553.235,Studied,7,2,Recalled,NA,22,Related,DILL,PICKLE,DILL,related,dill,22,2
+KB2,GHOST,5801.235,Studied,1,3,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+KB2,BELOW,1565.535,Studied,2,3,Recalled,NA,2,Related,HIGHWAY,ROAD,NA,unrelated,,,
+KB2,BLACK,1199.73,Studied,3,3,Recalled,NA,3,Unrelated,BANK,NA,NA,unrelated,,,
+KB2,SWAMP,1149.785,Studied,4,3,Recalled,NA,4,Unrelated,CAKE,NA,NA,unrelated,,,
+KB2,THIEF,8001.545,Studied,8,3,Recalled,NA,5,Related,LOOSE,TIGHT,NA,unrelated,,,
+KB2,GEEK,8001.46,Studied,17,3,Recalled,Identical,NA,NA,NA,NA,NA,unrelated,,,
+KB2,ORANGE,7619.91,Studied,36,2,Recalled,NA,9,Unrelated,GUILT,NA,NA,unrelated,,,
+KB2,JUMP,1217.205,Studied,20,3,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,jump,23,2
+KB2,CAMP,917.66,Studied,18,3,Recalled,Identical,19,Unrelated,SILK,NA,NA,identical,camp,13,3
+KB2,GRASS,3334.66,Studied,1,1,Recalled,NA,5,Unrelated,STAMP,NA,NA,unrelated,,,
+KB2,FINGER,1599.11,Studied,2,1,Recalled,NA,6,Unrelated,SLIDE,NA,NA,unrelated,,,
+KB2,TIGER,1000.31,Studied,6,1,Recalled,NA,8,Identical,GIRLS,NA,NA,unrelated,,,
+KB2,THROW,2884.725,Studied,33,1,Recalled,NA,9,Related,HOUR,MINUTE,NA,unrelated,,,
+KB2,THREAD,1053.615,Studied,9,4,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,thread,42,4
+KB2,STARS,6735.55,Studied,28,3,Recalled,Identical,7,Identical,STARS,NA,NA,identical,stars,7,3
+KB2,ARGUE,2032.455,Studied,1,4,Recalled,NA,6,Identical,LOOK,NA,NA,unrelated,,,
+KB2,GIRLS,6900.535,Studied,31,1,Recalled,Identical,12,Identical,WHOLE,NA,NA,identical,girls,8,1
+KB2,SUNRIS,8002.355,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+KB2,EARLY,6637.125,Studied,35,1,Recalled,Identical,38,Identical,EARLY,NA,NA,identical,early,38,1
+KB2,SET,752.205,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KB2,CATCH,5151.265,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KB2,HORSE,6433.775,Studied,15,1,Recalled,Identical,33,Identical,HORSE,NA,NA,identical,horse,33,1
+KB2,LA,8001.84,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KB2,LAWYER,1951,Studied,17,2,NotRecalled,NA,16,Identical,SELLER,NA,NA,unprimed,,,
+KB2,BRIDE,1216.2,Studied,9,3,Recalled,NA,"6,35",Unrelated,FRONT,NA,NA,unrelated,,,
+KB2,TOE,3866.855,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+KB2,TENNIS,4834.135,Studied,34,4,Recalled,Identical,10,Identical,PAIN,NA,NA,identical,tennis,9,4
+KB2,TOUR,4701.99,Studied,33,4,Recalled,NA,12,Unrelated,STRANGE,NA,GUIDE,related,guide,11,4
+KB2,BAR,7984.83,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KB2,D,7999.785,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KB2,MONEY,1949.855,Studied,9,2,Recalled,NA,8,Unrelated,TOOTH,NA,NA,unrelated,,,
+KB2,FLOWER,5367.17,Studied,31,2,Recalled,Identical,32,Related,SCALE,WEIGHT,NA,identical,flower,30,2
+KB2,EGG,2775.6,Studied,NA,NA,Recalled,NA,31,Identical,CHAIR,NA,NA,related,bacon,24,2
+KB2,FROG,6100.455,Studied,11,3,Recalled,NA,11,Identical,HOOP,NA,NA,unrelated,,,
+KB2,WORLD,4467.425,Studied,12,3,Recalled,NA,12,Related,CIGAR,SMOKE,NA,unrelated,,,
+KB2,STREET,3599.655,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,street,15,4
+KB2,DINNER,3817.97,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,

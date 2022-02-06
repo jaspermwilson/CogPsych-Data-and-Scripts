@@ -1,0 +1,33 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+CC,NEWPHEW,2082.98,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+CC,LANDSCAPE,1782.85,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CC,SORRY,4067.54,Studied,20,2,Recalled,NA,4,Related,CAMERA,PICTURE,NA,unrelated,,,
+CC,DIRT,1199.375,Studied,3,2,Recalled,NA,8,Related,FOUR,FIVE,NA,unrelated,,,
+CC,DUST,1049.68,Not Studied,NA,NA,Recalled,NA,2,Identical,GHOST,NA,NA,unrelated,,,
+CC,HOTEL,1583.43,Studied,2,2,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+CC,WRENCH,6001.505,Not Studied,NA,NA,Recalled,NA,6,Unrelated,PENNY,NA,NA,unrelated,,,
+CC,WATER,6584.69,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CC,SORRY,1599.74,Studied,20,2,Recalled,NA,4,Related,CAMERA,PICTURE,NA,unrelated,,,
+CC,GIRL,2800.395,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,girls,30,4
+CC,GIRLS,1200.35,Studied,6,4,NotRecalled,Identical,NA,NA,NA,NA,NA,related,girls,30,4
+CC,OVERLOAD,6383.87,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CC,TIGER,3149.38,Studied,2,4,Recalled,Identical,NA,NA,NA,NA,NA,identical,tiger,23,4
+CC,ANIMAL,1915.79,Studied,5,4,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+CC,BIRDS,3450.52,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,bird,26,1
+CC,LAKE,4066.7,Studied,36,2,Recalled,NA,6,Unrelated,SMALL,NA,NA,unrelated,,,
+CC,APOLOGIZE,5065.955,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,sorry,4,2
+CC,RUN,2216.76,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CC,SALAD,3048.63,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CC,QUEST,3150.825,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CC,HOTEL,2382.535,Studied,2,2,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+CC,PIPE,4882.075,Not Studied,NA,NA,Recalled,NA,10,Related,INMATE,JAIL,NA,unrelated,,,
+CC,LEAD,3231.99,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CC,LED,1732.505,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CC,DOG,1900.01,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CC,SPEED,7384.01,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CC,CLEANED,2882.255,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CC,SPIDER,6431.67,Studied,42,3,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CC,GREAT,5038.815,Not Studied,NA,NA,Recalled,NA,13,Related,GIFT,PRESENT,NA,unrelated,,,
+CC,DUSTY,2999.515,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CC,DIRTY,1215.665,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CC,OSTRICH,3063.355,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

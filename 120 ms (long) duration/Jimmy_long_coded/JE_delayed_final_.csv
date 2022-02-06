@@ -1,0 +1,25 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+JE,JAIL,2797.865,Studied,29,3,Recalled,NA,10,Identical,CHEESE,NA,NA,unrelated,,,
+JE,BLACK,4349.815,Studied,6,4,Recalled,NA,8,Identical,DEAF,NA,WHITE,related,white,3,4
+JE,LAKE,1200.56,Studied,2,4,Recalled,NA,4,Related,SLAY,KILL,NA,unrelated,,,
+JE,FROG,883.84,Studied,4,4,Recalled,NA,5,Unrelated,EFFECT,NA,NA,unrelated,,,
+JE,STREET,3716.24,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JE,THIEF,2060.3,Studied,8,4,Recalled,NA,9,Related,ABOVE,BELOW,NA,unrelated,,,
+JE,THIEF,1433.04,Studied,8,4,Recalled,NA,9,Related,ABOVE,BELOW,NA,unrelated,,,
+JE,MILK,3749.195,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,milk,24,3
+JE,THIRST,1584.62,Studied,7,1,Recalled,Identical,25,Identical,THIRST,NA,NA,identical,thirst,25,1
+JE,SON,3233.49,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JE,MOTHER,2034.285,Studied,31,1,Recalled,NA,"20,19",Related,LEND,BORROW,NA,unrelated,,,
+JE,BUCKET,2832.99,Studied,2,1,Recalled,NA,2,Related,EXHALE,INHALE,NA,unrelated,,,
+JE,YELLOW,1588.55,Studied,32,3,Recalled,NA,12,Related,EAST,WEST,NA,unrelated,,,
+JE,ORANGE,1195.475,Studied,6,3,Recalled,NA,13,Identical,TWELVE,NA,NA,unrelated,,,
+JE,LEMON,917.46,Studied,29,2,Recalled,NA,8,Identical,MINUTE,NA,NA,unrelated,,,
+JE,CLOCK,1600.205,Studied,28,2,Recalled,NA,5,Identical,PHONE,NA,NA,unrelated,,,
+JE,HORSE,985.92,Studied,24,2,Recalled,NA,6,Identical,PLANT,NA,NA,unrelated,,,
+JE,DOOR,5983.89,Studied,42,4,Recalled,NA,7,Related,HULA,HOOP,NA,unrelated,,,
+JE,SOUTH,1333.37,Studied,13,4,Recalled,NA,"13,19",Unrelated,SPICE,NA,NA,unrelated,,,
+JE,BRIDE,1867.365,Studied,22,4,Recalled,NA,23,Related,FROWN,SMILE,GROOM,related,groom,22,4
+JE,DUSK,950.33,Studied,23,4,Recalled,NA,24,Identical,WORLD,NA,DAWN,related,dawn,18,4
+JE,FIVE,7068.105,Studied,19,4,Recalled,NA,17,Identical,GHOST,NA,NA,unrelated,,,
+JE,DEVIL,7169.41,Studied,27,4,Recalled,Identical,25,Unrelated,GLASSES,NA,NA,identical,devil,12,4
+JE,POND,5866.51,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,pond,4,4

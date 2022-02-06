@@ -1,0 +1,29 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+JA,STAIR,4385.295,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+JA,FROG,5250.28,Studied,19,2,Recalled,NA,13,Related,CIGAR,SMOKE,NA,unrelated,,,
+JA,CANCER,6334.06,Studied,21,4,Recalled,Identical,"6,15",Identical,CANCER,NA,NA,identical,cancer,6,4
+JA,DOOR,3215.31,Studied,1,2,Recalled,NA,31,Unrelated,LETTER,NA,NA,unrelated,,,
+JA,YELLOW,7118.28,Studied,41,1,Recalled,NA,13,Related,MELLOW,YELLOW,MELLOW,related,mellow,13,1
+JA,FLOWER,5213.435,Studied,30,1,Recalled,NA,NA,NA,NA,NA,TULIP,unrelated,,,
+JA,MINOR,1916.845,Studied,2,2,Recalled,NA,8,Unrelated,MINIMUM,NA,NA,unrelated,,,
+JA,READ,5100.1,Studied,2,3,Recalled,NA,21,Related,VIOLET,PURPLE,NA,unrelated,,,
+JA,STOP,5566.08,Studied,15,1,NotRecalled,NA,NA,NA,NA,NA,HALT,related,halt,27,1
+JA,LINE,5950.375,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JA,HORSE,1831.56,Studied,6,4,Recalled,NA,11,Related,LION,TIGER,NA,unrelated,,,
+JA,DIRR,4682.455,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,dirt,40,2
+JA,DIRT,1566.46,Studied,12,2,Recalled,Identical,40,Identical,DIRT,NA,NA,identical,dirt,40,2
+JA,THIEF,4299.245,Studied,38,2,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JA,JAIL,4166.525,Studied,33,1,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JA,ROA,8005.755,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,firstword,,,
+JA,ROAD,5836.195,Studied,42,2,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+JA,BOOK,8000.75,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,read,21,3
+JA,TOES,7999.385,Studied,15,3,Recalled,NA,4,Identical,CLUE,NA,NA,unrelated,,,
+JA,NOSE,2135.59,Studied,29,3,Recalled,NA,5,Unrelated,JACKET,NA,NA,unrelated,,,
+JA,DEVIL,4038.915,Studied,27,2,Recalled,NA,4,Unrelated,SURE,NA,NA,unrelated,,,
+JA,PAPER,2481.325,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JA,TRAIN,2168.37,Studied,8,2,Recalled,Identical,30,Related,MUTE,DEAF,NA,identical,train,29,2
+JA,DEATH,4633.755,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JA,WORL,8000.885,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,world,27,2
+JA,WORLD,1555.22,Studied,31,2,Recalled,Identical,27,Identical,WORLD,NA,NA,identical,world,27,2
+JA,STEAL,6652.125,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,steal,18,1
+JA,FISH,2586.37,Not Studied,31,1,Recalled,NA,10,Unrelated,SPOTS,NA,NA,unrelated,,,

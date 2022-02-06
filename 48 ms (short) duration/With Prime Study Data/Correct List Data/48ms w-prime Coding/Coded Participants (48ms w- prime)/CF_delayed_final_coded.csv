@@ -1,0 +1,101 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+CF,FIVE,6050.825,Studied,42,3,Recalled,NA,2,Unrelated,ALLOW,NA,NA,unrelated,ALLOW,2,3
+CF,NUMBER,1416.12,Studied,38,2,Recalled,NA,16,Identical,JAIL,NA,NA,unrelated,JAIL,16,2
+CF,,8001.73,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,KIDNAP,3998.08,Studied,3,4,Recalled,NA,7,Identical,SPIDER,NA,NA,unrelated,SPIDER,7,4
+CF,PLANT,1281.6,Studied,23,1,Recalled,NA,8,Unrelated,CLOWN,NA,NA,unrelated,CLOWN,8,1
+CF,WHOLE,2383.845,Studied,15,1,Recalled,NA,"3,12",Related,LOST,FOUND,NA,unrelated,WEED,12,1
+CF,GIRLS,2567.02,Studied,24,1,Recalled,Identical,9,Unrelated,VOTE,NA,NA,identical,GIRLS,4,1
+CF,DREAM,1934.015,Studied,15,2,Recalled,NA,11,Identical,TWELVE,NA,NA,unrelated,TWELVE,11,2
+CF,BOMB,1298.65,Studied,10,2,Recalled,NA,12,Identical,CHANGE,NA,NA,unrelated,CHANGE,12,2
+CF,FEAR,1232.2,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,ORGANE,1554.125,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,RULE,3,2
+CF,ORANGE,1502.45,Studied,17,2,Recalled,NA,3,Unrelated,RULE,NA,NA,unrelated,RULE,3,2
+CF,FISH,1803.915,Studied,1,2,Recalled,NA,2,Unrelated,SELF,NA,NA,unrelated,SELF,2,2
+CF,HORN,4653.105,Studied,24,2,Recalled,NA,23,Unrelated,SHEEP,NA,NA,unrelated,SHEEP,23,2
+CF,PURPLE,2449.655,Studied,30,4,Recalled,NA,9,Unrelated,WARM,NA,NA,unrelated,WARM,9,4
+CF,BLUE,1633.435,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,8001.965,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,SWEATER,2582.82,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,SPOON,3300.39,Studied,2,1,Recalled,NA,"2,17",Unrelated,TOOL,NA,NA,unrelated,BEHIND,17,1
+CF,ROCK,1533.805,Studied,27,1,Recalled,Identical,"18,27",Related,PLUS,MINUS,NA,identical,ROCK,6,1
+CF,CORAL,2651.03,Studied,1,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+CF,,8001.21,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,BALLET,1586.535,Studied,10,4,Recalled,NA,11,Related,BOOK,READ,NA,unrelated,BOOK,11,4
+CF,FIRST,1565.45,Studied,11,4,Recalled,NA,23,Unrelated,CLEAR,NA,NA,unrelated,CLEAR,23,4
+CF,TENNIS,7082.495,Studied,35,4,Recalled,NA,12,Unrelated,MAYBE,NA,NA,unrelated,MAYBE,12,4
+CF,,8001.5,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,7990.215,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,7989.72,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,8000.49,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,7998.2,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,8001.115,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,DREAM,7999.87,Studied,15,2,Recalled,NA,11,Identical,TWELVE,NA,NA,unrelated,TWELVE,11,2
+CF,,8000.385,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,RAIN,3535.165,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,OFFICE,7967.275,Studied,38,1,Recalled,Identical,20,Related,HOUR,MINUTE,NA,identical,OFFICE,11,1
+CF,TWELVE,3049.56,Studied,20,2,Recalled,Identical,18,Related,CLOAK,DAGGER,NA,identical,TWELVE,11,2
+CF,NEPHEW,1684.46,Studied,18,2,Recalled,NA,"17,25",Identical,STREAM,NA,NA,unrelated,TABLE,25,2
+CF,AUNT,1268.38,Not Studied,NA,NA,NotRecalled,Related,NA,NA,NA,NA,NA,identical,AUNT,10,1
+CF,QUEEN,1218.985,Studied,4,1,Recalled,NA,15,Unrelated,CARD,NA,NA,unrelated,CARD,15,1
+CF,MONARCH,1566.85,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,8005.4,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,RIGHT,1534.405,Studied,26,2,Recalled,NA,6,Unrelated,GUILT,NA,NA,unrelated,GUILT,6,2
+CF,STAIRS,1818.89,Studied,5,2,Recalled,NA,7,Unrelated,BABY,NA,NA,unrelated,BABY,7,2
+CF,,8000.075,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,CAMP,1216.925,Studied,26,3,Recalled,NA,23,Unrelated,EFFECT,NA,NA,unrelated,EFFECT,23,3
+CF,HOTEL,1101.29,Studied,25,3,Recalled,NA,24,Unrelated,SILK,NA,SUITE,related,SUITE,18,3
+CF,NIGHT,1931.7,Not Studied,NA,NA,Recalled,NA,27,Unrelated,FRONT,NA,NA,unrelated,FRONT,27,3
+CF,STARS,968.715,Studied,28,3,Recalled,NA,26,Related,TEACH,LEARN,NA,unrelated,TEACH,26,3
+CF,,8000.81,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,7998.85,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,FISH,4866.93,Studied,1,2,Recalled,NA,2,Unrelated,SELF,NA,NA,unrelated,SELF,2,2
+CF,GLOOMY,6986.545,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,COVE,6602,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,THROW,2672.18,Studied,21,1,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,THROW,28,1
+CF,,8002.175,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,NOSE,7366.645,Studied,40,4,Recalled,NA,2,Identical,WILD,NA,NA,unrelated,WILD,2,4
+CF,FACE,5222.06,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,NEWS,2900.895,Studied,4,4,Recalled,NA,8,Unrelated,DESERT,NA,NA,unrelated,DESERT,8,4
+CF,READ,3884.67,Studied,7,4,NotRecalled,NA,NA,NA,NA,NA,BOOK,related,BOOK,11,4
+CF,,8002.485,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,DINNER,7888.965,Not Studied,NA,NA,Recalled,Related,3,Identical,CANDLE,NA,NA,unrelated,CANDLE,3,4
+CF,TABLE,2232.21,Not Studied,NA,NA,NotRecalled,Related,NA,NA,NA,NA,NA,identical,TABLE,25,2
+CF,,7990.735,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,8000.485,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,8000.5,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,8000.09,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,8004.51,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,8000.075,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,8001.05,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,7998.86,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,8002.495,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,8000.62,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,7999.025,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,GEEK,5783.65,Studied,2,3,Recalled,NA,4,Identical,TRASH,NA,NA,unrelated,TRASH,4,3
+CF,DOLLAR,7250.565,Studied,3,1,Recalled,NA,23,Unrelated,SILVER,NA,NA,unrelated,SILVER,23,1
+CF,SPIDER,3033.945,Studied,28,4,Recalled,Identical,17,Related,HIDE,SEEK,NA,identical,SPIDER,7,4
+CF,GEEK,7270.42,Studied,2,3,Recalled,NA,4,Identical,TRASH,NA,NA,unrelated,TRASH,4,3
+CF,DUSK,5015.535,Studied,39,3,Recalled,NA,29,Identical,WHEAT,NA,NA,unrelated,WHEAT,29,3
+CF,NIC,8001.8,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,NICKEL,1749.67,Studied,9,2,Recalled,NA,20,Related,CASH,MONEY,NA,unrelated,CASH,20,2
+CF,WHEAT,2186.93,Studied,40,3,Recalled,Identical,33,Identical,FROG,NA,NA,identical,WHEAT,29,3
+CF,WEST,8002.35,Studied,25,2,Recalled,NA,21,Identical,SHEETS,NA,NA,unrelated,SHEETS,21,2
+CF,BRANCH,4538.27,Studied,5,4,NotRecalled,NA,NA,NA,NA,NA,TWIG,related,TWIG,19,4
+CF,MIDDLE,5553.79,Studied,18,4,Recalled,NA,19,Related,TWIG,BRANCH,NA,unrelated,TWIG,19,4
+CF,SOUTH,1731.995,Studied,6,3,Recalled,NA,15,Unrelated,SMALL,NA,NA,unrelated,SMALL,15,3
+CF,MAP,634.765,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,LAKE,3000.05,Studied,1,3,Recalled,NA,7,Unrelated,MINIMUM,NA,NA,unrelated,MINIMUM,7,3
+CF,SOIL,5368.345,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,DIRT,10,3
+CF,SWAMP,2434.275,Studied,30,3,Recalled,NA,8,Unrelated,CASTLE,NA,NA,unrelated,CASTLE,8,3
+CF,NIGHT,1084.775,Not Studied,NA,NA,Recalled,NA,27,Unrelated,FRONT,NA,NA,unrelated,FRONT,27,3
+CF,SOIL,4769.775,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,DIRT,10,3
+CF,ROAD,7619.305,Studied,3,3,Recalled,NA,11,Unrelated,JEANS,NA,NA,unrelated,JEANS,11,3
+CF,TRAIL,6016.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,SAD,4680.67,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,SIT,7068.76,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,8001.585,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,8002.39,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,8001.32,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,7992.92,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CF,,7999.585,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

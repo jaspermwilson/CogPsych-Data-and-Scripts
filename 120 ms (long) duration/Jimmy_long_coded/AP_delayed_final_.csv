@@ -1,0 +1,35 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+AP,SHALLO,3216.825,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,shallow,13,1
+AP,SHALLOW,2718.45,Studied,1,1,Recalled,Identical,"13,32",Identical,SHALLOW,NA,NA,identical,shallow,13,1
+AP,STORE,2386.205,Studied,26,4,Recalled,NA,"16,7",Related,ADDICT,DRUGS,NA,unrelated,,,
+AP,PAPER,1702.605,Studied,2,3,Recalled,NA,"7,3",Identical,PROPER,NA,NA,unrelated,,,
+AP,ARM,4132.31,Studied,NA,NA,Recalled,NA,34,Related,LEGS,ARMS,NA,related,legs,34,2
+AP,HEAD,2436.15,Studied,9,2,Recalled,NA,3,Related,PATIENT,DOCTOR,NA,unrelated,,,
+AP,HAIR,4002.075,Studied,21,4,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AP,DOOR,2752.75,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AP,SING,8002.42,Studied,25,4,Recalled,NA,2,Unrelated,THREAD,NA,NA,unrelated,,,
+AP,STICKY,2718.25,Studied,7,4,Recalled,NA,4,Identical,MAYBE,NA,NA,unrelated,,,
+AP,SICK,3333.485,Studied,29,4,Recalled,NA,5,Identical,NONE,NA,NA,unrelated,,,
+AP,APPLE,7116.385,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+AP,DOG,1352.965,Not Studied,NA,NA,Recalled,NA,6,Identical,CELL,NA,NA,unrelated,,,
+AP,SCARY,4220.075,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AP,CLOWN,1485.92,Studied,24,1,Recalled,Identical,5,Identical,MARRY,NA,NA,identical,clown,4,1
+AP,DARK,2732.53,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+AP,MEAN,1099.675,Not Studied,NA,NA,Recalled,Unrelated,38,Unrelated,MEAN,NA,NA,identical,mean,38,1
+AP,WRITE,2218.94,Studied,18,2,Recalled,Identical,29,Identical,WRITE,NA,NA,identical,write,29,2
+AP,POOL,4637.53,Not Studied,NA,NA,Recalled,NA,9,Unrelated,OFFICE,NA,NA,unrelated,,,
+AP,WATER,3369.05,Studied,19,3,Recalled,Identical,23,Related,MOAT,CASTLE,NA,identical,water,4,3
+AP,JUICE,2452.075,Not Studied,NA,NA,Recalled,NA,40,Identical,MILK,NA,NA,unrelated,,,
+AP,FOOD,1036.68,Studied,32,4,Recalled,NA,26,Unrelated,WAITER,NA,NA,unrelated,,,
+AP,REGRET,969.6300002,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+AP,CARRY,1553.26,Studied,9,3,Recalled,NA,25,Related,HAUL,CARRY,HAUL,related,haul,25,3
+AP,MARRY,1136.495,Studied,37,1,Recalled,Identical,6,Unrelated,WHERE,NA,NA,identical,marry,5,1
+AP,MARRIED,1402.725,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,marry,5,1
+AP,EE,8002.235,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AP,EEL,3135.56,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AP,DISAGREE,7266.205,Studied,11,1,Recalled,Identical,12,Identical,DISAGREE,NA,NA,identical,disagree,12,1
+AP,REGRET,6685.98,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AP,ADULT,6299.705,Not Studied,NA,NA,Recalled,NA,19,Unrelated,LEARN,NA,NA,unrelated,,,
+AP,L,8002.245,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AP,DEER,5833.165,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+AP,VIOLET,5148.83,Not Studied,NA,NA,Recalled,NA,20,Identical,VOTE,NA,NA,unrelated,,,

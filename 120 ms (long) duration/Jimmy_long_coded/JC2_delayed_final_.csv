@@ -1,0 +1,57 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+JC2,DEVIL,4521.24,Studied,2,1,Recalled,NA,"7,13",Related,SOIL,DIRT,NA,unrelated,,,
+JC2,TRAIN,1585.205,Studied,1,1,Recalled,NA,6,Identical,KILL,NA,NA,unrelated,,,
+JC2,LAKE,983.795,Studied,3,1,NotRecalled,NA,NA,NA,NA,NA,POND,related,pond,40,1
+JC2,SWIM,835.185,Not Studied,NA,NA,Recalled,NA,16,Related,APOLOGY,SORRY,NA,unrelated,,,
+JC2,GROSS,2569.84,Studied,35,4,Recalled,NA,2,Identical,MONEY,NA,NA,unrelated,,,
+JC2,LAND,3146.295,Studied,42,1,Recalled,NA,3,Identical,KISS,NA,NA,unrelated,,,
+JC2,SWAMP,1134.71,Studied,18,1,Recalled,NA,11,Unrelated,SMALL,NA,NA,unrelated,,,
+JC2,SKIN,967.21,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,KILL,3342.495,Studied,24,1,Recalled,Identical,10,Related,GIFT,PRESENT,NA,identical,kill,7,1
+JC2,DIE,666.3950001,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,SMOKE,2573.92,Studied,41,1,Recalled,NA,39,Identical,PICTURE,NA,CIGAR,related,cigar,18,1
+JC2,CHEESE,4285.66,Studied,11,4,Recalled,Identical,12,Identical,CHEESE,NA,NA,identical,cheese,12,4
+JC2,WAITER,3936.07,Studied,1,2,Recalled,NA,12,Unrelated,JACKET,NA,NA,unrelated,,,
+JC2,SUPPER,1001.24,Studied,3,2,Recalled,NA,14,Unrelated,ROOF,NA,NA,unrelated,,,
+JC2,SERVE,2069.65,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,DINNER,3970.44,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,RUN,5138.78,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,STAY,6538.225,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,STICK,1778.715,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,SHAKE,6086.045,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,WET,3612.585,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,QUICK,3651.345,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,TILT,1000.835,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,BREATHE,2073.87,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,BREATH,3478.725,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,LAY,7088.745,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,SKY,1047.05,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,STARS,784.76,Studied,21,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+JC2,DARK,2213.065,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,TULIP,5080.74,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,flower,40,4
+JC2,ACON,3152.395,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,ACORN,1008.31,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,QUICK,4135.97,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,SLOW,741.1549999,Studied,9,2,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,STALL,1017.48,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,START,5193.125,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,STOP,1930.375,Studied,12,4,NotRecalled,NA,NA,NA,NA,NA,HALT,related,halt,37,4
+JC2,RAY,1705.5,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,KISS,4918.7,Studied,10,1,Recalled,Identical,15,Identical,BRIDE,NA,NA,identical,kiss,3,1
+JC2,PRINCE,972.65,Not Studied,NA,NA,Recalled,NA,17,Identical,GEEK,NA,NA,unrelated,,,
+JC2,FROG,880.225,Studied,31,1,Recalled,Identical,2,Identical,FROG,NA,NA,identical,frog,2,1
+JC2,SAVE,3462.46,Not Studied,NA,NA,Recalled,NA,26,Identical,STOMACH,NA,NA,unrelated,,,
+JC2,GIFT,4326.905,Not Studied,NA,NA,NotRecalled,Related,NA,NA,NA,NA,NA,identical,gift,10,1
+JC2,PRESENT,1164.27,Studied,37,1,Recalled,NA,20,Related,SOUND,NOISE,GIFT,related,gift,20,1
+JC2,BLO,11424.885,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,BLOOD,3029.43,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,TREES,5785.215,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,HELP,4685.175,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,SKIP,4320.755,Not Studied,NA,NA,NotRecalled,Related,NA,NA,NA,NA,NA,identical,skip,25,1
+JC2,HUG,4421.24,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,SAVE,2388.98,Not Studied,NA,NA,Recalled,NA,26,Identical,STOMACH,NA,NA,unrelated,,,
+JC2,CHOKE,966.6149999,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,KEEN,5008.75,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,SLIT,7989.035,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,MOROSE,3651.645,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+JC2,CLAM,5390.525,Studied,20,4,Recalled,NA,23,Unrelated,EXCUSE,NA,CHOWDER,unrelated,,,

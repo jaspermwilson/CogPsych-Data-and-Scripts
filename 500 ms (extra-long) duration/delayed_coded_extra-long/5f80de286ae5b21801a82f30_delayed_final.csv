@@ -1,0 +1,17 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+5f80de286ae5b21801a82f30,DOOR,6204.7,Studied,13,1,Recalled,NA,8,Related,GLOBE,WORLD,NA,unrelated,,,
+5f80de286ae5b21801a82f30,START,6888.1,Not Studied,NA,NA,Not Recalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f80de286ae5b21801a82f30,STOP,2071.3,Studied,21,4,Recalled,NA,16,Unrelated,GRAND,NA,NA,unrelated,,,
+5f80de286ae5b21801a82f30,PEOPLE,4817.1,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f80de286ae5b21801a82f30,PEEK,2354.6,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f80de286ae5b21801a82f30,MEASURE,7987.9,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f80de286ae5b21801a82f30,MEASURE,2504.6,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f80de286ae5b21801a82f30,DOG,1850.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f80de286ae5b21801a82f30,HIDE,1430.1,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,seek,27,2
+5f80de286ae5b21801a82f30,ELEPHANT,6717.2,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f80de286ae5b21801a82f30,HAUSE,3833.5,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f80de286ae5b21801a82f30,A,35571.9,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f80de286ae5b21801a82f30,ABOVE,3739.6,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,below,16,1
+5f80de286ae5b21801a82f30,HINT,1933.6,Not Studied,NA,NA,NotRecalled,Related,NA,NA,NA,NA,NA,identical,hint,17,2
+5f80de286ae5b21801a82f30,G,43438.8,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5f80de286ae5b21801a82f30,MOTHER,6838.16,Studied,11,2,Recalled,NA,5,Identical,BALLET,NA,NA,unrelated,,,

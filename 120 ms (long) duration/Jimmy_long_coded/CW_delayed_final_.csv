@@ -1,0 +1,43 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+CW,SILVER,4801.59,Studied,1,1,Recalled,NA,18,Identical,PLANE,NA,NA,unrelated,,,
+CW,CARD,2349.22,Studied,2,1,Recalled,NA,19,Related,PART,PIECE,NA,urelated,,,
+CW,NIGHT,3584.065,Studied,NA,NA,Recalled,NA,13,Identical,NIGHTS,NA,NA,identical,nights,13,2
+CW,KNIFE,1797.745,Studied,31,1,Recalled,NA,10,Unrelated,LEAVES,NA,NA,unrelated,,,
+CW,DEAD,1549.875,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,alive,32,4
+CW,FIRE,5150.33,Studied,36,3,Recalled,NA,4,Identical,SURE,NA,NA,unrelated,,,
+CW,PACAKGE,3398.775,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+CW,ABUSE,2815.615,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CW,DRUGS,2181.95,Studied,5,1,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+CW,CHILD,1400.9,Studied,6,1,Recalled,NA,3,Related,AGREE,DISAGREE,NA,unrelated,,,
+CW,SHIP,4052.71,Studied,10,4,Recalled,NA,9,Related,SABER,SWORD,NA,unrelated,,,
+CW,SHOP,1730.91,Not Studied,NA,NA,Recalled,NA,40,Identical,DESERT,NA,NA,unrelated,,,
+CW,DOCTOR,5583.25,Studied,23,2,Recalled,NA,16,Related,GALLON,MILK,NA,unrelated,,,
+CW,TEACHER,4617.605,Not Studied,NA,NA,Recalled,NA,"8,25",Unrelated,DAGGER,NA,NA,unrelated,,,
+CW,SCHOOL,1965.72,Not Studied,NA,NA,Recalled,NA,7,Identical,UNDER,NA,NA,unrelated,,,
+CW,BELL,1582.275,Studied,5,4,Recalled,NA,"6,13",Related,CHAPEL,CHURCH,NA,unrelated,,,
+CW,SING,1115.585,Studied,36,4,Recalled,NA,"3,14",Identical,BOARD,NA,NA,unrelated,,,
+CW,SONG,1249.175,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,song,2,2
+CW,MUSIC,1399.11,Studied,NA,NA,Recalled,NA,"4,22",Unrelated,WILD,NA,NA,unrelated,,,
+CW,HAPPY,1832.945,Studied,6,4,Recalled,Identical,21,Identical,HAPPY,NA,NA,identical,happy,21,4
+CW,HAIR,1449.085,Studied,3,4,Recalled,Identical,39,Identical,HAIR,NA,NA,identical,hair,39,4
+CW,BOMB,3550.65,Not Studied,NA,NA,Recalled,NA,9,Related,SHAME,GUILT,NA,unrelated,,,
+CW,EXPLOSIVE,2899.805,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CW,SIGNAL,4733.165,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CW,CARE,1848.8,Not Studied,NA,NA,Recalled,NA,7,Unrelated,FINGER,NA,NA,unrelated,,,
+CW,MIX,5601.475,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CW,ACCUSE,7517.16,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CW,APPEAR,4748.75,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CW,COMPETE,8001.205,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CW,COMPETE,2383.87,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CW,BUY,6816.765,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CW,LIGHT,4266.74,Studied,10,2,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,light,28,2
+CW,THROUGH,2182.6,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CW,TAKE,1248.58,Studied,39,4,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,take,28,4
+CW,CANDLE,2399.855,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,candle,34,4
+CW,DEATH,5866.67,Studied,32,1,Recalled,Identical,9,Identical,DEATH,NA,NA,identical,death,9,1
+CW,OVEN,5742.57,Studied,24,3,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,oven,41,3
+CW,BAKE,2282.995,Not Studied,NA,NA,Recalled,Related,14,Related,BAKE,CAKE,NA,identical,bake,14,3
+CW,CAKE,1132.68,Studied,21,3,NotRecalled,NA,NA,NA,NA,NA,BAKE,related,bake,14,3
+CW,SMOKE,1831.21,Not Studied,NA,NA,Recalled,Unrelated,19,Unrelated,SMOKE,NA,NA,identical,smoke,19,3
+CW,PLANE,5118.045,Studied,NA,NA,Recalled,Identical,21,Related,HEDGE,BUSH,NA,identical,plane,18,1
+CW,KITCHEN,6249.2,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

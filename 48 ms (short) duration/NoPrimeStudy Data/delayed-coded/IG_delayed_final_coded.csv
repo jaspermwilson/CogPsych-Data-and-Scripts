@@ -1,0 +1,101 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+IG,SAP,4041.975,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,HORSE,3097.955,Studied,2,4,Recalled,NA,2,Unrelated,KNIFE,NA,NA,unrelated,KNIFE,2,4
+IG,PEN,4572.765,Not Studied,NA,NA,Recalled,NA,42,Identical,TRAIN,NA,NA,unrelated,TRAIN,42,2
+IG,PENCIL,1728.76,Not Studied,NA,NA,Recalled,Unrelated,41,Unrelated,PRIDE,NA,NA,identical,PENCIL,14,2
+IG,CAR,941.1600002,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,PSYCHOLOGY,3437.495,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,DOCTOR,2194.885,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,FATHER,1681.59,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,MOTHER,19,3
+IG,MOTHER,1145.725,Studied,39,3,Recalled,Identical,19,Identical,ALIVE,NA,NA,identical,MOTHER,11,3
+IG,THANKSGIVING,2207.005,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,BALL,4764.905,Not Studied,NA,NA,Recalled,NA,42,Identical,LAWYER,NA,NA,unrelated,LAWYER,42,1
+IG,BUGATTI,4178.57,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,MUG,2564.875,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,PILL,3621.39,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,ATTENTION,2291.5,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,HAS,1003.285,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,RELATIONSHIP,2019.27,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,BLUE,2194.76,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,EYE,1658.665,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,EAT,925.85,Not Studied,NA,NA,Recalled,NA,29,Unrelated,PAPER,NA,NA,unrelated,PAPER,29,2
+IG,PANCAKE,4981.35,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,SHARP,4901.19,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,SMELL,931.5600002,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,SCENT,1090.66,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,CANDY,5626.04,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,BOOK,1317.095,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,FLAG,874.4099999,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,LIGHT,1647.285,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,MIDDLE,28,3
+IG,WINDOW,1058.125,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,HAND,3379.325,Not Studied,NA,NA,NotRecalled,Related,NA,NA,NA,NA,NA,identical,HAND,20,4
+IG,SILLY,3374.35,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,SHELF,1851.47,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,FLOP,2077.47,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,BELLY,1841.705,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,UGLY,2129.33,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,PRETTY,1188.67,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,SEXY,1661.22,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,WHAT,2335.73,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,WAIT,2657.355,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,SENTENCE,2062.555,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,BOOB,4719.1,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,VAGINA,3387.29,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,PENIS,789.145,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,LIGHTER,2464.215,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,BOTTLE,4523.29,Not Studied,NA,NA,Recalled,NA,36,Unrelated,MATH,NA,NA,unrelated,MATH,36,1
+IG,BEACH,1533.185,Studied,8,1,NotRecalled,NA,NA,NA,NA,NA,SAND,related,SAND,21,1
+IG,POODLE,2889.645,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,FROG,1792.17,Studied,28,2,Recalled,Identical,19,Related,SUITE,HOTEL,NA,identical,FROG,8,2
+IG,KATIE,2131.74,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,BUTTERFLY,2743.52,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,BIRD,2356.98,Studied,18,1,Recalled,NA,24,Unrelated,STORE,NA,PARROT,related,PARROT,13,1
+IG,SNAKE,1551.61,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,SUN,667.8850001,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,MOON,2556.64,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,STAR,1599.17,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,WORLD,10,2
+IG,GALAXY,2301.035,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,STAR,10,2
+IG,GUARDIAN,2086.225,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,EARTH,1364.95,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,FOAM,968.9550002,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,SEMEN,1538.14,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,SNOT,2904.16,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,NOSE,10,3
+IG,PINK,2014.82,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,SUNSET,3299.995,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,RED,1510.41,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,BLACK,1126.51,Studied,33,2,Recalled,NA,6,Identical,SHOES,NA,NA,unrelated,SHOES,6,2
+IG,PILLOW,2362.96,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,BLANKET,1548.72,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,BUCKET,1235.445,Studied,29,3,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,BUCKET,8,3
+IG,HAT,627.3449999,Not Studied,NA,NA,Recalled,NA,31,Unrelated,EFFECT,NA,NA,unrelated,EFFECT,31,2
+IG,BAND,4302.64,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,MIRROR,3065.37,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,DOOR,1382.22,Studied,38,2,NotRecalled,NA,NA,NA,NA,NA,HINGE,related,HINGE,2,2
+IG,KNOB,1451.92,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,STICKER,1752.975,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,SINK,3104.57,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,STINK,1873.65,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,GUITAR,1954.73,Studied,6,1,Recalled,NA,12,Unrelated,BIKE,NA,NA,unrelated,BIKE,12,1
+IG,POND,1322.255,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,LAKE,23,2
+IG,WATER,3449.14,Not Studied,NA,NA,Recalled,NA,22,Identical,PICKLE,NA,NA,unrelated,PICKLE,22,1
+IG,PANDA,1946.61,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,ART,1516.33,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,FLU,2046.515,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,PANDEMIC,2573.275,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,SCIENCE,1906.325,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,NERD,1886.11,Not Studied,NA,NA,NotRecalled,Related,NA,NA,NA,NA,NA,identical,NERD,4,2
+IG,SEXY,3642.605,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,BEAST,2035.77,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,ANIMAL,3,4
+IG,DISNEY,3028.435,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,INDIA,3333.765,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,FLORIDA,2177.225,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,GLASSES,4289.335,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,DICTIONARY,7737.94,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,BIOGRAPHY,6926.12,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,DINOSOUAR,3102.425,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,LIZARD,3198.69,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,CUTE,1565.645,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,DRAGON,2289.94,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,PUPPY,1417.59,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,PRINCESS,1470.405,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+IG,KING,780.4,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,QUEEN,10,4

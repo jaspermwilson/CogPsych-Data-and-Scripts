@@ -1,0 +1,85 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+CS,KILL,6436.655,Studied,29,3,Recalled,NA,18,Unrelated,PAPER,NA,NA,unrelated,PAPER,18,3
+CS,,7999.655,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,WHEEL,1832.13,Not Studied,NA,NA,Recalled,NA,25,Identical,CLUE,NA,NA,unrelated,CLUE,25,4
+CS,WEST,1202.29,Studied,16,2,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,7999.755,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+CS,,7989.685,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+CS,LAND,6035.08,Studied,3,3,Recalled,NA,"3,4",Identical,FIVE,NA,NA,unrelated,RACKET,4,4
+CS,SWAMP,5187.07,Studied,2,3,Recalled,Identical,"2,3",Identical,SWAMP,NA,NA,identical,SWAMP,2,3
+CS,KISS,6805.135,Studied,38,3,Recalled,NA,10,Unrelated,NONE,NA,LIPS,related,LIPS,22,3
+CS,SMASH,2388.755,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,8000.76,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,SMILE,2384.07,Studied,21,3,NotRecalled,NA,NA,NA,NA,NA,FROWN,related,FROWN,19,3
+CS,TRASH,8002.095,Studied,41,3,Recalled,NA,27,Identical,SOUTH,NA,GARBAGE,related,GARBAGE,12,3
+CS,CRACKER,7999.875,Studied,24,2,Recalled,NA,15,Related,CASH,MONEY,NA,unrelated,CASH,15,2
+CS,,8001.63,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,SHOES,8000.37,Studied,8,3,Recalled,NA,8,Identical,DEVIL,NA,NA,unrelated,DEVIL,8,3
+CS,SORRY,7991.225,Studied,34,3,Recalled,NA,26,Unrelated,STRANGE,NA,APOLOGY,related,APOLOGY,5,3
+CS,,7988.115,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,BIKE,4452.92,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,BIKE,13,2
+CS,,8001.355,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,ROAD,4233.18,Studied,35,3,Recalled,Identical,27,Unrelated,FOOD,NA,NA,identical,ROAD,42,3
+CS,,8001.8,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,8000.445,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,BLACK,5634.19,Studied,11,3,Recalled,NA,21,Unrelated,EFFECT,NA,NA,unrelated,EFFECT,21,3
+CS,,8002.755,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,TRASH,1550.145,Studied,41,3,Recalled,NA,27,Identical,SOUTH,NA,GARBAGE,related,GARBAGE,12,3
+CS,DIRT,4232.885,Studied,37,3,NotRecalled,NA,NA,NA,NA,NA,SOIL,related,SOIL,10,3
+CS,,8000.48,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,8000.855,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,8029.235,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,8001.365,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,GREE,8001.31,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,GREEN,1867.07,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,ROAD,8002.035,Studied,35,3,Recalled,Identical,27,Unrelated,FOOD,NA,NA,identical,ROAD,42,3
+CS,WHEEL,7468.24,Not Studied,NA,NA,Recalled,NA,25,Identical,CLUE,NA,NA,unrelated,CLUE,25,4
+CS,,8000.395,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,FIV,8000.795,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,FIVE,3,3
+CS,FIVE,1334.36,Studied,14,3,Recalled,Identical,36,Related,FAST,SLOW,NA,identical,FIVE,3,3
+CS,STARS,1168.94,Studied,15,3,Recalled,NA,"11,37",Related,OUNCE,POUND,NA,unrelated,BORROW,37,4
+CS,MONEY,3269,Studied,13,2,NotRecalled,NA,NA,NA,NA,NA,CASH,related,CASH,15,2
+CS,,7999.9,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,7999.59,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,7999.1,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,ROAD,11337.145,Studied,35,3,Recalled,Identical,27,Unrelated,FOOD,NA,NA,identical,ROAD,42,3
+CS,ROAD,3001.785,Studied,35,3,Recalled,Identical,27,Unrelated,FOOD,NA,NA,identical,ROAD,42,3
+CS,,7989.275,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,TRASH,3839.43,Studied,41,3,Recalled,NA,27,Identical,SOUTH,NA,GARBAGE,related,GARBAGE,12,3
+CS,,7998.895,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,7999.045,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,8000.25,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,7993.655,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,DARK,4851.35,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,8001.68,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,SMILE,2661.61,Studied,21,3,NotRecalled,NA,NA,NA,NA,NA,FROWN,related,FROWN,19,3
+CS,DEVIL,2536.69,Studied,13,3,Recalled,Identical,22,Related,LIPS,KISS,NA,identical,DEVIL,8,3
+CS,,8001.525,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,7995.19,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,8036.2,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,8001.87,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,7999.935,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,8002.59,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,WORLD,7992.15,Studied,30,3,Recalled,NA,"23,41",Unrelated,ALLOW,NA,NA,unrelated,ALIVE,41,4
+CS,GREEN,8005.765,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,GREEN,2482.055,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,8010.17,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,7990.95,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,8000.215,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,7994.04,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,ROAD,8000.83,Studied,35,3,Recalled,Identical,27,Unrelated,FOOD,NA,NA,identical,ROAD,42,3
+CS,,8000.62,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,8000.875,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,7998.84,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,GEEK,1619.555,Studied,32,3,Recalled,Identical,33,Unrelated,SICK,NA,NA,identical,GEEK,37,3
+CS,TRAIN,3166.295,Studied,4,3,Recalled,NA,"4,5",Identical,THIEF,NA,NA,unrelated,WARM,5,4
+CS,,8002.22,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,7999.03,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,8000.865,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,8000.625,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,8001.635,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,7998.135,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,TIRE,8002.74,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,DIE,7662.495,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,7987.855,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+CS,,2.674999996,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

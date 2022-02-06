@@ -1,0 +1,67 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+KM,STAIRS,5065.74,Studied,37,2,Recalled,Identical,22,Unrelated,MATH,NA,NA,identical,stairs,7,2
+KM,STREAM,3464.79,Studied,35,2,Recalled,NA,24,Unrelated,SUBJECT,NA,NA,unrelated,,,
+KM,RIGHT,1568.35,Studied,36,2,Recalled,NA,23,Related,TALE,STORY,NA,unrelated,,,
+KM,QUEEN,1156.29,Studied,9,1,Recalled,NA,14,Unrelated,TRAILER,NA,NA,unrelated,,,
+KM,CRACKER,3988.195,Studied,34,2,Recalled,Identical,30,Identical,CRACKER,NA,NA,identical,cracker,30,2
+KM,SONG,1339.1,Studied,39,2,Recalled,NA,"3,20",Identical,FLOWER,NA,NA,unrelated,,,
+KM,DIRT,3176.46,Studied,37,3,Recalled,NA,5,Unrelated,WATER,NA,NA,unrelated,,,
+KM,LEAVES,3163.555,Studied,21,1,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,leaves,19,2
+KM,STOP,3296.72,Studied,41,2,Recalled,Identical,25,Identical,OUTTAKE,NA,NA,identical,stop,20,2
+KM,EXIT,1230.44,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,enter,8,1
+KM,NUMBERS,2622.59,Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,number,17,2
+KM,SHEETS,1566.44,Studied,2,2,Recalled,NA,9,Related,MELLOW,YELLOW,NA,unrelated,,,
+KM,WEST,1303.155,Studied,5,2,Recalled,Identical,12,Unrelated,STEAL,NA,NA,identical,west,6,2
+KM,EACH,1516.13,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KM,BIRD,1188.88,Studied,19,2,Recalled,NA,35,Identical,SMOOTH,NA,PARROT,related,bird,27,2
+KM,FISH,1786.115,Studied,20,2,Recalled,NA,34,Identical,CLAM,NA,BAIT,related,bait,5,2
+KM,PICKLE,1477.03,Studied,14,2,Recalled,Identical,13,Unrelated,STUPID,NA,NA,identical,pickle,4,2
+KM,CHAIR,1858.38,Studied,27,2,Recalled,Identical,"11,19",Related,ALTER,CHANGE,NA,identical,chair,10,2
+KM,SELL,5453.06,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KM,OCEAN,3565.29,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KM,CLOTHES,6017.93,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KM,JUMP,2418.445,Studied,42,3,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+KM,MONEY,2410.7,Studied,38,2,Recalled,Identical,21,Identical,WEIGHT,NA,NA,identical,money,15,2
+KM,GUITAR,4428.34,Studied,31,2,Recalled,NA,41,Unrelated,GUILT,NA,NA,unrelated,,,
+KM,W,8003.395,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KM,WEST,1331.725,Studied,5,2,Recalled,Identical,12,Unrelated,STEAL,NA,NA,identical,west,6,2
+KM,WORLD,1217.26,Studied,16,3,Recalled,NA,3,Unrelated,SNEEZE,NA,GLOBE,related,globe,2,3
+KM,WORK,7087.815,Studied,33,2,Recalled,Identical,28,Identical,WORK,NA,NA,identical,work,28,2
+KM,OFFICE,2942.495,Studied,29,1,Recalled,NA,18,Unrelated,VOTE,NA,NA,unrelated,,,
+KM,BED,1052.755,Not Studied,NA,NA,Recalled,NA,38,Related,SLAY,KILL,NA,unrelated,,,
+KM,EARLY,3833.03,Studied,23,1,Recalled,Identical,17,Related,FLEX,MUSCLE,NA,identical,early,71,
+KM,CLOCK,2728.55,Studied,7,1,Recalled,NA,21,Identical,WHERE,NA,NA,unrelated,,,
+KM,NICKEL,2060.36,Studied,26,2,Recalled,NA,"16,33",Unrelated,BABY,NA,NA,unrelated,,,
+KM,CHEESE,2026.005,Studied,3,2,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,cheese,32,2
+KM,SHOE,1994.365,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+KM,LEFT,2318.09,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,right,23,2
+KM,RIGHT,1165.77,Studied,36,2,Recalled,NA,23,Related,TALE,STORY,NA,unrelated,,,
+KM,BODY,8012.895,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KM,JEWELRY,2454.085,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KM,BEHIND,5620.015,Studied,16,1,Recalled,NA,12,Related,GRANITE,ROCK,NA,unrelated,,,
+KM,TIGER,5229.275,Studied,17,1,Recalled,NA,4,Identical,THROW,NA,NA,unrelated,,,
+KM,TEETH,1366.98,Studied,18,1,Recalled,NA,7,Identical,EARLY,NA,NA,unrelated,,,
+KM,GRASS,1418.06,Studied,27,1,Recalled,Identical,5,Unrelated,SPIT,NA,NA,identical,grass,2,1
+KM,WILD,3790.645,Studied,8,4,Recalled,NA,16,Identical,SEEK,NA,NA,unrelated,,,
+KM,WAT,8003.71,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KM,WATCH,1864.45,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KM,MONARCH,6470.215,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KM,TRIBE,1300.14,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KM,PILE,2188.515,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KM,DISASTER,2115.525,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KM,EXHIBIT,3197.975,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KM,PRESNET,3289.055,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KM,TOES,3479.81,Studied,7,4,Recalled,NA,17,Related,FEET,TOES,FEET,related,feet,17,4
+KM,NOSE,1468.66,Studied,27,4,Recalled,NA,18,Related,MORE,LESS,NA,unrelated,,,
+KM,THRIST,2170.705,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+KM,FIRST,1443.165,Studied,4,4,Recalled,NA,8,Related,HURT,PAIN,NA,unrelated,,,
+KM,MOTHER,1941.605,Studied,1,4,Recalled,NA,13,Related,FAST,SLOW,NA,unrelated,,,
+KM,BRANCH,1692.55,Studied,6,4,Recalled,NA,19,Identical,NAVY,NA,NA,unrelated,,,
+KM,FIRST,3523.065,Studied,4,4,Recalled,NA,8,Related,HURT,PAIN,NA,unrelated,,,
+KM,NOISE,3667.765,Studied,26,3,Recalled,NA,19,Unrelated,CASTLE,NA,NA,unrelated,,,
+KM,SOUND,1835.04,Not Studied,NA,NA,Recalled,NA,8,Unrelated,WANT,NA,NA,unrelated,,,
+KM,LOUD,1607.06,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KM,BOMB,3123.565,Studied,13,2,Recalled,NA,17,Identical,NUMBER,NA,NA,unrelated,,,
+KM,OCEAN,3968.45,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KM,DANGER,3274.695,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+KM,RUN,3526.455,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

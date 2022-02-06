@@ -1,0 +1,101 @@
+participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+RF,QUEEN,3221.615,Studied,16,2,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+RF,MOTHER,1833.11,Studied,35,1,Recalled,NA,20,Unrelated,SING,NA,NA,unrelated,,,
+RF,PILE,1288.17,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,,8000.59,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,TENNIS,2032.98,Studied,10,1,Recalled,NA,8,Unrelated,MUSIC,NA,NA,unrelated,,,
+RF,SLOW,1286.6,Studied,13,1,Recalled,NA,5,Identical,BALLET,NA,NA,unrelated,,,
+RF,STATES,1233.17,Studied,26,1,Recalled,NA,9,Identical,BUCKET,NA,NA,unrelated,,,
+RF,NOSE,1038.17,Studied,17,1,Recalled,NA,25,Identical,KIDNAP,NA,NA,unrelated,,,
+RF,SEEK,1816.67,Studied,7,1,Recalled,NA,12,Related,BOOK,READ,NA,unrelated,,,
+RF,SPIDER,1157.09,Studied,2,1,Recalled,NA,22,Identical,INHALE,NA,NA,unrelated,,,
+RF,WARM,1400.78,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,HEART,1282.97,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,NEPHEW,3599.395,Studied,1,3,NotRecalled,NA,11,Related,YUCK,GROSS,NA,unprimed,,,
+RF,SLOW,3283.67,Studied,13,1,Recalled,NA,5,Identical,BALLET,NA,NA,unrelated,,,
+RF,SPORTS,6216.535,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,SWEET,2849.575,Studied,38,4,Recalled,NA,17,Unrelated,PAPER,NA,HONEY,related,honey,2,4
+RF,ALIVE,5283.24,Studied,21,1,Recalled,NA,6,Identical,MOST,NA,NA,unrelated,,,
+RF,TEST,3616.975,Studied,9,1,Recalled,Identical,19,Identical,ARGUE,NA,NA,identical,test,10,1
+RF,TREAT,1066.61,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,NEWS,4366.635,Studied,32,1,Recalled,NA,14,Related,ZEST,SOAP,NA,unrelated,,,
+RF,,1083.24,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,,556.5299999,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,,8000.38,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,,8000.96,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,ELEPHANT,2669.745,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,LION,1083.285,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,tiger,11,2
+RF,TIGER,2732.835,Studied,32,2,Recalled,Identical,12,Related,AHEAD,BEHIND,NA,identical,tiger,11,2
+RF,DOG,667.1099999,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,CAT,716.3249999,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,FATHER,1233.775,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,mother,20,1
+RF,PURPLE,4316.82,Studied,19,1,Recalled,NA,13,Identical,CLUE,NA,NA,unrelated,,,
+RF,YELLOW,1199.84,Studied,27,3,Recalled,NA,7,Unrelated,SPOTS,NA,NA,unrelated,,,
+RF,ORANGE,1616.92,Studied,10,3,Recalled,NA,25,Unrelated,STING,NA,NA,unrelated,,,
+RF,GREEN,1050.38,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,SQUARE,3766.955,Studied,28,1,Recalled,Identical,29,Identical,BORROW,NA,NA,identical,square,26,1
+RF,CIRCLE,1366.74,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,square,26,1
+RF,ARGUE,1416.575,Studied,16,1,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,argue,19,1
+RF,FIGHT,913.055,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,HOPE,949.985,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,glory,6,3
+RF,HOME,1233.58,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,HOUSE,900.2,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,,3850.02,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,BALL,3267.15,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,BASKET,1750.6,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,NOTE,3283.3,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,HOTEL,1600.025,Studied,26,4,Recalled,NA,11,Related,CAMERA,PICTURE,NA,unrelated,,,
+RF,TRIGGER,5533.32,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,COUNTRY,3650.215,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,TRUMP,5099.38,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,GUITAR,2133.63,Studied,35,3,NotRecalled,NA,NA,NA,NA,NA,BANJO,related,banjo,42,3
+RF,CANDLE,2616.43,Studied,20,1,NotRecalled,NA,NA,NA,NA,NA,WICK,related,wick,27,1
+RF,LIGHT,2083.49,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,light,41,3
+RF,,8000.775,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,,8000.525,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,STOP,2216.28,Studied,29,3,Recalled,NA,13,Unrelated,CLASS,NA,NA,unrelated,,,
+RF,START,2033.315,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,BEGIN,1416.715,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,END,1387.77,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,,8000.405,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,,8001.325,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,LISTEN,2232.945,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,TALK,1533.375,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,talk,21,1
+RF,PENCI,1433.62,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,identical,pencil,26,4
+RF,PENCIL,1583.27,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,pencil,26,4
+RF,PAPER,1683.23,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,paper,17,4
+RF,,5216.87,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,SUMMER,6516.995,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,winter,24,1
+RF,SPRING,2670.535,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,FALL,2766.34,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,CAR,1500.295,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,STAR,5699.76,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+RF,NIGHT,1933.03,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,WINNER,5550,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,FAIL,1933.425,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,,8000.975,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,NO,7999.985,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,,2165.99,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,,2817.125,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,,805.575,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,TEA,1889.625,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,COFFEE,2650.235,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,,7988.56,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,CALENDAR,1870.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,BUTTER,4316.69,Studied,12,1,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,butter,23,1
+RF,,8000.1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,BOOK,2782.32,Not Studied,NA,NA,NotRecalled,Related,NA,NA,NA,NA,NA,identical,book,12,1
+RF,MOVIE,3533.525,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,,8001.365,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,,5432.415,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,,8000.52,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,,7999.22,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,,8001.365,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,,7999.655,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,FREE,3383.375,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+RF,,7988.04,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,,7999.905,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,,8000.095,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,,1732.45,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,,8000.925,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,
+RF,,4432.59,NA,NA,NA,,NA,NA,NA,NA,NA,NA,,,,

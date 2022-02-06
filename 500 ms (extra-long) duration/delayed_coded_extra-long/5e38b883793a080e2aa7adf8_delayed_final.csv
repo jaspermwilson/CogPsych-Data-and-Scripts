@@ -1,0 +1,67 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+5e38b883793a080e2aa7adf8,CHIL,8003.615,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5e38b883793a080e2aa7adf8,BLACK,8003.26,Studied,29,1,NotRecalled,NA,NA,NA,NA,NA,WHITE,related,white,41,1
+5e38b883793a080e2aa7adf8,HOTEL,8000.05,Studied,5,1,Recalled,NA,NA,NA,NA,NA,SUITE,unrelated,,,
+5e38b883793a080e2aa7adf8,BRIDE,8003.585,Studied,3,1,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,BUTTER,8003.485,Studied,6,2,Recalled,Identical,8,Identical,BUTTER,NA,NA,identical,butter,8,2
+5e38b883793a080e2aa7adf8,ALIVE,8003.655,Studied,7,2,Recalled,Identical,10,Unrelated,DRESS,NA,NA,identical,alive,9,2
+5e38b883793a080e2aa7adf8,WILD,8003.835,Studied,29,2,Recalled,NA,3,Identical,MIDDLE,NA,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,TOUR,8003.56,Studied,33,2,Recalled,NA,34,Unrelated,HEAR,NA,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,MOST,8003.69,Studied,35,2,Recalled,NA,9,Identical,ALIVE,NA,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,FIRST,8003.615,Studied,36,2,Recalled,Identical,11,Identical,FIRST,NA,NA,identical,first,11,2
+5e38b883793a080e2aa7adf8,LOOK,8003.58,Studied,37,2,Recalled,NA,"13,29",Unrelated,BELL,NA,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,BRIDE,8003.835,Studied,3,1,Recalled,NA,NA,NA,NA,NA,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,DEAF,8003.665,Studied,12,1,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5e38b883793a080e2aa7adf8,DIRT,8003.535,Studied,37,1,Recalled,NA,6,Related,FOUR,FIVE,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,SMILE,8003.6,Studied,35,1,NotRecalled,NA,NA,NA,NA,NA,FROWN,related,frown,40,1
+5e38b883793a080e2aa7adf8,LEARN,8003.78,Studied,20,1,NotRecalled,NA,NA,NA,NA,NA,TEACH,related,teach,37,1
+5e38b883793a080e2aa7adf8,JUMP,8003.87,Studied,21,1,Recalled,NA,29,Unrelated,SPICE,NA,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,WATTER,8003.89,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5e38b883793a080e2aa7adf8,LEMON,8003.91,Studied,15,3,Recalled,NA,8,Related,LIME,LEMON,LIME,related,lime,8,3
+5e38b883793a080e2aa7adf8,THROW,8003.94,Studied,13,3,Recalled,NA,30,Related,REEF,CORAL,TOSS,related,toss,26,3
+5e38b883793a080e2aa7adf8,CLOSE,8003.735,Studied,26,3,Recalled,Identical,31,Identical,CLOSE,NA,NA,identical,close,31,3
+5e38b883793a080e2aa7adf8,MINUTE,8003.63,Studied,29,3,NotRecalled,NA,NA,NA,NA,NA,HOUR,related,hour,20,3
+5e38b883793a080e2aa7adf8,FINGER,8003.53,Studied,36,3,Recalled,NA,26,Related,TOSS,THROW,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,FOUND,8003.57,Studied,23,3,Recalled,NA,40,Unrelated,DRUGS,NA,LOST,unrelated,,,
+5e38b883793a080e2aa7adf8,ANIMAL,7988.445,Studied,17,3,Recalled,Identical,13,Identical,ANIMAL,NA,NA,identical,animal,13,3
+5e38b883793a080e2aa7adf8,WORST,8003.99,Studied,1,3,Recalled,NA,20,Related,HOUR,MINUTE,BEST,related,best,18,3
+5e38b883793a080e2aa7adf8,THERE,8003.805,Studied,34,3,Recalled,NA,24,Unrelated,REAL,NA,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,OFFICE,8003.655,Studied,40,3,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+5e38b883793a080e2aa7adf8,TIGER,8003.69,Studied,19,3,Recalled,NA,3,Related,LOST,FOUND,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,HORSE,8003.855,Studied,12,3,Recalled,NA,42,Unrelated,NECK,NA,TROT,related,trot,36,3
+5e38b883793a080e2aa7adf8,LION,8003.805,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,tiger,3,3
+5e38b883793a080e2aa7adf8,PLANT,8003.85,Studied,4,3,Recalled,NA,2,Unrelated,VOTE,NA,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,LEMON,8004.11,Studied,15,3,Recalled,NA,8,Related,LIME,LEMON,LIME,related,lime,8,3
+5e38b883793a080e2aa7adf8,MINUTE,8004.09,Studied,29,3,NotRecalled,NA,NA,NA,NA,NA,HOUR,related,hour,20,3
+5e38b883793a080e2aa7adf8,SHARK,8003.905,Studied,11,3,Recalled,NA,41,Unrelated,ANNOY,NA,JAWS,related,jaws,32,3
+5e38b883793a080e2aa7adf8,WHALE,8004.115,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5e38b883793a080e2aa7adf8,DOLFIN,8004.13,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5e38b883793a080e2aa7adf8,UNCLE,8004.055,Studied,8,3,Recalled,NA,19,Related,AUNT,UNCLE,AUNT,related,aunt,19,3
+5e38b883793a080e2aa7adf8,PHONE,8003.75,Studied,14,3,Recalled,Identical,29,Identical,PHONE,NA,NA,identical,phone,29,3
+5e38b883793a080e2aa7adf8,SHORT,8003.975,Studied,21,3,Recalled,NA,12,Identical,QUART,NA,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,BEACH,7988.53,Studied,41,4,Recalled,NA,10,Related,SWISS,CHEESE,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,EGGS,8004.005,Studied,38,4,Recalled,Identical,4,Related,LINEN,SHEETS,NA,identical,eggs,3,4
+5e38b883793a080e2aa7adf8,FLOWER,8004.075,Studied,31,4,Recalled,NA,6,Related,TULIP,FLOWER,TULIP,related,tulip,6,4
+5e38b883793a080e2aa7adf8,STAIRS,8003.985,Studied,7,4,Recalled,NA,31,Related,SALTINE,CRACKER,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,STOP,8004.535,Studied,8,4,Recalled,NA,15,Unrelated,BIKE,NA,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,SONG,8004.085,Studied,4,4,Recalled,NA,27,Unrelated,CLIMB,NA,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,M,8004.01,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5e38b883793a080e2aa7adf8,MOUSIC,7987.575,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5e38b883793a080e2aa7adf8,SHEETS,8004.02,Studied,16,4,Recalled,NA,41,Unrelated,NIGHTS,NA,LINEN,related,linen,4,4
+5e38b883793a080e2aa7adf8,TWELVE,7988.23,Studied,22,4,Recalled,NA,12,Related,SCARE,FRIGHT,NA,related,,,
+5e38b883793a080e2aa7adf8,ELEVEN,8003.93,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,twelve,12,4
+5e38b883793a080e2aa7adf8,YELLOW,8004.25,Studied,23,4,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+5e38b883793a080e2aa7adf8,RED,8003.875,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5e38b883793a080e2aa7adf8,WORK,8003.825,Studied,24,4,Recalled,NA,32,Related,INTAKE,OUTTAKE,CHORE,related,chore,29,3
+5e38b883793a080e2aa7adf8,JAIL,7987.735,Studied,6,4,Recalled,NA,2,Unrelated,CELL,NA,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,JUSTICE,7987.84,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+5e38b883793a080e2aa7adf8,DREAM,7988.83,Studied,34,4,NotRecalled,NA,29,Related,CHORE,WORK,NA,unprimed,,,
+5e38b883793a080e2aa7adf8,GLORY,8004.36,Studied,29,4,Recalled,NA,17,Related,HOPE,GLORY,HOPE,related,hope,17,4
+5e38b883793a080e2aa7adf8,STAIRS,7987.7,Studied,7,4,Recalled,NA,31,Related,SALTINE,CRACKER,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,RIGHT,7987.62,Studied,27,4,Recalled,NA,9,Unrelated,STUPID,NA,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,LEFT,8004.28,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,right,9,4
+5e38b883793a080e2aa7adf8,CENTER,7988.785,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,middle,3,2
+5e38b883793a080e2aa7adf8,ALIVE,7987.68,Studied,7,2,Recalled,Identical,10,Unrelated,DRESS,NA,NA,identical,alive,9,2
+5e38b883793a080e2aa7adf8,DEAD,7987.565,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,alive,9,2
+5e38b883793a080e2aa7adf8,NAVY,7987.62,Studied,21,2,Recalled,NA,22,Unrelated,SWORD,NA,NA,unrelated,,,
+5e38b883793a080e2aa7adf8,MOTHER,6838.16,Studied,16,2,Recalled,NA,7,Related,LINK,CHAIN,NA,unrelated,,,

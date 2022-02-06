@@ -1,0 +1,14 @@
+"DelayedWord","DelayedRT","Studied","StudyPosition","Block","ReportedPrimeFromDay1","Day1OutputPosition","Day1PrimeCondition","Day1Prime","Day1PrimeFor","RelatedPrimePresentedonDay1"
+"SWORD",1033.75,"Studied",13,1,NA,"1,4","firstword","firstword",NA,NA
+"MONARCH",1449.83,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"BROKEN",1749.125,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"MIRROR",933,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"RIGHTRIGHTRIGHTRIGHTRIGHTLEFTLEFT",8002.215,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"RIGHT",4667.085,NA,NA,NA,"Unrelated",NA,NA,NA,NA,NA
+"HELLO",4034.505,"Studied",34,4,NA,"8","Identical","SMALL",NA,NA
+"ENGLISH",2650.75,"Studied",3,4,NA,"7","Unrelated","SMOKE",NA,NA
+"SCISSORS",3266.795,"Studied",12,2,NA,"4","Unrelated","TEETH",NA,NA
+"BREAK",949.54,"Studied",1,1,NA,"2,10","Unrelated","READ",NA,NA
+"STREET",1232.875,"Studied",3,1,NA,"8","Unrelated","NOSE",NA,NA
+"KNIFE",949.955,"Studied",11,2,NA,"5","Unrelated","DOLLAR",NA,NA
+"WANDER",1100,NA,NA,NA,NA,NA,NA,NA,NA,NA

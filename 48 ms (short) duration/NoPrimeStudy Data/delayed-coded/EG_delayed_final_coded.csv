@@ -1,0 +1,71 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+EG,HAIR,8001.045,Studied,12,1,Recalled,NA,5,Related,SEARCH,FIND,NA,unrelated,SEARCH,5,1
+EG,SELF,8000.645,Studied,9,3,Recalled,NA,15,Related,TENSION,STRESS,NA,unrelated,TENSION,15,3
+EG,CLEAR,8001.965,Studied,41,1,Recalled,NA,13,Related,DECADE,YEAR,NA,unrelated,DECADE,13,1
+EG,UNCLEAR,7990.585,Studied,16,4,Recalled,NA,4,Unrelated,DEAF,NA,NA,unrelated,DEAF,4,4
+EG,PURPOSE,8001.125,Studied,22,2,Recalled,NA,"6,1",Related,INTENT,PURPOSE,INTENT,related,INTENT,6,2
+EG,DRAW,8002.26,Studied,37,2,Recalled,Identical,12,Unrelated,BEHIND,NA,NA,identical,DRAW,11,2
+EG,PENCIL,8001.785,Studied,15,4,Recalled,NA,23,Related,TELLER,BANK,NA,unrelated,TELLER,23,4
+EG,WARM,7993.17,Studied,19,1,Recalled,NA,6,Unrelated,WINTER,NA,NA,unrelated,WINTER,6,1
+EG,WATER,8001.955,Studied,19,4,Recalled,NA,24,Identical,MAID,NA,NA,unrelated,MAID,24,4
+EG,FIRE,8001.755,Studied,37,4,Recalled,Identical,17,Unrelated,TRAIN,NA,NA,identical,FIRE,15,4
+EG,SEARCH,8001.08,Not Studied,NA,NA,NotRecalled,Related,NA,NA,NA,NA,NA,identical,SEARCH,5,1
+EG,FRONT,8001.835,Studied,17,4,Recalled,NA,21,Related,GREET,HELLO,NA,unrelated,GREET,21,4
+EG,TOOL,7991.28,Studied,24,2,Recalled,Identical,"16,20",Related,SILENCE,QUIET,NA,identical,TOOL,8,2
+EG,CEILI,8001.525,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,CEILING,9,1
+EG,CEILING,8000.825,Not Studied,NA,NA,Recalled,Related,19,Unrelated,PURPLE,NA,NA,identical,CEILING,9,1
+EG,SCISSOR,7999.3,Studied,NA,NA,Recalled,NA,18,Unrelated,OFFICE,NA,NA,unrelated,OFFICE,18,2
+EG,BLANKET,8001.44,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,SLEEP,8018.58,Studied,21,4,Recalled,NA,13,Unrelated,NOISE,NA,NA,unrelated,NOISE,13,4
+EG,,8003.26,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,STRANGE,7999,Studied,35,1,Recalled,NA,8,Related,GOURMET,FOOD,NA,unrelated,GOURMET,8,1
+EG,,8005.55,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,MILK,8002.745,Studied,4,3,Recalled,NA,19,Related,DUMB,STUPID,NA,unrelated,DUMB,19,3
+EG,THIN,8000.185,Studied,2,2,Recalled,NA,4,Unrelated,HORSE,NA,NA,unrelated,HORSE,4,2
+EG,STRIPE,8001.715,Studied,9,2,Recalled,NA,9,Related,DEEP,SHALLOW,NA,unrelated,DEEP,9,2
+EG,,8002.195,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,7999.725,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,LOVE,8000.7,Studied,2,1,Recalled,Identical,NA,NA,NA,NA,NA,firstword,,,
+EG,PLAN,8002.31,Studied,1,4,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+EG,CHOOSE,7991.38,Studied,4,1,Recalled,NA,3,Unrelated,BUCKET,NA,NA,unrelated,BUCKET,3,1
+EG,TAKE,8001.325,Studied,22,1,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,8002.755,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,8004.715,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,SKIN,8004.545,Studied,42,3,Recalled,NA,4,Related,CITY,TOWN,NA,unrelated,CITY,4,3
+EG,,7991.975,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,7999.66,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,7999.345,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,7998.595,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,7989.595,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,7999.15,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,AWAY,8000.205,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,8000.895,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,7998.675,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,8000.955,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,7999.28,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,8000.775,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,7998.43,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,7999.135,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,PAUSE,8003.775,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,7999.245,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,7999.435,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,8007.335,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,PILE,8000.39,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,8003.595,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,7999.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,8001.155,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,7989.13,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,8000.17,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,7989.17,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,8000.475,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,7998.84,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,8000.65,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,8001.435,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,8002.625,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,8000.83,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,CRAZY,8001.01,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,SAVE,8000.77,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,HAVE,8000.58,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,7999.34,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,7999.925,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+EG,,6682.865,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

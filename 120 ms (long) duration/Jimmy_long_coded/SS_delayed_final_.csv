@@ -1,0 +1,7 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+SS,TOUCH,3067.37,Studied,6,1,Recalled,NA,3,Related,LEGS,ARMS,NA,unrelated,,,
+SS,KNIT,1865.575,Studied,5,1,Recalled,NA,4,Unrelated,WEIGHT,NA,NA,unrelated,,,
+SS,YEAR,1084.54,Studied,4,3,Recalled,NA,8,Identical,LAUGH,NA,NA,unrelated,,,
+SS,SWORD,1817.24,Studied,5,3,Recalled,NA,9,Related,CHALK,BOARD,NA,unrelated,,,
+SS,MINDBLANK,8001.075,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+SS,SWING,4866.9,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

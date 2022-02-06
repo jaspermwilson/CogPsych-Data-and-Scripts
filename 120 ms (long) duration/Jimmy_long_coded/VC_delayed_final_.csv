@@ -1,0 +1,3 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+VC,SILVER,1642.68,Studied,27,1,Recalled,Identical,6,Unrelated,ENTER,NA,NA,identical,silver,3,1
+VC,BREAD,3298.915,Studied,5,2,Recalled,NA,9,Unrelated,CRACKER,NA,NA,unrelated,,,

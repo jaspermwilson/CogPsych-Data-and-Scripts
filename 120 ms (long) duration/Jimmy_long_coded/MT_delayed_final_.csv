@@ -1,0 +1,11 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+MT,WRECK,5035.215,Practice,NA,NA,Recalled,NA,3,Related,GLUE,STICKY,NA,unrelated,,,
+MT,ANNOY,2322.465,Studied,9,2,Recalled,NA,"4,11",Identical,REAL,NA,NA,unrelated,,,
+MT,SHERIFF,4633.965,Studied,8,2,Recalled,NA,19,Related,DEPUTY,SHERIFF,DEPUTY,related,deputy,19,2
+MT,SPIT,1533.77,Studied,10,2,Recalled,Identical,12,Identical,SPIT,NA,NA,identical,spit,12,2
+MT,EXTEND,4751.66,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+MT,SHEEP,2698.275,Studied,8,3,Recalled,Identical,12,Identical,WRITE,NA,NA,identical,sheep,11,3
+MT,CONVEY,8002.185,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+MT,PLANE,3450.805,Studied,NA,NA,Recalled,NA,5,Identical,TRAILER,NA,NA,unrelated,,,
+MT,RAIN,3366.29,Studied,5,2,Recalled,NA,6,Identical,SHALLOW,NA,NA,unrelated,,,
+MT,PUNISH,6101.865,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

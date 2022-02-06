@@ -1,0 +1,58 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+ZP,STINK,8007.29,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,MATH,4952.44,Studied,25,1,Recalled,NA,"7,20",Unrelated,FLOWER,NA,NA,unrelated,,,
+ZP,CLASS,3318.12,Studied,12,1,Recalled,NA,6,Related,SESSION,CLASS,SESSION,related,session,6,1
+ZP,HATE,1466.675,Studied,1,4,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+ZP,SCISSORS,2265.775,Studied,3,4,Recalled,NA,2,Identical,TRAILER,NA,NA,unrelated,,,
+ZP,STRIPE,2417.51,Studied,7,4,Recalled,Identical,17,Identical,STRIPE,NA,NA,unrelated,,,
+ZP,HARD,7020.285,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,soft,16,2
+ZP,SOFT,1533.68,Studied,19,2,Recalled,NA,16,Related,MOAT,CASTLE,NA,unrelated,,,
+ZP,LONG,2517.255,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,SHORT,1554.415,Not Studied,NA,NA,Recalled,Unrelated,20,Unrelated,SHORT,NA,NA,identical,short,20,4
+ZP,STICKY,4466.39,Studied,4,3,Recalled,NA,35,Related,GLUE,STICKY,GLUE,related,glue,35,3
+ZP,PANTS,5670.285,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,DRESS,4671.465,Studied,32,3,Recalled,NA,18,Related,GOWN,DRESS,GOWN,related,gown,18,3
+ZP,EXPLOSION,2773.9,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,EXPLODE,2784.965,Studied,34,1,Recalled,NA,"27,39",Related,IMPLODE,EXPLODE,IMPLODE,related,implode,27,1
+ZP,D,7993.755,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,DESTRUCTION,2301.11,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,CAR,903.3899999,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,DEATH,5155.925,Studied,15,4,Recalled,NA,37,Unrelated,CANCER,NA,NA,unrelated,,,
+ZP,MORE,5809.32,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,FOOD,1116.92,Studied,19,3,Recalled,NA,27,Identical,DESERT,NA,GOURMET,related,gourmet,26,3
+ZP,FRIENDS,6070.46,Not Studied,NA,NA,Recalled,NA,14,Identical,STRANGE,NA,NA,unrelated,,,
+ZP,STREET,6070.13,Studied,42,3,Recalled,NA,10,Related,CLARIFY,CLEAR,NA,unrelated,,,
+ZP,BREAD,1600.155,Studied,29,1,Recalled,NA,"9,29",Identical,BIKE,NA,NA,unrelated,,,
+ZP,HEAD,2130.715,Studied,3,1,Recalled,NA,3,Unrelated,NICKEL,NA,NA,unrelated,,,
+ZP,EAR,1056.28,Not Studied,NA,NA,Recalled,NA,33,Identical,NECK,NA,NA,unrelated,,,
+ZP,HEAR,1468.155,Studied,5,3,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,CAT,7990.215,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,LONG,6910.44,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,BECAUSE,8004.245,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,SORRY,1489.855,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,U,8055.065,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,HUT,8003.835,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,FAST,8005.37,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,slow,28,3
+ZP,WRONG,7991.385,Studied,6,4,Recalled,NA,4,Unrelated,CORAL,NA,NA,unrelated,,,
+ZP,OVEN,7991.345,Studied,29,2,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,oven,5,2
+ZP,BEFORE,7990.245,Not Studied,NA,NA,NotRecalled,Unrelated,NA,NA,NA,NA,NA,identical,before,13,4
+ZP,AFTER,7989.665,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,before,13,4
+ZP,COLD,8002.805,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,HOT,1096.385,Not Studied,NA,NA,Recalled,NA,38,Identical,FIRE,NA,NA,unrelated,,,
+ZP,WARM,1534.17,Studied,14,3,Recalled,NA,13,Unrelated,READ,NA,NA,unrelated,,,
+ZP,NINE,4551.82,Studied,26,2,Recalled,NA,NA,NA,NA,NA,EIGHT,related,eight,11,2
+ZP,ME,5066.905,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,YOU,3771.155,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,ARGUMENT,2300.01,Not Studied,NA,NA,Recalled,NA,15,Identical,DRAW,NA,NA,unrelated,,,
+ZP,FORGIVE,2500.55,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,FRESH,8004.61,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,SPRINT,1915.505,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,RUN,985.41,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,JOG,2700.195,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,ARM,4178.035,Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,related,legs,24,1
+ZP,LEG,2553.75,Not Studied,NA,NA,Recalled,NA,NA,NA,NA,NA,NA,identical,legs,24,1
+ZP,BORING,2582.88,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,SCISSORS,3839.6,Studied,3,4,Recalled,NA,2,Identical,TRAILER,NA,NA,unrelated,,,
+ZP,SHARP,5524.49,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,LOG,4373.33,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+ZP,TR,5347.975,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,

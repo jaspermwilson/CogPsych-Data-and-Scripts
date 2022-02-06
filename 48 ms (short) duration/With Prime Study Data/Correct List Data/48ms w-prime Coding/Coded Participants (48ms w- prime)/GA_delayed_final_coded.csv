@@ -1,0 +1,101 @@
+Participant,DelayedWord,DelayedRT,Studied,StudyPosition,Block,RecalledonDay1,ReportedPrimeFromDay1,Day1OutputPosition,Day1PrimeCondition,Day1Prime,Day1PrimeFor,RelatedPrimePresentedonDay1,ActualPrimeCondition,Prime,PrimePosition,PrimeBlock
+GA,COLONY,4200.71,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,BALL,5716.97,Studied,NA,NA,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+GA,CHOOSE,2533.81,Studied,36,2,NotRecalled,NA,NA,NA,NA,NA,PICK,related,PICK,26,2
+GA,GAME,951.035,Studied,37,2,NotRecalled,NA,NA,NA,NA,NA,CHESS,related,CHESS,5,2
+GA,WATER,1250.31,Studied,2,1,Recalled,NA,5,Identical,ENGLISH,NA,NA,unrelated,ENGLISH,5,1
+GA,FUNERAL,2116.27,Practice,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,VOTE,3166.6,Studied,17,3,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,VOTE,35,3
+GA,SCISSORS,1616.32,Studied,15,3,Recalled,NA,15,Identical,SHERIFF,NA,NA,unrelated,SHERIFF,15,3
+GA,DEATH,2467.29,Studied,10,3,Recalled,Identical,NA,NA,NA,NA,NA,unrelated,TEETH,10,3
+GA,ANNOY,4367.83,Studied,1,3,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+GA,OVEN,1766.955,Studied,7,1,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,OVEN,3,1
+GA,LOSE,2717.405,Studied,31,2,Recalled,NA,18,Related,LISTEN,HEAR,GAIN,related,GAIN,15,2
+GA,CHURCH,2734.52,Studied,1,2,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+GA,POLE,3817.525,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,BREAD,2200.735,Studied,41,4,Recalled,NA,18,Unrelated,CRACKER,NA,LOAF,related,LOAF,4,4
+GA,STEAL,1032.445,Studied,42,4,Recalled,Identical,19,Identical,RULE,NA,NA,identical,STEAL,7,4
+GA,KNIT,2983.08,Studied,8,4,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,KNIT,40,4
+GA,RUN,901.28,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,SOFT,850.18,Studied,38,1,Recalled,NA,12,Identical,EFFECT,NA,NA,unrelated,EFFECT,12,1
+GA,HARD,851.29,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,related,SOFT,12,1
+GA,TRAILER,1450.46,Studied,21,3,Recalled,NA,21,Related,AIRPORT,PLANE ,NA,unrelated,AIRPORT,21,3
+GA,KID,1482.01,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,GOLD,2399.45,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,DRINK,1233.555,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,FOOD,1019.605,Studied,20,2,Recalled,NA,9,Related,SALAD,LETTUCE,NA,unrelated,SALAD,9,2
+GA,GLASSES,2114.9,Studied,8,1,NotRecalled,NA,NA,NA,NA,NA,LENS,related,LENS,21,1
+GA,MAID,998.685,Studied,13,1,Recalled,NA,6,Related,MEDIUM,LARGE,NA,unrelated,MEDIUM,6,1
+GA,MAD,567.8,Studied,35,1,Recalled,NA,7,Related,TWICE,ONCE,NA,unrelated,TWICE,7,1
+GA,PENNY,3249.24,Studied,3,4,Recalled,NA,4,Related,LOAF,BREAD,NA,unrelated,LOAF,4,4
+GA,STUPID,1098.995,Studied,1,4,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+GA,STRESS,1067.68,Studied,2,4,Recalled,NA,2,Related,LADDER,CLIMB,NA,unrelated,LADDER,2,4
+GA,EXCUSE,6415.805,Studied,4,3,Recalled,NA,4,Unrelated,CLOCK,NA,NA,unrelated,CLOCK,4,3
+GA,ONCE,3716.07,Studied,27,1,NotRecalled,NA,NA,NA,NA,NA,TWICE,related,TWICE,7,1
+GA,COUGH,3049.43,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,HELLO,2369.495,Studied,40,1,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,HELLO,26,1
+GA,LEAVE,2083.175,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,BUSH,3137.935,Studied,30,3,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,BUSH,25,3
+GA,DISAGREE,2917.19,Studied,26,3,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,DISAGREE,30,3
+GA,DRUGS,2200.735,Studied,13,3,Recalled,NA,14,Related,ADDICT,DRUGS,ADDICT,related,ADDICT,14,3
+GA,RAIN,1384.415,Studied,12,3,Recalled,NA,13,Related,INTENT,PURPOSE,NA,unrelated,INTENT,13,3
+GA,DOCTOR,3165.98,Studied,4,4,Recalled,NA,3,Unrelated,DAGGER,NA,NA,unrelated,DAGGER,3,4
+GA,NURSE,1252.27,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,SPOTS,1133.5,Studied,24,4,Recalled,NA,16,Unrelated,NEPHEW,NA,NA,unrelated,NEPHEW,16,4
+GA,ENGLISH,2251.305,Studied,39,1,Recalled,Identical,9,Related,SCHEME,PLAN,NA,identical,ENGLISH,5,1
+GA,SCIENCE,2748.625,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,LETTUCE,2318.125,Studied,25,2,Recalled,NA,14,Unrelated,WINTER,NA,SALAD,related,SALAD,9,2
+GA,CLASS,3149.415,Studied,11,4,Recalled,NA,12,Unrelated,TWELVE,NA,NA,unrelated,TWELVE,12,4
+GA,CELL,1015.655,Studied,12,4,Recalled,NA,13,Unrelated,RIGHT,NA,NA,unrelated,RIGHT,13,4
+GA,TOOTH,999.715,Studied,13,4,Recalled,NA,14,Related,BENEATH,UNDER,NA,unrelated,BENEATH,14,4
+GA,HAIR,769.67,Studied,39,2,NotRecalled,NA,NA,NA,NA,NA,LICE,related,LICE,2,2
+GA,LIGHT,2768.265,Studied,20,4,Recalled,NA,8,Identical,BRAIN,NA,NA,unrelated,SHIRT,10,4
+GA,IDK,2600.255,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,COMPUTER,2932.99,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,PLAN,1899.375,Studied,12,1,NotRecalled,NA,NA,NA,NA,NA,SCHEME,related,SCHEME,9,1
+GA,TEST,1199.545,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,IDK,2916.925,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,,8001.7,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,MUSIC,3151.43,Studied,NA,NA,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,MUSIC,13,2
+GA,DANCE,916.145,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,THEATRE,1885.195,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,MOVIE,1702.07,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,PACKAGE,5951.005,Studied,7,3,Recalled,NA,7,Identical,POTATO,NA,NA,unrelated,POTATO,7,3
+GA,MAIL,916.925,Not Studied,NA,NA,NotRecalled,Related,NA,NA,NA,NA,NA,identical,MAIL,36,1
+GA,,8000.11,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,,7999.335,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,,8000.92,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,HELP,6369.415,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,WORD,5867.905,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,,7999.395,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,,7999.66,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,,8002.36,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,MAYBE,7000.65,Studied,19,2,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,MAYBE,19,2
+GA,SCHOOL,3584.605,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,EARTHQUAKE,6283.3,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,LOSE,3583.285,Studied,31,2,Recalled,NA,18,Related,LISTEN,HEAR,GAIN,unrelated,GAIN,15,2
+GA,FIND,733.085,Studied,30,2,NotRecalled,NA,NA,NA,NA,NA,SEARCH,related,SEARCH,6,2
+GA,TREASURE,2665.47,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,COIN,1367.535,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,MONEY,2301.55,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,MANY,4548.63,Studied,3,3,Recalled,NA,33,Unrelated,THROW,NA,NA,unrelated,THROW,33,3
+GA,POTATO,5182.425,Studied,32,3,Recalled,Identical,22,Related,ZEBRA,STRIPE,NA,identical,POTATO,7,3
+GA,,8000.825,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,,7998.965,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,,8000.5,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,,7999.28,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,,8001.705,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,,8001.745,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,,8000.68,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,,8001.065,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,,7999.705,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,,8000.81,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,,8000.57,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,,8001.565,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,,8000.05,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,,8000.68,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,HELLO,5186.175,Studied,40,1,NotRecalled,Identical,NA,NA,NA,NA,NA,identical,HELLO,26,1
+GA,GOODBYE,4051.47,Not Studied,NA,NA,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,SING,2350.585,Studied,18,2,NotRecalled,NA,NA,NA,NA,NA,NA,unprimed,,,
+GA,ANNOY,2882.225,Studied,1,3,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
+GA,STUPID,4070.565,Studied,1,4,Recalled,NA,1,firstword,firstword,NA,NA,firstword,,,
