@@ -3,7 +3,7 @@
 
  **User Guide**
 
- In this guide <DURATION> will stand in for the four different possible durations (48, 64, 120, 500) that can either take the form of "48 ms (short)" or just "48".
+ In this guide 'DURATION' will stand in for the four different possible durations (48, 64, 120, 500) that can either take the form of "48 ms (short)" or just "48".
 
  **Files:**
 
@@ -15,4 +15,4 @@
 
  **Directories**
 
- *<DURATION> duration*:
+ *'DURATION' duration*:
