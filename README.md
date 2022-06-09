@@ -1,5 +1,5 @@
 # CogPsych-Data-and-Scripts
- Data and analysis for semantic prime study done by the WashU Cog Psych
+Data and analysis for semantic prime study done by the WashU Cognitive Psychology Laboritory. These scripts were written by Jasper Wilson but the raw data belongs to Washington University in St. Louis.
 
 **User Guide**
 
